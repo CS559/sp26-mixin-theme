@@ -1,0 +1,18 @@
+{{- $key := .Get 0 -}}
+{{- with resources.Get "pages.csv" }}
+    {{- $csv := . | transform.Unmarshal  (dict "targetType" "map")}}
+    {{- $entry := "" -}}
+    {{- range $csv -}}
+        {{- if eq (index . "key") $key -}}
+            {{- $entry = . -}}
+        {{- end -}}
+    {{- end -}}
+    {{- with $entry -}}
+        {{- $url := index . "url" -}}
+        {{- $name := index . "name" | default $url -}}
+        {{- $altname := $.Get 1 | default $name -}}
+        <a href="{{ $url }}" target="_blank">{{- $altname -}}</a>
+    {{- else -}}
+        {{- errorf "Page Key %s not found in pages.csv" $key -}}
+    {{- end -}}
+{{- end -}}
