@@ -89,13 +89,13 @@
   {{- /* Construct the time-specific link */ -}}
   {{- $videoLink := printf "%s?st=%d" $videoBaseUrl (int $startSeconds) -}}
 
-  <div>
-    <a href="{{ $videoLink }}">{{ $concept.name }}</a> {{ $timeRangeStr }}
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; margin: 10px 0;">
+    <a href="{{ $videoLink }}">2023 Video Clip: {{ $concept.name }}</a> {{ $timeRangeStr }}
     <br>
-    <a href="{{ $videoBaseUrl }}">{{ $videoId }}</a>
+    Part of 2023 <a href="{{ $videoBaseUrl }}">{{ $videoId }}</a>
     |
     <a href="{{ $slideUrl }}">Slides</a>
-  </div>
+</div>
 {{- else -}}
   <div style="color: red;">
     Video Concept "{{ $conceptName }}" not found within course outline.
