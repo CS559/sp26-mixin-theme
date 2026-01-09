@@ -1,16 +1,41 @@
+{{/*
+    Shortcode: video23
+    Description:
+    This shortcode takes a single parameter (a concept name from sp23_topic_outline.toml).
+    It looks up the concept, finds its video and timestamp, and calculates the duration based on the next concept's timestamp.
+    It renders a div with:
+    - A link to the specific time in the video.
+    - The time range and duration of the segment [Start - End (Duration mins)].
+    - A link to the full lecture video.
+    - A link to the slides for the lecture.
+
+    Original Prompt:
+    write the video23 shortcode. it takes a single parameter that is the name of a concept is sp23_topic_outline. It creates a link to that specific concept by finding a link to the lecture in the video_links section and appending the start time. an example of a link is "https://mediaspace.wisc.edu/media/t/1_s4rrdsmv?st=3566". The last number is the start time in seconds, which much be converted from the HH:MM:SS format in the timestamp field. 
+    the shortcode should build a div element that has a link to the specific time. but it should also have a link to the beginning of the lecture (naming the lecture) and a link to the slides for that lecture.
+*/}}
 {{- $conceptName := .Get 0 -}}
 {{- $data := .Site.Data.sp23_topic_outline -}}
 {{- $found := false -}}
 {{- $concept := dict -}}
 {{- $videoId := "" -}}
+{{- $nextConcept := dict -}}
+{{- $hasNext := false -}}
 
 {{- range $data.weeks -}}
   {{- range .topics -}}
-    {{- range .concepts -}}
-      {{- if and (eq .name $conceptName) (not $found) -}}
-        {{- $concept = . -}}
-        {{- $videoId = .video_id -}}
+    {{- $topicConcepts := .concepts -}}
+    {{- range $index, $c := $topicConcepts -}}
+      {{- if and (eq $c.name $conceptName) (not $found) -}}
+        {{- $concept = $c -}}
+        {{- $videoId = $c.video_id -}}
         {{- $found = true -}}
+        {{- if lt (add $index 1) (len $topicConcepts) -}}
+            {{- $nc := index $topicConcepts (add $index 1) -}}
+            {{- if eq $nc.video_id $videoId -}}
+                {{- $nextConcept = $nc -}}
+                {{- $hasNext = true -}}
+            {{- end -}}
+        {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -20,25 +45,52 @@
   {{- $videoBaseUrl := index $data.video_links $videoId -}}
   {{- $slideUrl := index $data.slide_links $videoId -}}
 
-  {{- /* Convert timestamp to seconds */ -}}
-  {{- $parts := split $concept.timestamp ":" -}}
-  {{- $seconds := 0.0 -}}
-  {{- if eq (len $parts) 3 -}}
-    {{- $h := float (index $parts 0) -}}
-    {{- $m := float (index $parts 1) -}}
-    {{- $s := float (index $parts 2) -}}
-    {{- $seconds = add (mul $h 3600) (add (mul $m 60) $s) -}}
-  {{- else if eq (len $parts) 2 -}}
-    {{- $m := float (index $parts 0) -}}
-    {{- $s := float (index $parts 1) -}}
-    {{- $seconds = add (mul $m 60) $s -}}
+  {{- /* Convert start timestamp to seconds */ -}}
+  {{- $startParts := split $concept.timestamp ":" -}}
+  {{- $startSeconds := 0.0 -}}
+  {{- if eq (len $startParts) 3 -}}
+    {{- $h := float (index $startParts 0) -}}
+    {{- $m := float (index $startParts 1) -}}
+    {{- $s := float (index $startParts 2) -}}
+    {{- $startSeconds = add (mul $h 3600) (add (mul $m 60) $s) -}}
+  {{- else if eq (len $startParts) 2 -}}
+    {{- $m := float (index $startParts 0) -}}
+    {{- $s := float (index $startParts 1) -}} 
+    {{- $startSeconds = add (mul $m 60) $s -}}
+  {{- end -}}
+
+  {{- $timeRangeStr := "" -}}
+  
+  {{- if $hasNext -}}
+      {{- /* Convert end timestamp to seconds */ -}}
+      {{- $endParts := split $nextConcept.timestamp ":" -}}
+      {{- $endSeconds := 0.0 -}}
+      {{- if eq (len $endParts) 3 -}}
+        {{- $h := float (index $endParts 0) -}}
+        {{- $m := float (index $endParts 1) -}}
+        {{- $s := float (index $endParts 2) -}}
+        {{- $endSeconds = add (mul $h 3600) (add (mul $m 60) $s) -}}
+      {{- else if eq (len $endParts) 2 -}}
+        {{- $m := float (index $endParts 0) -}}
+        {{- $s := float (index $endParts 1) -}}
+        {{- $endSeconds = add (mul $m 60) $s -}}
+      {{- end -}}
+      
+      {{- $durationMins := div (sub $endSeconds $startSeconds) 60.0 -}}
+      {{- $startDisplay := printf "%d:%02d" (int (div $startSeconds 60)) (int (mod (int $startSeconds) 60)) -}}
+      {{- $endDisplay := printf "%d:%02d" (int (div $endSeconds 60)) (int (mod (int $endSeconds) 60)) -}}
+      {{- $durDisplay := printf "%.1f" $durationMins -}}
+      {{- $timeRangeStr = printf "[%s - %s (%s mins)]" $startDisplay $endDisplay $durDisplay -}}
+  {{- else -}}
+      {{- $startDisplay := printf "%d:%02d" (int (div $startSeconds 60)) (int (mod (int $startSeconds) 60)) -}}
+      {{- $timeRangeStr = printf "[%s]" $startDisplay -}}
   {{- end -}}
 
   {{- /* Construct the time-specific link */ -}}
-  {{- $videoLink := printf "%s?st=%d" $videoBaseUrl (int $seconds) -}}
+  {{- $videoLink := printf "%s?st=%d" $videoBaseUrl (int $startSeconds) -}}
 
   <div>
-    <a href="{{ $videoLink }}">{{ $concept.name }}</a>
+    <a href="{{ $videoLink }}">{{ $concept.name }}</a> {{ $timeRangeStr }}
     <br>
     <a href="{{ $videoBaseUrl }}">{{ $videoId }}</a>
     |
