@@ -1,0 +1,1771 @@
+# weeks: Heading level 1
+# weeks.topics: Heading level 2
+# weeks.topics.concepts: Heading level 3
+
+# video_links: links of video_ids
+
+################################
+[[weeks]]
+name = "Week 1 (1/23 - 1/27)"
+
+  [[weeks.topics]]
+    name = "[Tue 1/24] Welcome"
+
+      [[weeks.topics.video_ids]]
+      video_id = "Lecture 1"
+      [[weeks.topics.slide_ids]]
+      slide_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "Lectures in Zoom: emojis, polls, chat, slides"
+      timestamp = "02:44"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "What is Computer Graphics?"
+      timestamp = "25:09"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "Course Goals"
+      timestamp = "31:05"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "Learning JavaScript"
+      timestamp = "45:46"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "Course Webs and Tools"
+      timestamp = "53:33"
+      video_id = "Lecture 1"
+      
+      [[weeks.topics.concepts]]
+      name = "Course Staff and Getting Help"
+      timestamp = "59:26"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "The Weekly Rhythm (Assignments, Lectures, Grading, and Resources)"
+      timestamp = "1:05:48"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "Summary"
+      timestamp = "1:11:26"
+      video_id = "Lecture 1"
+
+      [[weeks.topics.concepts]]
+      name = "End/Questions"
+      timestamp = "1:11:59"
+      video_id = "Lecture 1"
+      
+  [[weeks.topics]]
+    name = "[Thu 1/26] Pre-Graphics"
+
+      [[weeks.topics.video_ids]]
+      video_id = "Lecture 2"
+      [[weeks.topics.slide_ids]]
+      slide_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Using Live Server"
+      timestamp = "06:02"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Advice on Learning JavaScript"
+      timestamp = "12:30"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Variables, conditionals, and loops"
+      timestamp = "18:10"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Object Orientation in JS"
+      timestamp = "27:03"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Functions in JS"
+      timestamp = "31:44"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Functions and Lexical Scope"
+      timestamp = "42:49"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "Intro to Web Pages"
+      timestamp = "51:50"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
+      name = "When will JS run?"
+      timestamp = "1:05:06"
+      video_id = "Lecture 2"
+
+  ############## Extra lectures ##############
+  [[weeks.topics]]
+    name = "Closures"
+
+      [[weeks.topics.video_ids]]
+      video_id = "Closures"
+      [[weeks.topics.slide_ids]]
+      slide_id = "Closures"
+
+  [[weeks.topics]]
+    name = "Git Help"
+
+      [[weeks.topics.video_ids]]
+      video_id = "Git Part A"
+      [[weeks.topics.video_ids]]
+      video_id = "Git Part B"
+      [[weeks.topics.slide_ids]]
+      slide_id = "Git Part A"
+      [[weeks.topics.slide_ids]]
+      slide_id = "Git Part B"
+
+  [[weeks.topics]]
+    name = "JS Tips of the Day"
+
+      [[weeks.topics.video_ids]]
+      video_id = "JS Tips"
+      [[weeks.topics.slide_ids]]
+      slide_id = "JS Tips"
+
+[[weeks]]
+name = "Week 2 (1/30 - 2/3)"
+
+  [[weeks.topics]]
+    name = "[Tue 1/31] Graphics and Web Graphics 101"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 3"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "How do we see?"
+    timestamp = "02:20"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "How computers create images"
+    timestamp = "11:40"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "Drawing Shapes on Web Pages"
+    timestamp = "20:35"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "The Canvas Element"
+    timestamp = "24:39"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "When do I draw?"
+    timestamp = "35:38"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "Where do I draw?"
+    timestamp = "45:16"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "Paths and the Pen Model"
+    timestamp = "55:55"
+    video_id = "Lecture 3"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "1:07:39"
+    video_id = "Lecture 3"
+
+  [[weeks.topics]]
+    name = "[Thurs 2/2] More Basic Graphics and Web Graphics"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 4"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Buffering and Making Motion Believable"
+    timestamp = "02:32"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Back to the Pen Model"
+    timestamp = "27:27"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Determining how to fill a shape (Even/Odd)"
+    timestamp = "36:05"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Winding (Non-zero) Method"
+    timestamp = "41:57"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Drawing Summary, About Canvas Positioning"
+    timestamp = "48:56"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Event Handling"
+    timestamp = "54:12"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Demo"
+    timestamp = "01:07:19"
+    video_id = "Lecture 4"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:14:37"
+    video_id = "Lecture 4"
+
+[[weeks]]
+name = "Week 3 (2/6 - 2/10)"
+
+  [[weeks.topics]]
+    name = "[Tue 2/7] Transformations 1"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 5"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:01:38"
+    video_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Visualizing Transformations"
+    timestamp = "00:06:16.00"
+    video_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Return of Lecture"
+    timestamp = "00:14:32"
+    video_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Instancing"
+    timestamp = "00:23:03"
+    video_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Types of Transformations"
+    timestamp = "00:31:57"
+    video_id = "Lecture 5"
+
+    [[weeks.topics.concepts]]
+    name = "Points of Scaling/Rotation"
+    timestamp = "00:50:55"
+    video_id = "Lecture 5"
+
+  [[weeks.topics]]
+    name = "[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 6"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "0:00:42"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Sequences of Transformations, Non-Uniform Scaling"
+    timestamp = "0:08:34"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Skew"
+    timestamp = "0:18:33"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Hierarchy and Chaining"
+    timestamp = "0:20:37"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "A \"Tree of Parts\""
+    timestamp = "0:36:56"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Structured SVG"
+    timestamp = "0:48:45"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "Reusing Assets"
+    timestamp = "1:00:12"
+    video_id = "Lecture 6"
+
+    [[weeks.topics.concepts]]
+    name = "SVG vs Canvas"
+    timestamp = "1:10:25"
+    video_id = "Lecture 6"
+
+[[weeks]]
+name = "Week 4 (2/13 - 2/17)"
+
+  [[weeks.topics]]
+    name = "[Tue 2/14] Transformation Math"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 7"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "About Transformations and Coordinate Systems"
+    timestamp = "00:03:49"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Vectors and Points"
+    timestamp = "00:13:05"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Matrix Math"
+    timestamp = "00:20:36"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Transformations are Functions"
+    timestamp = "00:33:41"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Affine Transforms Across Dimensions"
+    timestamp = "00:43:17"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Non-Affine Matrices in 3D"
+    timestamp = "00:53:50"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "How APIs do this Math"
+    timestamp = "00:59:25"
+    video_id = "Lecture 7"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:07:29"
+    video_id = "Lecture 7"
+
+
+  [[weeks.topics]]
+    name = "[Thu 2/16] More Transformation Math"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 8"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Review"
+    timestamp = "00:02:46"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Intepretation of Transformation in SVG"
+    timestamp = "00:12:02"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Composition of Transformation"
+    timestamp = "00:15:41"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Order changing example"
+    timestamp = "00:21:14"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Affine as Linear"
+    timestamp = "00:26:48"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "What about rotation"
+    timestamp = "00:38:15"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Linear Interpolation and Matrices"
+    timestamp = "00:52:07"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Use of Rotations: Boids"
+    timestamp = "01:00:43"
+    video_id = "Lecture 8"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:13:48"
+    video_id = "Lecture 8"
+
+[[weeks]]
+name = "Week 5 (2/20 - 2/24)"
+
+  [[weeks.topics]]
+    name = "[Tue 2/21] Curves 1"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 9"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda and Introduction to Curves"
+    timestamp = "00:02:03"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Curve Representations"
+    timestamp = "00:09:36"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "The Free Parameter"
+    timestamp = "00:20:43"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Approximating Curves"
+    timestamp = "00:29:34"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Mathematically Defining Continuity"
+    timestamp = "00:37:11"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Continuity With Arcs"
+    timestamp = "00:49:23"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Piecewise Parametrization of a Curve"
+    timestamp = "00:57:40"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "A Line as a Parametric Polynomial"
+    timestamp = "01:03:40"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:12:49"
+    video_id = "Lecture 9"
+
+  [[weeks.topics]]
+    name = "[Thu 2/23] Curves 2"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 10"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:01:53"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Basis Functions"
+    timestamp = "00:13:22"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Using Basis Functions to Make a Curve"
+    timestamp = "00:21:14"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Hermite Form"
+    timestamp = "00:25:14"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Cardinal Splines"
+    timestamp = "00:35:12"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "What To Do With 3 Points"
+    timestamp = "00:48:10"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Bezier Curves"
+    timestamp = "00:52:41.0"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "De Castlejau Construction"
+    timestamp = "00:58:23"
+    video_id = "Lecture 10"
+
+    [[weeks.topics.concepts]]
+    name = "Wiggle Theorem and Crossing Property"
+    timestamp = "01:11:36"
+    video_id = "Lecture 10"
+
+[[weeks]]
+name = "Week 6 (2/27 - 3/3)"
+
+  [[weeks.topics]]
+    name = "[Tue 2/28] Curves 3"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 11"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Important Notes About Curves"
+    timestamp = "00:01:28"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Cardinal Interpolation and Bezier Curves"
+    timestamp = "00:08:51"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "The Train Assignment"
+    timestamp = "00:20:59"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Arc Length"
+    timestamp = "00:33:15"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "TCB Curves (Fancy Cardinals)"
+    timestamp = "00:41:48"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Good and Bad of Beziers"
+    timestamp = "00:46:41"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Polynomial Curves"
+    timestamp = "00:51:46"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "B-Splines"
+    timestamp = "00:56:18"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Thinking in Basis Functions"
+    timestamp = "01:08:20"
+    video_id = "Lecture 11"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:14:58"
+    video_id = "Lecture 11"
+
+  [[weeks.topics]]
+    name = "[Thu 3/2] Intro to 3D and Three"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 12"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "These are Small, Those are Far Away"
+    timestamp = "00:01:40"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Key Concepts in 3D"
+    timestamp = "00:09:05"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Showing 3D Objects in a 2D Plane"
+    timestamp = "00:15:47"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Components of a 3D Scene and Program"
+    timestamp = "00:25:38"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Concepts in THREE.JS"
+    timestamp = "00:30:22"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Getting Started in THREE.JS"
+    timestamp = "00:38:22"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "A THREE.JS Program"
+    timestamp = "00:46:48"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Materials in THREE.JS"
+    timestamp = "00:53:53"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Naming Conventions"
+    timestamp = "00:56:23"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Naming Conventions"
+    timestamp = "00:56:23"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "Transformations in 3D"
+    timestamp = "01:00:00"
+    video_id = "Lecture 12"
+
+    [[weeks.topics.concepts]]
+    name = "The 3D Camera"
+    timestamp = "01:04:32"
+    video_id = "Lecture 12"
+
+[[weeks]]
+name = "Week 7 (3/6 - 3/10)"
+
+  [[weeks.topics]]
+    name = "[Tue 3/7] More 3D and Three"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 13"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Review of 3D Fundamentals"
+    timestamp = "00:03:09"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Triangles, Normals, Barycentric Interpolation"
+    timestamp = "00:10:30"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Surfaces vs Volumes"
+    timestamp = "00:15:49"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Coordinates in 3D"
+    timestamp = "00:25:23"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Example 3D Scene"
+    timestamp = "00:30:38"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Camera Coordinate System"
+    timestamp = "00:47:29"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "How THREE Stores Attributes"
+    timestamp = "00:51:43"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Scale in THREE"
+    timestamp = "01:03:03"
+    video_id = "Lecture 13"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "1:05:15"
+    video_id = "Lecture 13"
+
+  [[weeks.topics]]
+    name = "[Thu 3/9] Cameras Lights"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 14"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "State vs Transformations"
+    timestamp = "0:03:11"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Center of Rotation and Examples"
+    timestamp = "0:08:45"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "The Camera in THREE"
+    timestamp = "0:19:43"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Key Concepts About the 3D Camera"
+    timestamp = "0:32:38"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Projections"
+    timestamp = "0:38:43"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Perspective View and History"
+    timestamp = "0:48:51"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "FOV, Focal Length, and Math"
+    timestamp = "0:54:25"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Defining Camera Properties in THREE"
+    timestamp = "1:06:16"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Lighting and Materials"
+    timestamp = "1:07:50"
+    video_id = "Lecture 14"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "1:13:33"
+    video_id = "Lecture 14"
+
+[[weeks]]
+name = "Week 8 (3/20 - 3/24)"
+
+  [[weeks.topics]]
+    name = "[Tue 3/21] More 3D - Rotations"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 15"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Review on Cameras"
+    timestamp = "00:02:58"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Standard Lighting Model"
+    timestamp = "00:08:23"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Types of Light Sources"
+    timestamp = "00:21:48"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Animating in 3D"
+    timestamp = "00:24:27"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Transformations in 3D -- Differences from 2D"
+    timestamp = "00:31:49"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Rotations are Special"
+    timestamp = "00:36:02"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Changing the Origin for Rotation, Using Groups"
+    timestamp = "00:48:53"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Euler's Theorems"
+    timestamp = "01:00:56"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Good and Bad of Euler Angles, Quaternions"
+    timestamp = "01:07:21"
+    video_id = "Lecture 15"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "1:13:33"
+    video_id = "Lecture 15"
+
+  [[weeks.topics]]
+    name = "[Thu 3/23] More Rotations - Meshes"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 16"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Representing Rotations"
+    timestamp = "00:01:31"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Euler Angles Demo"
+    timestamp = "00:08:25"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Composing Rotations and Problems With This"
+    timestamp = "00:12:09"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Quaternions"
+    timestamp = "00:23:17"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "ThreeJS and Quaternions"
+    timestamp = "00:34:06"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Look At Matrices/Operations"
+    timestamp = "00:41:35"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Rotations Summary"
+    timestamp = "00:47:37"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Mesh Basics"
+    timestamp = "00:49:07"
+    video_id = "Lecture 16"
+
+    [[weeks.topics.concepts]]
+    name = "Buffers and BufferGeometry"
+    timestamp = "1:09:13"
+    video_id = "Lecture 16"
+
+[[weeks]]
+name = "Week 8 (3/27 - 3/31)"
+
+  [[weeks.topics]]
+    name = "[Tue 3/28] Meshes and Lighting"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 17"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Meshes and Buffer Geometry"
+    timestamp = "00:01:49"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Colors on Meshes"
+    timestamp = "00:16:13"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Barycentric Colors"
+    timestamp = "00:20:57"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Normal Vectors and Colors"
+    timestamp = "00:25:47"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Transforming Normals and Mesh Summary"
+    timestamp = "00:36:16"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Diffuse and Specular Materials"
+    timestamp = "00:40:19"
+    video_id = "Lecture 17"
+
+    [[weeks.topics.concepts]]
+    name = "Improving Results and Summary"
+    timestamp = "01:08:40"
+    video_id = "Lecture 17"
+
+  [[weeks.topics]]
+    name = "Standard Texturing - Basic Texturing Review"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 18A"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "Why Basic Textures?"
+    timestamp = "00:00:18"
+    video_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "How To Do Basic Textures?"
+    timestamp = "00:02:00"
+    video_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "What do we need from a texture?"
+    timestamp = "00:04:33"
+    video_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "Putting textures in THREE"
+    timestamp = "00:06:45"
+    video_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "What the hardware does"
+    timestamp = "00:11:47"
+    video_id = "Lecture 18A"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:15:35"
+    video_id = "Lecture 18A"
+
+  [[weeks.topics]]
+    name = "Standard Texturing - Texture Basics"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 18B"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "How to get more than 3 colors on a triangle?"
+    timestamp = "00:00:06"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Mapping: Basic Idea"
+    timestamp = "00:02:01"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "Basic Texture Mapping"
+    timestamp = "00:04:25"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "Demo"
+    timestamp = "00:08:36"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "UV Mapping"
+    timestamp = "00:10:23"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Wrapping"
+    timestamp = "00:14:28"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "Steps for using Texture Mapping"
+    timestamp = "00:17:37"
+    video_id = "Lecture 18B"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:20:03"
+    video_id = "Lecture 18B"
+
+  [[weeks.topics]]
+    name = "Standard Texturing - Texture in THREE"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 18C"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "The steps to texture mapping"
+    timestamp = "00:00:45"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "Textures in THREE: Create objects with UVs"
+    timestamp = "00:01:51"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "Textures in THREE: Load Textures"
+    timestamp = "00:05:26"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "Textures in THREE: Attack as colors to objects"
+    timestamp = "00:08:25"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "An Entire Example"
+    timestamp = "00:09:42"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "Some caveats for Textures in THREE"
+    timestamp = "00:12:04"
+    video_id = "Lecture 18C"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:13:23"
+    video_id = "Lecture 18C"
+
+  [[weeks.topics]]
+    name = "Standard Texturing - How Texture Mapping Works"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 18D"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Coordinate and Texture Lookup"
+    timestamp = "00:00:14"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "The Problems of Texture Lookup"
+    timestamp = "00:01:54"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Lookups: Magnification"
+    timestamp = "00:03:39"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Lookups: Minification"
+    timestamp = "00:08:50"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Simple Filtering"
+    timestamp = "00:11:12"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Digging into Filtering: Summed Area Table"
+    timestamp = "00:13:27"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "Digging into Filtering: Mip-Maps"
+    timestamp = "00:18:18"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "THREE Options"
+    timestamp = "00:30:06"
+    video_id = "Lecture 18D"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:32:07"
+    video_id = "Lecture 18D"
+
+
+[[weeks]]
+name = "Week 9 (4/3 - 4/7)"
+
+  [[weeks.topics]]
+    name = "Advanced Texturing - Normals and Bump Mapping"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 19A"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 19A"
+
+    [[weeks.topics.concepts]]
+    name = "Fake normals"
+    timestamp = "00:00:11"
+    video_id = "Lecture 19A"
+
+    [[weeks.topics.concepts]]
+    name = "Normal maps and bump maps"
+    timestamp = "00:11:17"
+    video_id = "Lecture 19A"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:23:05"
+    video_id = "Lecture 19A"
+
+  [[weeks.topics]]
+    name = "Advanced Texturing - Other Texturing Tricks"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 19B"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
+    name = "Layered textures"
+    timestamp = "00:09:04"
+    video_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
+    name = "Light maps for pre-computed lights"
+    timestamp = "00:10:55"
+    video_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
+    name = "Ambient occlusion"
+    timestamp = "00:15:07"
+    video_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
+    name = "Procedural and solid textures"
+    timestamp = "00:17:43"
+    video_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:22:01"
+    video_id = "Lecture 19B"
+
+  [[weeks.topics]]
+    name = "Advanced Texturing - Sky Boes and Environment Maps"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 19C"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 19C"
+
+    [[weeks.topics.concepts]]
+    name = "Sky Boxes"
+    timestamp = "00:03:28"
+    video_id = "Lecture 19C"
+
+    [[weeks.topics.concepts]]
+    name = "Environment mapping"
+    timestamp = "00:08:43"
+    video_id = "Lecture 19C"
+
+    [[weeks.topics.concepts]]
+    name = "End"
+    timestamp = "00:23:01"
+    video_id = "Lecture 19C"
+
+  [[weeks.topics]]
+    name = "Advanced Texturing - Shadow Maps"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 19D"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 19D"
+
+    [[weeks.topics.concepts]]
+    name = "Shadow map"
+    timestamp = "00:00:01"
+    video_id = "Lecture 19D"
+
+    [[weeks.topics.concepts]]
+    name = "Shadow map"
+    timestamp = "00:14:48"
+    video_id = "Lecture 19D"
+
+  [[weeks.topics]]
+    name = "[Thu 4/6] Drawing in 3D"
+    
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 20"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Global Lighting Effects"
+    timestamp = "00:08:18"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Global Lighting Effects"
+    timestamp = "00:12:56"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Mapping Review"
+    timestamp = "00:19:10"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Steps of Drawing in 3D"
+    timestamp = "00:27:33"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Transformation"
+    timestamp = "00:33:05"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Reasons you might not see a triangle"
+    timestamp = "00:33:05"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Visibility Algorithms"
+    timestamp = "00:39:58"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Problems with Z-Indexing"
+    timestamp = "00:58:48"
+    video_id = "Lecture 20"
+
+    [[weeks.topics.concepts]]
+    name = "Summary"
+    timestamp = "01:08:41"
+    video_id = "Lecture 20"
+
+[[weeks]]
+name = "Week 10 (4/10 - 4/14)"
+
+  [[weeks.topics]]
+    name = "[Tue 4/11] "
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 21"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:04:43"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "The Pipeline"
+    timestamp = "00:08:05"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "Constant State"
+    timestamp = "00:15:41"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "What can our Program Do?"
+    timestamp = "00:19:46"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "The Vertex Processor"
+    timestamp = "00:24:42"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "The Rasterizer"
+    timestamp = "00:28:30"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "How to use uniform variables"
+    timestamp = "00:33:08"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "Using both the Vertex and Fragment Shader"
+    timestamp = "00:54:27"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "Communicating between JS and GLSL"
+    timestamp = "01:01:05"
+    video_id = "Lecture 21"
+
+    [[weeks.topics.concepts]]
+    name = "Communicating between JS and GLSL"
+    timestamp = "01:01:05"
+    video_id = "Lecture 21"
+
+  [[weeks.topics]]
+    name = "[Thu 4/13]"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 22"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:05:20"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Lighting Methods"
+    timestamp = "00:10:19"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Light Positioning and Coordinates"
+    timestamp = "00:28:25"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Image Textures"
+    timestamp = "00:37:37"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Fun with Shaders"
+    timestamp = "00:43:32"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Jagged Edges Mitigation"
+    timestamp = "00:57:03"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Functions in GLSL"
+    timestamp = "01:00:30"
+    video_id = "Lecture 22"
+
+    [[weeks.topics.concepts]]
+    name = "Let's Make a Coronavirus (Displacement Maps)"
+    timestamp = "01:03:49"
+    video_id = "Lecture 22"
+
+[[weeks]]
+name = "Week 11 (4/17 - 4/21)"
+
+  [[weeks.topics]]
+    name = "Aliasing"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 23A"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 23A"
+
+    [[weeks.topics.concepts]]
+    name = "What is a Pixel?"
+    timestamp = "00:01:45"
+    video_id = "Lecture 23A"
+
+    [[weeks.topics.concepts]]
+    name = "Aliasing Technical Problem"
+    timestamp = "00:07:02"
+    video_id = "Lecture 23A"
+
+    [[weeks.topics.concepts]]
+    name = "Crawlies"
+    timestamp = "00:11:19"
+    video_id = "Lecture 23A"
+
+    [[weeks.topics.concepts]]
+    name = "Texture Sampling Problems"
+    timestamp = "00:15:59"
+    video_id = "Lecture 23A"
+
+    [[weeks.topics.concepts]]
+    name = "Fundamental Problem"
+    timestamp = "00:20:05"
+    video_id = "Lecture 23A"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 23B"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 23B"
+
+    [[weeks.topics.concepts]]
+    name = "Anti-Aliasing"
+    timestamp = "00:06:03"
+    video_id = "Lecture 23B"
+
+    [[weeks.topics.concepts]]
+    name = "Blurring"
+    timestamp = "00:08:56"
+    video_id = "Lecture 23B"
+
+    [[weeks.topics.concepts]]
+    name = "Average over the Region"
+    timestamp = "00:13:18"
+    video_id = "Lecture 23B"
+
+    [[weeks.topics.concepts]]
+    name = "Order Matters!"
+    timestamp = "00:15:44"
+    video_id = "Lecture 23B"
+
+    [[weeks.topics.concepts]]
+    name = "Anti-Aliasing Problem"
+    timestamp = "00:23:39"
+    video_id = "Lecture 23B"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 23C"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 23C"
+
+    [[weeks.topics.concepts]]
+    name = "Multiple Sampling"
+    timestamp = "00:00:56"
+    video_id = "Lecture 23C"
+
+    [[weeks.topics.concepts]]
+    name = "Using Derivatives"
+    timestamp = "00:06:15"
+    video_id = "Lecture 23C"
+
+    [[weeks.topics.concepts]]
+    name = "Multiple Sampling Pros and Cons"
+    timestamp = "00:12:23"
+    video_id = "Lecture 23C"
+
+    [[weeks.topics.concepts]]
+    name = "Blurring the Edges"
+    timestamp = "00:17:54"
+    video_id = "Lecture 23C"
+
+    [[weeks.topics.concepts]]
+    name = "Smoothstepping"
+    timestamp = "00:30:24"
+    video_id = "Lecture 23C"
+
+  [[weeks.topics]]
+    name = "Shaders and Noise"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 24A"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 24A"
+
+    [[weeks.topics.concepts]]
+    name = "Why we need noise 1"
+    timestamp = "00:02:21"
+    video_id = "Lecture 24A"
+
+    [[weeks.topics.concepts]]
+    name = "Why we need noise 2"
+    timestamp = "00:06:52"
+    video_id = "Lecture 24A"
+
+    [[weeks.topics.concepts]]
+    name = "Example of psuedo-randomness"
+    timestamp = "00:09:56"
+    video_id = "Lecture 24A"
+
+    [[weeks.topics.concepts]]
+    name = "Perlin Noise"
+    timestamp = "00:19:26"
+    video_id = "Lecture 24A"
+
+[[weeks]]
+name = "Week 12 (4/24 - 4/28)"
+
+  [[weeks.topics]]
+    name = "[Tue 4/25] Performance"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 25"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:00:36"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Bottlenecks"
+    timestamp = "00:07:05"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Bottlenecks"
+    timestamp = "00:07:05"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "2 Passes"
+    timestamp = "00:16:29"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Defered Rendering"
+    timestamp = "00:20:24"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Extensions on DR"
+    timestamp = "00:32:49"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Complex Lighting Situations"
+    timestamp = "00:38:23"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Decreasing Number of Commands"
+    timestamp = "00:52:25"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Animation"
+    timestamp = "00:54:51"
+    video_id = "Lecture 25"
+
+    [[weeks.topics.concepts]]
+    name = "Matrix Palette"
+    timestamp = "01:05:50"
+    video_id = "Lecture 25"
+
+  [[weeks.topics]]
+    name = "[Thu 4/27] Shape and Deformation"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 26"
+  
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "How We Animate"
+    timestamp = "00:02:39"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Matrix Palette"
+    timestamp = "00:04:30"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Skinning"
+    timestamp = "00:08:33"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Blending Matrices"
+    timestamp = "00:14:56"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Skeletons, Armatures, Bones"
+    timestamp = "00:18:57"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Space Transformations"
+    timestamp = "00:24:26"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "It's Morphing Time"
+    timestamp = "00:43:30"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Using this in the Project"
+    timestamp = "00:48:11"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Smoothing Shapes"
+    timestamp = "00:54:06"
+    video_id = "Lecture 26"
+
+    [[weeks.topics.concepts]]
+    name = "Solid Modeling"
+    timestamp = "01:06:00"
+    video_id = "Lecture 26"
+
+[[weeks]]
+name = "Week 13 (5/1 - 5/5)"
+
+  [[weeks.topics]]
+    name = "[Tue 5/2] Surfaces"
+
+    [[weeks.topics.video_ids]]
+    video_id = "Lecture 27"
+    [[weeks.topics.slide_ids]]
+    slide_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Agenda"
+    timestamp = "00:02:26"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Lofting - Sweeping Between Shapes"
+    timestamp = "00:19:33"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Implicit Surfaces (Metaballs)"
+    timestamp = "00:23:48"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Parametric Surface"
+    timestamp = "00:28:50"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Subdivision Curves"
+    timestamp = "00:36:51"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Subdivison in 3D"
+    timestamp = "00:47:42"
+    video_id = "Lecture 27"
+
+    [[weeks.topics.concepts]]
+    name = "Catmull-Clark Subdivision"
+    timestamp = "01:03:55"
+    video_id = "Lecture 27"
+
+[video_links]
+  "Lecture 1" = "https://mediaspace.wisc.edu/media/t/1_s4rrdsmv"
+  "Lecture 2" = "https://mediaspace.wisc.edu/media/t/1_qq9524w2"
+  "Lecture 3" = "https://mediaspace.wisc.edu/media/t/1_qg67b4mb"
+  "Lecture 4" = "https://mediaspace.wisc.edu/media/t/1_kae5saq0"
+  "Lecture 5" = "https://mediaspace.wisc.edu/media/t/1_7qlixn1k"
+  "Lecture 6" = "https://mediaspace.wisc.edu/media/t/1_ic844b5d"
+  "Lecture 7" = "https://mediaspace.wisc.edu/media/t/1_mdqlzhua"
+  "Lecture 8" = "https://mediaspace.wisc.edu/media/t/1_7xmpxqwh"
+  "Lecture 9" = "https://mediaspace.wisc.edu/media/t/1_38sal78x"
+  "Lecture 10" = "https://mediaspace.wisc.edu/media/t/1_92up5741"
+  "Lecture 11" = "https://mediaspace.wisc.edu/media/t/1_qhk9gd0m"
+  "Lecture 12" = "https://mediaspace.wisc.edu/media/t/1_7sai3xzy"
+  "Lecture 13" = "https://mediaspace.wisc.edu/media/t/1_6xa2xw7n"
+  "Lecture 14" = "https://mediaspace.wisc.edu/media/t/1_upax0voh"
+  "Lecture 15" = "https://mediaspace.wisc.edu/media/t/1_mazc1p4f"
+  "Lecture 16" = "https://mediaspace.wisc.edu/media/t/1_yeu5r6ig"
+  "Lecture 17" = "https://mediaspace.wisc.edu/media/t/1_vqv9687w"
+  "Lecture 18A" = "https://mediaspace.wisc.edu/media/559-22-17A%20Lecture%2017A-Textures-Review-was-19-1/1_7eq4nl5l"
+  "Lecture 18B" = "https://mediaspace.wisc.edu/media/559-22-17B%20Lecture%2017B-TextureBasics-was-18B/1_xsfuj4m7"
+  "Lecture 18C" = "https://mediaspace.wisc.edu/media/559-22-17C%20Lecture%2017C-TextureBasics-remake-of-18C/1_1s3e03bk"
+  "Lecture 18D" = "https://mediaspace.wisc.edu/media/559-22-17D%20Lecture%2017D-%20How%20Textures%20Work%20-was-18D/1_2uqemy5i"
+  "Lecture 19A" = "https://mediaspace.wisc.edu/media/559-22-18B%20Lecture%2018B-%20Advanced%20Textures%20Normals%20and%20Bump%20Mapping%20-was-19-2/1_ix3bfovw"
+  "Lecture 19B" = "https://mediaspace.wisc.edu/media/559-22-18C%20Lecture%2018C-%20Advanced%20Textures%20Other%20Texturing%20Tricks%20-was-19-3/1_jza5ciwj"
+  "Lecture 19C" = "https://mediaspace.wisc.edu/media/559-22-18D%20Lecture%2018D-%20Advanced%20Textures%20Sky%20Boxes%20and%20Environment%20Maps%20-was-19-4/1_powqj3fs"
+  "Lecture 19D" = "https://mediaspace.wisc.edu/media/559-22-18E%20Lecture%2018E-%20Advanced%20Textures%20Shadow%20Maps%20-was-19-5/1_38m6irmn"
+  "Lecture 20" = "https://mediaspace.wisc.edu/media/t/1_5n32bulo"
+  "Lecture 21" = "https://mediaspace.wisc.edu/media/t/1_drywhelo"
+  "Lecture 22" = "https://mediaspace.wisc.edu/media/t/1_l72tj49s"
+  "Lecture 23A" = "https://mediaspace.wisc.edu/media/t/1_h2p06tcl"
+  "Lecture 23B" = "https://mediaspace.wisc.edu/media/t/1_caemdleq"
+  "Lecture 23C" = "https://mediaspace.wisc.edu/media/t/1_htfxnlus"
+  "Lecture 24A" = "https://mediaspace.wisc.edu/media/t/1_phjdus5z"
+  "Lecture 25" = "https://mediaspace.wisc.edu/media/t/1_g9ijgenh"
+  "Lecture 26" = "https://mediaspace.wisc.edu/media/t/1_7g3xdbyi"
+  "Lecture 27" = "https://mediaspace.wisc.edu/media/t/1_ogjjeght"
+  "Closures" = "https://mediaspace.wisc.edu/media/t/1_6e7qmca0"
+  "Git Part A" = "https://mediaspace.wisc.edu/media/t/1_ovi963q3"
+  "Git Part B" = "https://mediaspace.wisc.edu/media/t/1_yel4ct2z"
+  "JS Tips" = "https://mediaspace.wisc.edu/media/t/1_vcl3ep15"
+
+[slide_links]
+  "Lecture 1" = "https://cs559.github.io/LectureNotesPDFs/2023/01-getting-started.pdf"
+  "Lecture 2" = "https://cs559.github.io/LectureNotesPDFs/2023/02-Pre-Graphics-post.pdf"
+  "Lecture 3" = "https://cs559.github.io/LectureNotesPDFs/2023/03-WebGraphics1-post.pdf"
+  "Lecture 4" = "https://cs559.github.io/LectureNotesPDFs/2023/04-WebGraphics-post.pdf"
+  "Lecture 5" = "https://cs559.github.io/LectureNotesPDFs/2023/05-Transformations-1-post.pdf"
+  "Lecture 6" = "https://cs559.github.io/LectureNotesPDFs/2023/06-Transformation-post.pdf"
+  "Lecture 7" = "https://cs559.github.io/LectureNotesPDFs/2023/07-TransformMath-post.pdf"
+  "Lecture 8" = "https://cs559.github.io/LectureNotesPDFs/2023/08-MoreTransformMath-post.pdf"
+  "Lecture 9" = "https://cs559.github.io/LectureNotesPDFs/2023/09-Curves-post.pdf"
+  "Lecture 10" = "https://cs559.github.io/LectureNotesPDFs/2023/10-Curves2-post.pdf"
+  "Lecture 11" = "https://cs559.github.io/LectureNotesPDFs/2023/11-Curves3-post.pdf"
+  "Lecture 12" = "https://cs559.github.io/LectureNotesPDFs/2023/12-3D-post.pdf"
+  "Lecture 13" = "https://cs559.github.io/LectureNotesPDFs/2023/13-More3D-post.pdf"
+  "Lecture 14" = "https://cs559.github.io/LectureNotesPDFs/2023/14-3D3-post.pdf"
+  "Lecture 15" = "https://cs559.github.io/LectureNotesPDFs/2023/15-Rotations-post.pdf"
+  "Lecture 16" = "https://cs559.github.io/LectureNotesPDFs/2023/16-Rotations-Meshes-post.pdf"
+  "Lecture 17" = "https://cs559.github.io/LectureNotesPDFs/2023/17-Meshes-Texture-before.pdf"
+  "Lecture 18A" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/17A-Texture-was19-1-textures-review-post.pdf"
+  "Lecture 18B" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/17B-Texture-was18b-texture-basics-post.pdf"
+  "Lecture 18C" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/17C-TextureInThree-post.pdf"
+  "Lecture 18D" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/17D-Texture-was18d-texture-details-post.pdf"
+  "Lecture 19A" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/18B-Texture-was19-2-texures-normals-post.pdf"
+  "Lecture 19B" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/18C-Texture-was19-3-texture-other-post.pdf"
+  "Lecture 19C" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/18D-Texture-was19-4-texture-environ-post.pdf"
+  "Lecture 19D" = "https://cs559.github.io/LectureNotesPDFs/2023/Texture/18E-Texture-was19-5-texture-shadows-post.pdf"
+  "Lecture 20" = "https://cs559.github.io/LectureNotesPDFs/2023/20-Drawing-3D-post.pdf"
+  "Lecture 21" = "https://cs559.github.io/LectureNotesPDFs/2023/21-Shaders1-post.pdf"
+  "Lecture 22" = "https://cs559.github.io/LectureNotesPDFs/2023/22-Shaders2-post.pdf"
+  "Lecture 23A" = "https://cs559.github.io/LectureNotesPDFs/2023/23-AB-Alias-post.pdf"
+  "Lecture 23B" = "https://cs559.github.io/LectureNotesPDFs/2023/23-AB-Alias-post.pdf"
+  "Lecture 23C" = "https://cs559.github.io/LectureNotesPDFs/2023/23-C-Aliasing-Shaders-post.pdf"
+  "Lecture 24A" = "https://cs559.github.io/LectureNotesPDFs/2023/24-A-Noise-post.pdf"
+  "Lecture 25" = "https://cs559.github.io/LectureNotesPDFs/2023/25-Performance-post.pdf"
+  "Lecture 26" = "https://cs559.github.io/LectureNotesPDFs/2023/26-ShapeAndDeformation-post.pdf"
+  "Lecture 27" = "https://cs559.github.io/LectureNotesPDFs/2023/27-Surfaces-post.pdf"
+  "Closures" = "https://cs559.github.io/LectureNotesPDFs/2021/2021-closures-post.pdf"
+  "Git Part A" = "https://cs559.github.io/LectureNotesPDFs/2021/2021-git-A-git-for-workbooks-post.pdf"
+  "Git Part B" = "https://cs559.github.io/LectureNotesPDFs/2021/2021-git-B-how-git-works-post.pdf"
+  "JS Tips" = "https://cs559.github.io/LectureNotesPDFs/2022/00-JSTips-post.pdf"
+# these are the old links - kept so I can remember where to search for
+#  "Closures" = "https://canvas.wisc.edu/courses/343665/files/folder/LectureNotes-2021-Recommended?preview=30140481"
+#  "Git Part A" = "https://canvas.wisc.edu/courses/343665/files/folder/LectureNotes-2021-Recommended?preview=30140489"
+#  "Git Part B" = "https://canvas.wisc.edu/courses/343665/files/folder/LectureNotes-2021-Recommended?preview=30140454"
+#  "JS Tips" = "https://canvas.wisc.edu/courses/343665/files/folder/Lecture%20Notes-2022?preview=30140578"

@@ -1,0 +1,51 @@
+{{ $conceptName := .Get 0 }}
+{{ $data := .Site.Data.sp23_topic_outline }}
+{{ $found := false }}
+{{ $concept := dict }}
+{{ $videoId := "" }}
+
+{{ range $data.weeks }}
+  {{ range .topics }}
+    {{ range .concepts }}
+      {{ if and (eq .name $conceptName) (not $found) }}
+        {{ $concept = . }}
+        {{ $videoId = .video_id }}
+        {{ $found = true }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if $found }}
+  {{ $videoBaseUrl := index $data.video_links $videoId }}
+  {{ $slideUrl := index $data.slide_links $videoId }}
+
+  {{/* Convert timestamp to seconds */}}
+  {{ $parts := split $concept.timestamp ":" }}
+  {{ $seconds := 0.0 }}
+  {{ if eq (len $parts) 3 }}
+    {{ $h := float (index $parts 0) }}
+    {{ $m := float (index $parts 1) }}
+    {{ $s := float (index $parts 2) }}
+    {{ $seconds = add (mul $h 3600) (add (mul $m 60) $s) }}
+  {{ else if eq (len $parts) 2 }}
+    {{ $m := float (index $parts 0) }}
+    {{ $s := float (index $parts 1) }}
+    {{ $seconds = add (mul $m 60) $s }}
+  {{ end }}
+
+  {{/* Construct the time-specific link */}}
+  {{ $videoLink := printf "%s?st=%d" $videoBaseUrl (int $seconds) }}
+
+  <div>
+    <a href="{{ $videoLink }}">{{ $concept.name }}</a>
+    <br>
+    <a href="{{ $videoBaseUrl }}">{{ $videoId }}</a>
+    |
+    <a href="{{ $slideUrl }}">Slides</a>
+  </div>
+{{ else }}
+  <div style="color: red;">
+    Video Concept "{{ $conceptName }}" not found within course outline.
+  </div>
+{{ end }}
