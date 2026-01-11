@@ -1,0 +1,17 @@
+{{- $id := .Get 0 -}}
+{{- $data := .Site.Data.sp23_topic_outline -}}
+{{- $video := index $data.video_links $id -}}
+{{- $slides := index $data.slide_links $id -}}
+
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; margin: 10px 0;">
+    {{- if $video -}}
+        <a href="{{ $video }}" target="_blank" rel="noopener">2023 Video: {{ $id }}</a>
+    {{- end -}}
+    {{- if and $video $slides -}} &nbsp; | &nbsp; {{- end -}}
+    {{- if $slides -}}
+        <a href="{{ $slides }}" target="_blank" rel="noopener">Slides</a>
+    {{- end -}}
+    {{- if not (or $video $slides) -}}
+        <span class="error">No resources found for video ID: {{ $id }}</span>
+    {{- end -}}
+</div>

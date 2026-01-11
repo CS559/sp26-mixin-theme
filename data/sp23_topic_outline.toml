@@ -105,6 +105,11 @@ name = "Week 1 (1/23 - 1/27)"
       video_id = "Lecture 2"
 
       [[weeks.topics.concepts]]
+      name = "Where do programs go?"
+      timestamp = "56:39"
+      video_id = "Lecture 2"
+
+      [[weeks.topics.concepts]]
       name = "When will JS run?"
       timestamp = "1:05:06"
       video_id = "Lecture 2"
