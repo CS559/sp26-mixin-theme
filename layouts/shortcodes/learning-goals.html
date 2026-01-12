@@ -1,0 +1,14 @@
+<h2>Learning Goals</h2>
+<ol>
+{{ $wb := int .Site.Params.workbook}}
+{{- with resources.Get "learning_goals.csv" }}
+{{- with . | transform.Unmarshal (dict "targetType" "map") }}
+    {{- range .}}
+    {{ $wbnum := int .WorkbookNumber }}
+    {{- if eq $wbnum $wb }}
+<li>{{ .LearningGoalText | markdownify}}</li>
+    {{- end}}
+    {{- end }}
+{{- end }}
+{{- end}}
+</ol>
