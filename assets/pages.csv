@@ -1,16 +1,9 @@
 heading,key,name,url
-"Honors section links",ah25-home,"CS559AH (honors) course web",https://pages.graphics.cs.wisc.edu/559-sp25-honors/
-"Honors section links",ah25-attendance-form,"CS559AH attendance form",https://forms.gle/zTVWD8iaKHJ6J7Ru6
-"Honors section links",ah25-canvas,"CS559AH Canvas",https://canvas.wisc.edu/courses/446525
-"Honors section links",ah25-piazza,"CS559AH Piazza",https://canvas.wisc.edu/courses/446525/external_tools/20073
-"Honors section links",ah25-calendar,"CS559AH Canvas Calendar",https://canvas.wisc.edu/calendar?include_contexts=course_446525#view_name=month&view_start=2025-01-18
-"Regular section links",r25-canvas,"Canvas",https://canvas.wisc.edu/courses/446529
-"Regular section links",r25-tophat,"TopHat",https://app.tophat.com/e/993679
-"Regular section links",r25-piazza,"Piazza",https://piazza.com/class/m3o08ia4d7918c
-"Regular section links",r25-oh,"Consulting Hours Form",https://forms.gle/BwMYB5McyEXVuzt26
-"Regular section links",r25-app,"Individual Appointment Form",https://forms.gle/svhgGNbp2ZkuvATf6
-"Regular section links",r25-wb,"Workbook Regrade Form",https://forms.gle/DP14yU4krufasenGA
-"Regular section links",r25-late,"Late Submission Form",https://forms.gle/ZaqT4NShZbkzmS8HA
+"2026 Links",canvas,"CS559 Canvas",https://canvas.wisc.edu/courses/498231
+"2026 Links",piazza,"CS559 Piazza",https://canvas.wisc.edu/courses/498231/external_tools/20073
+"2026 Links",calendar,"Canvas Calendar",https://canvas.wisc.edu/calendar?include_contexts=course_498231#view_name=month
+"Tutorials",559tools,"Tools for 559",https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
+"Old but useful",videos23,"CS559 Spring 2023 Videos",https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
 "Class pages",gleicher-home,"Gleicher's Home Page",https://gleicher.sites.cs.wisc.edu/
 "Class pages",mediaspace-23,"Media Space Channel",https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
 "Links to Last Year's Class (generally should be avoided)",outline-2021,"2021 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
@@ -53,8 +46,6 @@ heading,key,name,url
 "CS559 Tutorials Past",copilot-vscode,"Setting up GitHub Copilot in VSCode",https://cs559.github.io/559Tutorials/tools-and-setup/copilot_vscode/
 "CS559 Tutorials Past",debuggers,"JavaScript Debugger Tutorials",https://cs559.github.io/559Tutorials/javascript/debugger/
 "CS559 Tutorials Past",javascript-category,"JavaScript Tutorials List",https://cs559.github.io/559Tutorials/javascript/
-"Course Web (Spring 2023 -> 24)",tools,"Tools for 559",https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
-"Course Web (Spring 2023 -> 24)",559tools,"Tools for 559",https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
 "Course Web (Spring 2023 -> 24)",typed-js,"Typed JavaScript and CS559",https://cs559.github.io/559Tutorials/javascript/typed-js/
 "Course Web (Spring 2023 -> 24)",javascript,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
 "Course Web (Spring 2023 -> 24)",javascript559,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
