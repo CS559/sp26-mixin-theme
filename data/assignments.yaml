@@ -1,0 +1,91 @@
+end-of-week-survey-1-1:
+  due_at: 2026-01-23 23:59:59-06:00
+  due_string: 2026-01-23 23:59
+  id: 2957884
+  name: End of Week Survey 1-1 (Anonymous Class Survey)
+  slug: end-of-week-survey-1-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957884
+end-of-week-survey-1-2:
+  due_at: 2026-01-30 23:59:59-06:00
+  due_string: 2026-01-30 23:59
+  id: 2957901
+  name: 'End-of-Week Survey 1-2: Content Survey'
+  slug: end-of-week-survey-1-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957901
+end-of-week-survey-2-1:
+  due_at: 2026-02-06 23:59:59-06:00
+  due_string: 2026-02-06 23:59
+  id: 2957899
+  name: End-of-Week Survey 2-1 (Anonymous Class Survey)
+  slug: end-of-week-survey-2-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957899
+end-of-week-survey-2-2:
+  due_at: 2026-02-13 23:59:59-06:00
+  due_string: 2026-02-13 23:59
+  id: 2957903
+  name: 'End-of-Week Survey 2-2: Content Survey'
+  slug: end-of-week-survey-2-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957903
+end-of-week-survey-3-1:
+  due_at: 2026-02-20 23:59:59-06:00
+  due_string: 2026-02-20 23:59
+  id: 2957909
+  name: End-of-Week Survey 3-1 (Anonymous Class Survey)
+  slug: end-of-week-survey-3-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957909
+module-1-introduction:
+  due_at: 2026-01-21 23:59:59-06:00
+  due_string: 2026-01-21 23:59
+  id: 2957851
+  name: Module 1 Introduction (Video and Classroom Link)
+  slug: module-1-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957851
+module-2-introduction:
+  due_at: 2026-02-04 23:59:59-06:00
+  due_string: 2026-02-04 23:59
+  id: 2957852
+  name: Module 2 Introduction  (Video and Classroom Link)
+  slug: module-2-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957852
+module-3-introduction:
+  due_at: 2026-02-18 23:59:59-06:00
+  due_string: 2026-02-18 23:59
+  id: 2957856
+  name: Module 3 Introduction (Video and Classroom Link)
+  slug: module-3-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957856
+module-4-introduction:
+  due_at: 2026-03-04 23:59:59-06:00
+  due_string: 2026-03-04 23:59
+  id: 2957872
+  name: Module 4 Introduction (Video and Classroom Link)
+  slug: module-4-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957872
+module-5-introduction:
+  due_at: 2026-03-18 23:59:59-05:00
+  due_string: 2026-03-18 23:59
+  id: 2957873
+  name: Module 5 Introduction (Video and Classroom Link)
+  slug: module-5-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957873
+module-6-introduction:
+  due_at: 2026-04-01 23:59:59-05:00
+  due_string: 2026-04-01 23:59
+  id: 2957874
+  name: Module 6 Introduction (Video and Classroom)
+  slug: module-6-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957874
+module-7-introduction:
+  due_at: 2026-04-22 23:59:59-05:00
+  due_string: 2026-04-22 23:59
+  id: 2957875
+  name: Module 7 Introduction (Video and Classroom)
+  slug: module-7-introduction
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957875
+quiz-1:
+  due_at: 2026-02-04 10:00:00-06:00
+  due_string: 2026-02-04 10:00
+  id: 2957910
+  name: Quiz 1
+  slug: quiz-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2957910
