@@ -3,6 +3,7 @@ heading,key,name,url
 "2026 Links",piazza,"CS559 Piazza",https://canvas.wisc.edu/courses/498231/external_tools/20073
 "2026 Links",calendar,"Canvas Calendar",https://canvas.wisc.edu/calendar?include_contexts=course_498231#view_name=month
 "Tutorials",559tools,"Tools for 559",https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
+"Tutorials",vscode,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
 "Old but useful",videos23,"CS559 Spring 2023 Videos",https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
 "Class pages",gleicher-home,"Gleicher's Home Page",https://gleicher.sites.cs.wisc.edu/
 "Class pages",mediaspace-23,"Media Space Channel",https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
@@ -51,7 +52,6 @@ heading,key,name,url
 "Course Web (Spring 2023 -> 24)",javascript559,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
 "Course Web (Spring 2023 -> 24)",git,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
 "Course Web (Spring 2023 -> 24)",git559,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
-"Course Web (Spring 2023 -> 24)",vscode,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
 "Course Web (Spring 2023 -> 24)",traditional-oop-js,"Traditional Object Oriented Programming in JavaScript",https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
 "Course Web (Spring 2023 -> 24)",git-ssh,"Git Setup and SSH Configuration",https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
 "Course Web (Spring 2023 -> 24)",vscode559,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
