@@ -6,12 +6,13 @@ heading,key,name,url
 "Tutorials",vscode,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
 "Old but useful",videos23,"CS559 Spring 2023 Videos",https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
 "Class pages",gleicher-home,"Gleicher's Home Page",https://gleicher.sites.cs.wisc.edu/
+"Class Videos",video-git-a,"Git-Part-A - what it looks like to do a workbook",https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3
+"Class Videos",video-git-b,"Git-Part-B - Basics of Git and GitHub Classroom",https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
+"Tutorials",git559,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
 "Class pages",mediaspace-23,"Media Space Channel",https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
 "Links to Last Year's Class (generally should be avoided)",outline-2021,"2021 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
 "Links to Last Year's Class (generally should be avoided)",outline-2022,"2022 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
 "Links to Last Year's Class (generally should be avoided)",outline-2023,"2023 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp24/pages/lecture-materials/
-"Class Videos",video-git-a,"Git-Part-A - what it looks like to do a workbook",https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3
-"Class Videos",video-git-b,"Git-Part-B - Basics of Git and GitHub Classroom",https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
 "Class Videos",video-debugger,"Chrome Debugger Quick Start for CS 559 (2019 Video)",https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
 "UW Resources",uw-tech-requirements,"UW Technology Requirements for Students",https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
 "UW Resources",uw-internet-doctor,"UW Internet Connection Doctor",https://it.wisc.edu/news/home-internet-connection-doctor-service/
@@ -51,7 +52,6 @@ heading,key,name,url
 "Course Web (Spring 2023 -> 24)",javascript,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
 "Course Web (Spring 2023 -> 24)",javascript559,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
 "Course Web (Spring 2023 -> 24)",git,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
-"Course Web (Spring 2023 -> 24)",git559,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
 "Course Web (Spring 2023 -> 24)",traditional-oop-js,"Traditional Object Oriented Programming in JavaScript",https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
 "Course Web (Spring 2023 -> 24)",git-ssh,"Git Setup and SSH Configuration",https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
 "Course Web (Spring 2023 -> 24)",vscode559,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
