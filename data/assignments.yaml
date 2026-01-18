@@ -33,6 +33,69 @@ end-of-week-survey-3-1:
   name: End-of-Week Survey 3-1 (Anonymous Class Survey)
   slug: end-of-week-survey-3-1
   url: https://canvas.wisc.edu/courses/498231/assignments/2957909
+end-of-week-survey-3-2:
+  due_at: 2026-02-27 23:59:59-06:00
+  due_string: 2026-02-27 23:59
+  id: 2983732
+  name: 'End-of-Week Survey 3-2: Content Survey'
+  slug: end-of-week-survey-3-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983732
+end-of-week-survey-4-1:
+  due_at: 2026-03-06 23:59:59-06:00
+  due_string: 2026-03-06 23:59
+  id: 2983738
+  name: 'End of Week Survey 4-1 (Anonymous Class Survey) '
+  slug: end-of-week-survey-4-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983738
+end-of-week-survey-4-2:
+  due_at: 2026-03-13 23:59:59-05:00
+  due_string: 2026-03-13 23:59
+  id: 2983734
+  name: 'End-of-Week Survey 4-2: Content Survey'
+  slug: end-of-week-survey-4-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983734
+end-of-week-survey-5-1:
+  due_at: 2026-03-20 23:59:59-05:00
+  due_string: 2026-03-20 23:59
+  id: 2983755
+  name: 'End of Week Survey 5-1 (Anonymous Class Survey) '
+  slug: end-of-week-survey-5-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983755
+end-of-week-survey-5-2:
+  due_at: 2026-03-27 23:59:59-05:00
+  due_string: 2026-03-27 23:59
+  id: 2983735
+  name: 'End-of-Week Survey 5-2: Content Survey'
+  slug: end-of-week-survey-5-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983735
+end-of-week-survey-6-1:
+  due_at: 2026-04-10 23:59:59-05:00
+  due_string: 2026-04-10 23:59
+  id: 2983757
+  name: 'End of Week Survey 6-1 (Anonymous Class Survey) '
+  slug: end-of-week-survey-6-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983757
+end-of-week-survey-6-2:
+  due_at: 2026-04-17 23:59:59-05:00
+  due_string: 2026-04-17 23:59
+  id: 2983736
+  name: 'End-of-Week Survey 6-2: Content Survey'
+  slug: end-of-week-survey-6-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983736
+end-of-week-survey-7-1:
+  due_at: 2026-04-24 23:59:59-05:00
+  due_string: 2026-04-24 23:59
+  id: 2983759
+  name: 'End of Week Survey 7-1 (Anonymous Class Survey) '
+  slug: end-of-week-survey-7-1
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983759
+end-of-week-survey-7-2:
+  due_at: 2026-05-01 23:59:59-05:00
+  due_string: 2026-05-01 23:59
+  id: 2983737
+  name: 'End-of-Week Survey 7-2: Content Survey'
+  slug: end-of-week-survey-7-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983737
 module-1-introduction:
   due_at: 2026-01-21 23:59:59-06:00
   due_string: 2026-01-21 23:59
@@ -69,8 +132,8 @@ module-5-introduction:
   slug: module-5-introduction
   url: https://canvas.wisc.edu/courses/498231/assignments/2957873
 module-6-introduction:
-  due_at: 2026-04-01 23:59:59-05:00
-  due_string: 2026-04-01 23:59
+  due_at: 2026-04-08 23:59:00-05:00
+  due_string: 2026-04-08 23:59
   id: 2957874
   name: Module 6 Introduction (Video and Classroom)
   slug: module-6-introduction
@@ -89,3 +152,38 @@ quiz-1:
   name: Quiz 1
   slug: quiz-1
   url: https://canvas.wisc.edu/courses/498231/assignments/2957910
+quiz-2:
+  due_at: 2026-02-18 10:00:00-06:00
+  due_string: 2026-02-18 10:00
+  id: 2983726
+  name: Quiz 2
+  slug: quiz-2
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983726
+quiz-3:
+  due_at: 2026-03-04 10:00:00-06:00
+  due_string: 2026-03-04 10:00
+  id: 2983727
+  name: Quiz 3
+  slug: quiz-3
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983727
+quiz-4:
+  due_at: 2026-03-18 10:00:00-05:00
+  due_string: 2026-03-18 10:00
+  id: 2983728
+  name: Quiz 4
+  slug: quiz-4
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983728
+quiz-5:
+  due_at: 2026-04-08 10:00:00-05:00
+  due_string: 2026-04-08 10:00
+  id: 2983729
+  name: Quiz 5
+  slug: quiz-5
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983729
+quiz-6:
+  due_at: 2026-04-22 10:00:00-05:00
+  due_string: 2026-04-22 10:00
+  id: 2983730
+  name: Quiz 6
+  slug: quiz-6
+  url: https://canvas.wisc.edu/courses/498231/assignments/2983730
