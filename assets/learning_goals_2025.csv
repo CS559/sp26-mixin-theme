@@ -1,0 +1,87 @@
+WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
+0,CLO,1,Develop interactive graphical applications in 2D and 3D using different types of APIs
+0,CLO,2,Analyze and apply coordinate systems and transformations in 2D and 3D to model objects hierarchically and prepare them for viewing
+0,CLO,3,"Explain and apply shape modeling techniques, including parametric curves and meshes, in 2D and 3D"
+0,CLO,4,Select and apply appearance modeling techniques including texturing and lighting
+0,CLO,5,"Explain the structure and operation of the graphics pipeline and hardware, and use this understanding to implement and optimize efficient graphical applications"
+0,CLO,6,Identify the issues in discrete representations and select approaches to mitigate them
+0,CLO,7,Discuss how imagery is perceived and the impact of perception on computer generated imagery
+1,Pre-Graphics (HTML and JavaScript),1,"Understand and use the class mechanics (GitHub classroom links, Git, local servers, editing pages, ...)"
+1,Pre-Graphics (HTML and JavaScript),2,"Understand the organization of workbooks for the class (looking at pages, boxes, editing and adding things, turning things in)"
+1,Pre-Graphics (HTML and JavaScript),3,Review basic HTML that you will need for class
+1,Pre-Graphics (HTML and JavaScript),4,Practice basic JavaScript and understand how to attach programs to web pages
+1,Pre-Graphics (HTML and JavaScript),5,Make interactions and animations with JavaScript web pages
+1,Pre-Graphics (HTML and JavaScript),6,Differentiate and use event-driven- and animation-loop-driven- programming
+1,Pre-Graphics (HTML and JavaScript),7,Understand how to control timing with browser animation loops
+2,Graphics APIs and Drawing Basics,1,To introduce the idea of object-based graphics as opposed to image-based graphics
+2,Graphics APIs and Drawing Basics,2,"To show the two different types of graphics APIs, immediate mode and retained mode"
+2,Graphics APIs and Drawing Basics,3,To give you experience programming with the Canvas API that web browsers provide
+2,Graphics APIs and Drawing Basics,4,"To give you exposure to SVGs, which we will look at more in the future"
+2,Graphics APIs and Drawing Basics,5,To see how the event and animation loop models introduced in the previous workbook are used in graphics
+2,Graphics APIs and Drawing Basics,6,To introduce the concept of display lists
+2,Graphics APIs and Drawing Basics,7,To practice with reading and writing JavaScript programs with actual graphics programs
+3,Transformations,1,Understand the importance of coordinate systems in graphics
+3,Transformations,2,Understand the concepts of transformation and their use in graphics
+3,Transformations,3,Understand how to think about transformations in terms of coordinate systems
+3,Transformations,4,"Understand how basic transformations (rotate, translate, scale) are used"
+3,Transformations,5,Understand how transformations are composed to achieve different effects
+3,Transformations,6,Be able to use the HTML Canvas transformation functionality
+3,Transformations,7,Understand and use the basic ideas of hierarchical modeling and articulation
+3,Transformations,8,Understand how hierearchy and transformation is represented in a scene-graph API such as SVG
+3,Transformations,9,Be able to use SVG (as a file format) including its hierarchy and instancing features
+4,Transformation Math,1,To understand how coordinate systems and transformations are represented mathematically
+4,Transformation Math,2,To understand affine transformations and the use of homogeneous coordinates to represent them
+4,Transformation Math,3,To be able to build transformation matrices based on the desired outcomes
+4,Transformation Math,4,To be able to read a transformation matrix to understand what it does
+4,Transformation Math,5,To understand how Canvas and SVG use matrices internally
+4,Transformation Math,6,To use transformations in matrix form in graphics programs
+4,Transformation Math,7,To practice graphics programming using vector math
+4,Transformation Math,8,To get some exposure to JavaScript Object-Oriented Programming
+4,Transformation Math,9,To try out the course framework code
+5,Curves in 2D,1,To understand the concepts of parametric curves and parameterizations
+5,Curves in 2D,2,"To understand curve tangents, derivatives, and continuity conditions"
+5,Curves in 2D,3,To understand piecewise polynomial representations of curves
+5,Curves in 2D,4,"To understand cubic segments, and the need for different forms"
+5,Curves in 2D,5,To understand arc-length parameterizations and how we approximate it
+5,Curves in 2D,6,To understand the ideas and properties of Bezier curves including their geometric and algebraic formulations
+5,Curves in 2D,7,"To understand how we draw curves, including adaptation"
+5,Curves in 2D,8,"To be able to use curves in various APIs, including curve format conversion"
+6,3D and Three,1,Get you set up with the mechanics of using THREE.js
+6,3D and Three,2,Get you to make some basics 3D pictures and animations using THREE.js and the basic pieces
+6,3D and Three,3,Provide experience with the basic concepts of 3D Graphics
+6,3D and Three,4,"Be able to work with standard camera models, lighting models, and primitives used in computer graphics"
+7,Transformation and Hierarchy in Three.js,1,"To gain some experience doing hierarchical modeling, particularly for animation"
+7,Transformation and Hierarchy in Three.js,2,To get some practice working with 3D rotations
+7,Transformation and Hierarchy in Three.js,3,To get some experience working with the CS559 framework code
+7,Transformation and Hierarchy in Three.js,4,To get more practice working with a modern scene graph API
+7,Transformation and Hierarchy in Three.js,5,To see some details of how different rotation representation are used
+7,Transformation and Hierarchy in Three.js,6,To get some exposure to modern JavaScript features like classes
+7,Transformation and Hierarchy in Three.js,7,To get some experience working with another person’s code
+8,Meshes and Textures,1,"To get some practice with mesh data structures, and see how they are used in a practical API."
+8,Meshes and Textures,2,"To understand vertex-oriented representations, their motivations, and their use."
+8,Meshes and Textures,3,To see the effects of vertex and face properties including colors and normals.
+8,Meshes and Textures,4,"To practice the basic concepts of textures, especially texture coordinates."
+8,Meshes and Textures,5,To see how texturing is implemented in a practical API.
+8,Meshes and Textures,6,To gain some experience using shape and texture to create interesting 3D models.
+8,Meshes and Textures,7,"To learn about how local lighting is computed, and see how it is used in a practical system."
+8,Meshes and Textures,8,"To learn about types of texturing beyond color maps, and see how they are used."
+8,Meshes and Textures,9,To see how lighting and texturing is used in a practical graphics system.
+8,Meshes and Textures,10,To try using various lighting and texturing features to create appearances.
+8,Meshes and Textures,11,To gain some experience using THREE.js and the class software framework.
+9,Shaders,1,"Understand the basic organization of graphics hardware, and how programmability fits into it."
+9,Shaders,2,Appreciate why shaders are the ways that they are and what you can do with them.
+9,Shaders,3,"Learn how the shader programming paradigm leads to specific, real implementations."
+9,Shaders,4,Be able to write shaders in a real shading language.
+9,Shaders,5,See how shaders are managed and integrated into a graphics application.
+10,Advanced Topics,1,Develop a web application that captures human motion in real-time and uses this data to animate a 3D articulated model.
+10,Advanced Topics,2,Learn how to create a simple cloth simulator using THREE.js and the CS559 framework.
+11,The Train Workbook,1,To practice some key computations with curves.
+11,The Train Workbook,2,To implement various aspects of curves in the context of an application.
+11,The Train Workbook,3,"To appreciate why curve concepts, such as arc length parameterization and smoothness, are useful."
+11,The Train Workbook,4,To write an interesting graphics program.
+12,Graphics Town,1,To gain experience applying the concepts from class in order to create something more interesting
+12,Graphics Town,2,To apply texturing techniques to create appearances
+12,Graphics Town,3,To practice fitting different types of models together to make a scene
+12,Graphics Town,4,To experiment with methods for creating objects and behaviors
+12,Graphics Town,5,To experiment with advanced interactive graphics techniques
+12,Game,1,

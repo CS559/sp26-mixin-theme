@@ -1,5 +1,5 @@
 <ol>
-{{ $wb := int .Site.Params.workbook}}
+{{ $wb := int (.Get 0 | default .Site.Params.workbook)}}
 {{- with resources.Get "learning_goals.csv" }}
 {{- with . | transform.Unmarshal (dict "targetType" "map") }}
     {{- range .}}
