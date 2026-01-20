@@ -1,204 +1,209 @@
 heading,key,name,url
-"2026 Links",canvas,"CS559 Canvas",https://canvas.wisc.edu/courses/498231
-"2026 Links",piazza,"CS559 Piazza",https://canvas.wisc.edu/courses/498231/external_tools/20073
-"2026 Links",calendar,"Canvas Calendar",https://canvas.wisc.edu/calendar?include_contexts=course_498231#view_name=month
-"Tutorials",559tools,"Tools for 559",https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
-"Tutorials",vscode,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
-"Old but useful",videos23,"CS559 Spring 2023 Videos",https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
-"Class pages",gleicher-home,"Gleicher's Home Page",https://gleicher.sites.cs.wisc.edu/
-"Class Videos",video-git-a,"Git-Part-A - what it looks like to do a workbook",https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3
-"Class Videos",video-git-b,"Git-Part-B - Basics of Git and GitHub Classroom",https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
-"Tutorials",git559,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
-"Class pages",mediaspace-23,"Media Space Channel",https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
-"Links to Last Year's Class (generally should be avoided)",outline-2021,"2021 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
-"Links to Last Year's Class (generally should be avoided)",outline-2022,"2022 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
-"Links to Last Year's Class (generally should be avoided)",outline-2023,"2023 Course Outline with Video Links",https://pages.graphics.cs.wisc.edu/559-sp24/pages/lecture-materials/
-"Class Videos",video-debugger,"Chrome Debugger Quick Start for CS 559 (2019 Video)",https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
-"UW Resources",uw-tech-requirements,"UW Technology Requirements for Students",https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
-"UW Resources",uw-internet-doctor,"UW Internet Connection Doctor",https://it.wisc.edu/news/home-internet-connection-doctor-service/
-"references for academic conduct",uw-academic-conduct,"UW Definition of Academic Misconduct",https://conduct.students.wisc.edu/academic-misconduct/
-"references for academic conduct",comm-arts-academic-conduct,"Professional Conduct and Academic Integrity (Department of Communication Arts)",https://commarts.wisc.edu/graduate/graduate-handbook/professional-conduct-and-academic-integrity/
-"references for academic conduct",uw-academic-conduct-syllabus-statement,"UW Recommended Syllabus Statement",https://conduct.students.wisc.edu/faculty-staff-resources/syllabus-statement/
-"references for academic conduct",writing-learning-outcomes,"Writing Learning Outcomes (UW Provost's Office)",https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/
-"Books in Canvas - unfortunately, can't do this with the file list",fcg-canvas23,"Fundamentals of Computer Graphics (Canvas Folder)",https://canvas.wisc.edu/courses/343665/files/folder/Books/FundamentalsOfComputerGraphics
-"Books in Canvas - unfortunately, can't do this with the file list",rtr-canvas23,"Real-Time Rendering (Canvas Folder)",https://canvas.wisc.edu/courses/343665/files/folder/Books/Real-Time-Rendering
+2026 Links,canvas,CS559 Canvas,https://canvas.wisc.edu/courses/498231
+2026 Links,piazza,CS559 Piazza,https://canvas.wisc.edu/courses/498231/external_tools/20073
+2026 Links,calendar,Canvas Calendar,https://canvas.wisc.edu/calendar?include_contexts=course_498231#view_name=month
+Tutorials,559tools,Tools for 559,https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
+Tutorials,vscode,Visual Studio Code (VSCode) for CS559,https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
+Old but useful,videos23,CS559 Spring 2023 Videos,https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
+Class pages,gleicher-home,Gleicher's Home Page,https://gleicher.sites.cs.wisc.edu/
+Class Videos,video-git-a,Git-Part-A - what it looks like to do a workbook,https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3
+Class Videos,video-git-b,Git-Part-B - Basics of Git and GitHub Classroom,https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
+Tutorials,git559,Git and GitHub in CS559,https://cs559.github.io/559Tutorials/tools-and-setup/git559/
+Class pages,mediaspace-23,Media Space Channel,https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
+Links to Last Year's Class (generally should be avoided),outline-2021,2021 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
+Links to Last Year's Class (generally should be avoided),outline-2022,2022 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
+Links to Last Year's Class (generally should be avoided),outline-2023,2023 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp24/pages/lecture-materials/
+Class Videos,video-debugger,Chrome Debugger Quick Start for CS 559 (2019 Video),https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
+UW Resources,uw-tech-requirements,UW Technology Requirements for Students,https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
+UW Resources,uw-internet-doctor,UW Internet Connection Doctor,https://it.wisc.edu/news/home-internet-connection-doctor-service/
+references for academic conduct,uw-academic-conduct,UW Definition of Academic Misconduct,https://conduct.students.wisc.edu/academic-misconduct/
+references for academic conduct,comm-arts-academic-conduct,Professional Conduct and Academic Integrity (Department of Communication Arts),https://commarts.wisc.edu/graduate/graduate-handbook/professional-conduct-and-academic-integrity/
+references for academic conduct,uw-academic-conduct-syllabus-statement,UW Recommended Syllabus Statement,https://conduct.students.wisc.edu/faculty-staff-resources/syllabus-statement/
+references for academic conduct,writing-learning-outcomes,Writing Learning Outcomes (UW Provost's Office),https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/
+"Books in Canvas - unfortunately, can't do this with the file list",fcg-canvas23,Fundamentals of Computer Graphics (Canvas Folder),https://canvas.wisc.edu/courses/343665/files/folder/Books/FundamentalsOfComputerGraphics
+"Books in Canvas - unfortunately, can't do this with the file list",rtr-canvas23,Real-Time Rendering (Canvas Folder),https://canvas.wisc.edu/courses/343665/files/folder/Books/Real-Time-Rendering
 "Books in Canvas - unfortunately, can't do this with the file list",hart-canvas23,"Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)",https://canvas.wisc.edu/courses/343665/files/folder/Books/Hart%20Book
-"Books in Canvas - unfortunately, can't do this with the file list",pla-canvas23,"Practical Linear Algebra Chapters on Canvas",https://canvas.wisc.edu/courses/343665/files/folder/Books/PracticalLinearAlgebra
-"Books via Amazon",fcg-amazon,"Fundamentals of Computer Graphics 5e (purchase via Amazon)",https://amzn.to/3GcJd5H
-"Books via Amazon",rtr-amazon,"",https://amzn.to/3zEgap7
-"Books via library",fcg-proquest,"Fundamentals of Computer Graphics 4e (official access at ProQuest)",https://ebookcentral.proquest.com/lib/wisc/detail.action?docID=4710787
-"Books via library",rtr-proquest,"Real-Time Rendering 4e (official access at ProQuest)",https://ebookcentral.proquest.com/lib/WISC/detail.action?docID=5474527
-"Mozilla SVG resources",mozilla-vector,"Mozilla (Official) Vector Graphics",https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
-"Mozilla SVG resources",mozilla-svg,"Mozilla SVG Tutorial",https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
-"CS559 Tutorials Past",tutorials,"CS559 Tutorials",https://cs559.github.io/559Tutorials
-"CS559 Tutorials Past",learning-goals,"CS559 Learning Goals",https://cs559.github.io/559Tutorials/general-info/learning-goals/
-"CS559 Tutorials Past",color,"CS559 Color Tutorial",https://cs559.github.io/559Tutorials/color/color1/
-"CS559 Tutorials Past",points-vectors,"CS559 Tutorial: Points, Vectors, Coordinate Systems",https://cs559.github.io/559Tutorials/math/points-vectors/
-"CS559 Tutorials Past",linear-algebra,"CS559 Tutorial: Linear Algebra for CS559",https://cs559.github.io/559Tutorials/math/linear-algebra/
-"CS559 Tutorials Past",raster-vector,"CS559 Tutorial: Image-Based vs. Object-Based Graphics",https://cs559.github.io/559Tutorials/types-of-pictures/images-vs-objects/
-"CS559 Tutorials Past",what-is-pixel,"CS559 Tutorial: What is a Pixel",https://cs559.github.io/559Tutorials/types-of-pictures/pixels/
-"CS559 Tutorials Past",svg1,"CS559 SVG Tutorial Part 1: Getting Started with SVG",https://cs559.github.io/559Tutorials/svg/svg1/
-"CS559 Tutorials Past",svg2,"CS559 SVG Tutorial Part 2: Coordinate Systems",https://cs559.github.io/559Tutorials/svg/svg2/
-"CS559 Tutorials Past",svg3,"CS559 SVG Tutorial Part 3: Manipulating Primitives",https://cs559.github.io/559Tutorials/svg/svg3/
-"CS559 Tutorials Past",svg4,"CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies",https://cs559.github.io/559Tutorials/svg/svg4/
-"CS559 Tutorials Past",svg5,"CS559 SVG Tutorial Part 5: Transformations and Composition",https://cs559.github.io/559Tutorials/svg/svg5/
-"CS559 Tutorials Past",svg6,"CS559 SVG Tutorial Part 6: Paths and Beziers",https://cs559.github.io/559Tutorials/svg/svg6/
-"CS559 Tutorials Past",svg-tutorial,"CS559 SVG Tutorial",https://cs559.github.io/559Tutorials/svg/
-"CS559 Tutorials Past",copilot-signup,"GitHub Copilot Signup for CS559 Students",https://cs559.github.io/559Tutorials/tools-and-setup/copilot_signup/
-"CS559 Tutorials Past",copilot-vscode,"Setting up GitHub Copilot in VSCode",https://cs559.github.io/559Tutorials/tools-and-setup/copilot_vscode/
-"CS559 Tutorials Past",debuggers,"JavaScript Debugger Tutorials",https://cs559.github.io/559Tutorials/javascript/debugger/
-"CS559 Tutorials Past",javascript-category,"JavaScript Tutorials List",https://cs559.github.io/559Tutorials/javascript/
-"Course Web (Spring 2023 -> 24)",typed-js,"Typed JavaScript and CS559",https://cs559.github.io/559Tutorials/javascript/typed-js/
-"Course Web (Spring 2023 -> 24)",javascript,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
-"Course Web (Spring 2023 -> 24)",javascript559,"Javascript in CS559",https://cs559.github.io/559Tutorials/javascript/javascript559/
-"Course Web (Spring 2023 -> 24)",git,"Git and GitHub in CS559",https://cs559.github.io/559Tutorials/tools-and-setup/git559/
-"Course Web (Spring 2023 -> 24)",traditional-oop-js,"Traditional Object Oriented Programming in JavaScript",https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
-"Course Web (Spring 2023 -> 24)",git-ssh,"Git Setup and SSH Configuration",https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
-"Course Web (Spring 2023 -> 24)",vscode559,"Visual Studio Code (VSCode) for CS559",https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
-"Web tutorials and references",request-animation-frame,"Official RequestAnimationFrame Docs",https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
-"Web tutorials and references",mozilla-script-tag,"Office Script Tag Documentation",https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
-"Web tutorials and references",learning-html,"Mozilla HTML Learning Guide",https://developer.mozilla.org/en-US/docs/Learn/HTML
-"Web tutorials and references",getting-started-html,"Mozilla Getting Started with HTML",https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
-"Web tutorials and references",mozilla-css,"Mozilla Tutorial on CSS",https://developer.mozilla.org/en-US/docs/Learn/CSS
-"Web tutorials and references",w3schools-defer,"W3 Schools documentation on defer",https://www.w3schools.com/tags/att_script_defer.asp
-"Web tutorials and references",template-literals,"Template Literals Documentation",https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-"Web tutorials and references",closure-tutorial-video,"Closure Tutorial Video",https://mediaspace.wisc.edu/media/Lecture%2002%3A%2001_28_2021%20Bonus%20video%3A%20Closures/1_6e7qmca0
-"Web tutorials and references",debug-tutorial,"Debugger Tutorial (GitHub Repository)",https://github.com/CS559/DebuggerTutorial
-"Web tutorials and references",closure-tutorial,"Functional Programming Tutorial (repo)",https://github.com/CS559/FunctionalTutorial
-"Web tutorials and references",canvas-cheat-sheet,"Canvas Cheat Sheet: ",https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
-"Web tutorials and references",marinacci-canvas,"HTML Canvas Deep Dive: ",https://joshondesign.com/p/books/canvasdeepdive/title.html
-"Web tutorials and references",marinacci-canvas-ch01,"first chapter",https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
-"Web tutorials and references",transform-demos,"2D Transform Demos",https://cs559.github.io/2DTransformDemos/
-"Web tutorials and references",transform-toy-default,"2D Transform Toy (default demos)",https://cs559.github.io/2DTransformDemos/transformToy.html
-"Kaltura",DeCastlejau_2,"DeCastlejau 2",https://mediaspace.wisc.edu/media/1_ht8bd4ii
-"Kaltura",DeCastlejau_3,"DeCastlejau 3",https://mediaspace.wisc.edu/media/1_yfe2pejr
-"Kaltura",DeCastlejau_4,"DeCastlejau 4",https://mediaspace.wisc.edu/media/1_b45evtd7
-"Kaltura",2012-games-project,"2012 Games Class Projects",http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
-"Kaltura",ian-irene-games-project,"Ian and Irene's Asteroids Game",http://graphics.cs.wisc.edu/Courses/Games10/proj1/RaeShei/
-"Kaltura",jeff-chris-games-project,"Jeff and Chris' Sheep Herder Game",http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
-"Kaltura",hughsk-boids,"Online Boids Demo",https://hughsk.io/boids/
-"Kaltura",boids-video,"YouTube video by Sebastian Lague",https://www.youtube.com/watch?v=bqtqltqcQhw&
-"Kaltura",2008-boids,"2008 Boids Demo",https://cs559.github.io/2008Boids/
-"Kaltura",1999-train,"1999 Train Assignment",https://research.cs.wisc.edu/graphics/Courses/638-f1999/Projects/proj3.htm
-"Kaltura",2014-train,"2014 Train Assignment",http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
-"Kaltura",2008-train-expert,"the train expert",https://graphics.cs.wisc.edu/Courses/559-f2008/pubs/pub_train_samtrain.jpg
-"Kaltura",2008-train,"2008 Train Assignment",https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
-"Kaltura",2008-constructionsite,"2008 Construction Site",https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-constructionsite/
-"Kaltura",2008-excavator,"2008 Excavator",https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
-"Kaltura",2015-texture-example,"2015 example",https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
-"Kaltura",2020-lecture-19,"Lecture 19/20",https://graphics.cs.wisc.edu/Courses/559-sp2020/posts/lecture19/
-"Kaltura",craig-reynolds,"Craig Reynolds",http://www.red3d.com/cwr/
-"Kaltura",craig-reynolds-flocking-paper,"Craig Reynolds Flocking Paper",https://dl.acm.org/citation.cfm?id=37406
-"Kaltura",craig-reynolds-boids-page,"Craig Reynolds Boids Page",http://www.red3d.com/cwr/boids/
-"Kaltura",craig-reynolds-steering-behavior,"Craig Reynolds Steering Behavior",http://www.red3d.com/cwr/steer/gdc99/
-"Kaltura",mozilla-canvas,"Mozilla (Official) Canvas Tutorial (top level)",https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
-"Kaltura",mozilla-canvas-basic,"Mozilla (Official) Canvas Tutorial: Getting Started",https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
-"Kaltura",mozilla-canvas-shapes,"Mozilla (Official) Canvas Tutorial: Drawing Shapes",https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
-"Kaltura",mozilla-canvas-styles,"Mozilla (Official) Canvas Tutorial: Styles",https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
-"Kaltura",mozilla-canvas-current-transform,"Canvas Current Transform",https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/currentTransform
-"Kaltura",mozilla-canvas-transform,"Canvas Transform",https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/transform
-"Kaltura",mozilla-canvas-set-transform,"Canvas Set Transform",https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
-"Kaltura",mozilla-canvas-api,"Mozilla (Official) Canvas API Documentation",https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-"Kaltura",mozilla-typed-array,"TypedArray objects",https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
-"Kaltura",mozilla-atan2,"Mozilla `atan2` documentation",https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
-"three.js",threejs-docs,"THREE.js Documentation (current)",https://threejs.org/docs
-"three.js",threejs-object3D,"documentation for `Object3D` index.html#api/en/core/Object3D",https://threejs.org/docs/
-"three.js",threejs-group,"documentation for `Group` index.html#api/en/objects/Group",https://threejs.org/docs/
-"three.js",threejs-orbitControls,"documentation for `OrbitControls`",https://threejs.org/docs/#examples/controls/OrbitControls
-"three.js",threejs-webGlRenderer,"WebGLRenderer index.html#api/en/renderers/WebGLRenderer",https://threejs.org/docs/
-"three.js",threejs-axesHelper,"AxesHelper",https://threejs.org/docs/#api/en/helpers/AxesHelper
-"three.js",threejs-cameraHelper,"CameraHelper",https://threejs.org/docs/#api/en/helpers/CameraHelper
-"three.js",threejs-mesh,"Mesh index.html#api/en/objects/Mesh",https://threejs.org/docs/
-"three.js",threejs-meshStandardMaterial,"MeshStandardMaterial",https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
-"three.js",threejs-meshPhongMaterial,"MeshPhongMaterial",https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
-"three.js",threejs-matrix,"matrix transformations",https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
-"three.js",threejs-perspectiveCamera,"PerspectiveCamera",https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
-"three.js",threejs-ambientLight,"AmbientLight",https://threejs.org/docs/#api/en/lights/AmbientLight
-"three.js",threejs-pointLight,"PointLight",https://threejs.org/docs/#api/en/lights/PointLight
-"three.js",threejs-spotLight,"SpotLight",https://threejs.org/docs/#api/en/lights/SpotLight
-"three.js",threejs-directionalLight,"DirectionalLight",https://threejs.org/docs/#api/en/lights/DirectionalLight
-"three.js",threejs-sphere,"sphere",https://threejs.org/docs/api/en/geometries/SphereGeometry.html
-"three.js",threejs-cone,"cone",https://threejs.org/docs/#api/en/geometries/ConeGeometry
-"three.js",threejs-lathe,"lathe",https://threejs.org/docs/#api/en/geometries/LatheGeometry
-"three.js",threejs-getting-started,"THREE.js Getting Started index.html#manual/en/introduction/Creating-a-scene",https://threejs.org/docs/
-"three.js",threejs-tutorial,"THREE.js Tutorial",https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
-"three.js",threejs-buffergeometry,"Buffer Geometry",https://threejs.org/docs/#api/en/core/BufferGeometry
-"three.js",threejs-face3-deprecated,"Face3 (deprecated)",https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
-"three.js",threejs-geometry-deprecated,"Geometry (Deprecated)",https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
-"three.js",threejs-texture,"`Texture`",https://threejs.org/docs/#api/en/textures/Texture
-"three.js",discoverthreejs,"Discover ThreeJS",https://discoverthreejs.com/
-"three.js",discoverthreejs-transformations-tutorial,"the threejs transformations tutorial",https://discoverthreejs.com/book/first-steps/transformations/
-"three.js",discoverthreejs-train-tutorial,"the threejs built-in geometry tutorial (with train)",https://discoverthreejs.com/book/first-steps/built-in-geometries/
-"three.js",discoverthreejs-textures-intro,"this Discover ThreeJS texture tutorial",https://discoverthreejs.com/book/first-steps/textures-intro/
-"three.js",threejsfundamentals-textures-tutorial,"nice tutorial on texture mapping",https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
-"three.js",allen-threejs-baby-steps,"ThreeJS Baby Steps",http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
-"three.js",threejs-meshstandardmaterial,"`MeshStandardMaterial`",https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
-"three.js",unity-standard-shader-material-parameter-normal-map,"Unity documentation",https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
-"three.js",threejs-mesh-standard-material,"documentation",https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
-"three.js",threejs-cube-texture,"`CubeTextureMap`",https://threejs.org/docs/#api/en/textures/CubeTexture
-"three.js",threejs-scene-background,"`background` of the `Scene` index.html#api/en/scenes/Scene.background",https://threejs.org/docs/
-"three.js",threejs-cube-texture-loader,"`CubeTextureLoader` index.html#api/en/loaders/CubeTextureLoader",https://threejs.org/docs/
-"three.js",threejs-shader-material,"documentation",https://threejs.org/docs/#api/en/materials/ShaderMaterial
-"three.js",threejs-webgl-program,"this page",https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
-"three.js",framework-shader-helper,"documentation",https://cs559.github.io/CS559-Framework23/module-shaderHelper.html
-"three.js",threejs-manual,"THREE manual",https://threejs.org/manual/
-"three.js",framework-documentation,"Framework Documentation",https://cs559.github.io/CS559-Framework23/
-"three.js",2020-framework-demos,"demos",https://cs559.github.io/S20-FrameworkDemos/
-"general stuff",hugo,"Hugo",https://gohugo.io/
-"general stuff",pla_library,"Practical Linear Algebra at the UW Library",https://search.library.wisc.edu/catalog/9911163667202121
-"general stuff",understanding-es6-ch13,"this chapter in Understanding ES6",https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
-"general stuff",wikipedia-bogie,"Wikipedia article",https://en.wikipedia.org/wiki/Bogie
-"general stuff",wikipedia-bogie-diagram,"this diagram",https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
-"general stuff",aviator-game,"Aviator Game",https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
-"general stuff",snowman-wikipedia,"Snowman",https://en.wikipedia.org/wiki/Snowman
-"general stuff",roundabout-wikipedia,"Roundabout",https://en.wikipedia.org/wiki/Roundabout_(play)
-"general stuff",concrete-pumper-1,"Potratz",http://www.potratzsouth.com/
-"general stuff",concrete-pumper-2,"Gordy's",http://gordysconcretepumping.com/
-"general stuff",pile-driver,"Pile Driver",https://en.wikipedia.org/wiki/Pile_driver
-"general stuff",jsdoc,"jsdoc",https://jsdoc.app/
-"general stuff",explore-js,"Exploring JS Ch15",http://exploringjs.com/es6/ch_classes.html
-"general stuff",ellas-deli,"Ella's Deli",https://isthmus.com/news/news/epic-buys-carousel-from-ellas-deli/
-"general stuff",trip-savvy,"Trip Savvy",https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
-"general stuff",dominoes-image,"in a drawing",https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
-"general stuff",roof-types,"this page",https://www.roofingcalc.com/top-20-roof-types/
-"general stuff",360toolkit-cubemap-converter,"defunct web converter",https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
-"general stuff",panorama-to-cubemap,"Panorama Converter on GitHub",https://jaxry.github.io/panorama-to-cubemap/
-"general stuff",polyhaven,"Poly Haven",https://polyhaven.com/
-"general stuff",bourke,"Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are.",http://paulbourke.net/
-"general stuff",bourke-cubemaps,"Paul Bourke's Cubemap Conversion Page",http://paulbourke.net/panorama/cubemaps/
-"general stuff",shader-frog,"ShaderFrog",https://shaderfrog.com/
-"general stuff",khronos-webgl-reference-card,"WebGL Reference Card",https://www.khronos.org/files/webgl20-reference-guide.pdf
-"general stuff",bkcore-blog-shdr,"here",http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
-"general stuff",glsl-sandbox,"GLSL Sandbox",http://glslsandbox.com/
-"general stuff",shadertoy,"ShaderToy",https://www.shadertoy.com/
-"general stuff",the-book-of-shaders-examples,"The Book of Shaders",https://thebookofshaders.com/examples/
-"general stuff",glsl-sandbox-wwi-dogfight,"WWI dogfight",http://glslsandbox.com/e#63078.0
-"general stuff",library-glsl-essentials,"UW library",https://search.library.wisc.edu/catalog/9912150691002121
-"general stuff",library-opengl4-shading-language-cookbook,"OpenGL4 Shading Language Cookbook",https://search.library.wisc.edu/catalog/9911069619502121
-"general stuff",shaderific-glsl-reference,"GLSL reference",http://www.shaderific.com/glsl/
-"general stuff",khronos-glsl-spec,"here",https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
-"general stuff",the-book-of-shaders,"The Book of Shaders",https://thebookofshaders.com/
-"general stuff",threejs-uniforms-lib,"`UniformsLib`",https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
-"general stuff",shadertoy-snake,"Snake",https://www.shadertoy.com/view/wlVSDK
-"general stuff",webgl-ref-card,"WebGL Reference Card",https://www.khronos.org/files/webgl20-reference-guide.pdf
-"general stuff",glsl-book-amazon,"The OpenGL Shading Language (3e)",https://amzn.to/2x9wtyF
-"general stuff",glsl-book-oreilly,"OpenGL(R) Shading Language on OReilly (via ezproxy)",https://learning-oreilly-com.ezproxy.library.wisc.edu/library/view/opengl-r-shading-language/0321334892/
-"general stuff",glsl-book-library,"OpenGL(R) Shading Language (3e) (at UW Library)",https://search.library.wisc.edu/catalog/9910023080902121
-"2021 Galleries",gallery-21,"2021 Workbook Galleries",https://pages.graphics.cs.wisc.edu/559-sp21/gallery/
-"2021 Galleries",wb02-gallery-21,"2021 Workbook 2 Gallery",https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb02/
-"2021 Galleries",wb03-gallery-21,"2021 Workbook 3 Gallery",https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
-"2022 Galleries",gallery-22,"2022 Gallery Index",https://pages.graphics.cs.wisc.edu/559-sp22/gallery/
-"2022 Galleries",wb02-gallery-22,"2022 Workbook 2 Gallery",https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
-"2022 Galleries",wb03-gallery-22,"2022 Workbook 3 Gallery",https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery03/
-"Graphics Town Things",grtown-rubric,"2023 Graphics Town Rubric",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/rubric
-"Graphics Town Things",grtown-index,"2023 Graphics Town Index",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown
-"Graphics Town Things",grtown-instructions,"2023 Graphics Town Instructions",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown
-"Graphics Town Things",grtown-hints,"2023 Graphics Town Hints",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/hints
-"Graphics Town Things",grtown-advanced,"2023 Graphics Town Advanced Things",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/advanced
-"Graphics Town Things",grtown-instructions-attribution,"2023 Graphics Town Attribution Instructions",https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown/#collaboration-use-re-use-and-attribution
-"Seitz Videos",graphics-5-min-uw,"Graphics in 5 Minutes",https://g5m.cs.washington.edu/
-"Seitz Videos",graphics-5-min-yt,"Graphics in 5 Minutes You Tube Channel",https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO
-"Seitz Videos",g5m-1-affine,"Affine Transformations in 5 Minutes",https://youtu.be/AheaTd_l5Is
-"Seitz Videos",g5m-2-hierarchy,"Hierarchical Modeling in 5 Minutes",https://youtu.be/4iNJdWXsFQ4
-"other videos",beauty-of-bezier,"The Beauty of Bezier Curves",https://www.youtube.com/watch?v=aVwxzDHniEw
-"other videos",continuity-of-splines,"The Continuity of Splines",https://www.youtube.com/watch?v=jvPPXbo87ds
+"Books in Canvas - unfortunately, can't do this with the file list",pla-canvas23,Practical Linear Algebra Chapters on Canvas,https://canvas.wisc.edu/courses/343665/files/folder/Books/PracticalLinearAlgebra
+Books via Amazon,fcg-amazon,Fundamentals of Computer Graphics 5e (purchase via Amazon),https://amzn.to/3GcJd5H
+Books via Amazon,rtr-amazon,,https://amzn.to/3zEgap7
+Books via library,fcg-proquest,Fundamentals of Computer Graphics 4e (official access at ProQuest),https://ebookcentral.proquest.com/lib/wisc/detail.action?docID=4710787
+Books via library,rtr-proquest,Real-Time Rendering 4e (official access at ProQuest),https://ebookcentral.proquest.com/lib/WISC/detail.action?docID=5474527
+Mozilla SVG resources,mozilla-vector,Mozilla (Official) Vector Graphics,https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+Mozilla SVG resources,mozilla-svg,Mozilla SVG Tutorial,https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+CS559 Tutorials Past,tutorials,CS559 Tutorials,https://cs559.github.io/559Tutorials
+CS559 Tutorials Past,learning-goals,CS559 Learning Goals,https://cs559.github.io/559Tutorials/general-info/learning-goals/
+CS559 Tutorials Past,color,CS559 Color Tutorial,https://cs559.github.io/559Tutorials/color/color1/
+CS559 Tutorials Past,points-vectors,"CS559 Tutorial: Points, Vectors, Coordinate Systems",https://cs559.github.io/559Tutorials/math/points-vectors/
+CS559 Tutorials Past,linear-algebra,CS559 Tutorial: Linear Algebra for CS559,https://cs559.github.io/559Tutorials/math/linear-algebra/
+CS559 Tutorials Past,raster-vector,CS559 Tutorial: Image-Based vs. Object-Based Graphics,https://cs559.github.io/559Tutorials/types-of-pictures/images-vs-objects/
+CS559 Tutorials Past,what-is-pixel,CS559 Tutorial: What is a Pixel,https://cs559.github.io/559Tutorials/types-of-pictures/pixels/
+CS559 Tutorials Past,svg1,CS559 SVG Tutorial Part 1: Getting Started with SVG,https://cs559.github.io/559Tutorials/svg/svg1/
+CS559 Tutorials Past,svg2,CS559 SVG Tutorial Part 2: Coordinate Systems,https://cs559.github.io/559Tutorials/svg/svg2/
+CS559 Tutorials Past,svg3,CS559 SVG Tutorial Part 3: Manipulating Primitives,https://cs559.github.io/559Tutorials/svg/svg3/
+CS559 Tutorials Past,svg4,"CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies",https://cs559.github.io/559Tutorials/svg/svg4/
+CS559 Tutorials Past,svg5,CS559 SVG Tutorial Part 5: Transformations and Composition,https://cs559.github.io/559Tutorials/svg/svg5/
+CS559 Tutorials Past,svg6,CS559 SVG Tutorial Part 6: Paths and Beziers,https://cs559.github.io/559Tutorials/svg/svg6/
+CS559 Tutorials Past,svg-tutorial,CS559 SVG Tutorial,https://cs559.github.io/559Tutorials/svg/
+CS559 Tutorials Past,copilot-signup,GitHub Copilot Signup for CS559 Students,https://cs559.github.io/559Tutorials/tools-and-setup/copilot_signup/
+CS559 Tutorials Past,copilot-vscode,Setting up GitHub Copilot in VSCode,https://cs559.github.io/559Tutorials/tools-and-setup/copilot_vscode/
+CS559 Tutorials Past,debuggers,JavaScript Debugger Tutorials,https://cs559.github.io/559Tutorials/javascript/debugger/
+CS559 Tutorials Past,javascript-category,JavaScript Tutorials List,https://cs559.github.io/559Tutorials/javascript/
+Course Web (Spring 2023 -> 24),typed-js,Typed JavaScript and CS559,https://cs559.github.io/559Tutorials/javascript/typed-js/
+Course Web (Spring 2023 -> 24),javascript,Javascript in CS559,https://cs559.github.io/559Tutorials/javascript/javascript559/
+Course Web (Spring 2023 -> 24),javascript559,Javascript in CS559,https://cs559.github.io/559Tutorials/javascript/javascript559/
+Course Web (Spring 2023 -> 24),git,Git and GitHub in CS559,https://cs559.github.io/559Tutorials/tools-and-setup/git559/
+Course Web (Spring 2023 -> 24),traditional-oop-js,Traditional Object Oriented Programming in JavaScript,https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+Course Web (Spring 2023 -> 24),git-ssh,Git Setup and SSH Configuration,https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
+Course Web (Spring 2023 -> 24),vscode559,Visual Studio Code (VSCode) for CS559,https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
+Web tutorials and references,request-animation-frame,Official RequestAnimationFrame Docs,https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+Web tutorials and references,mozilla-script-tag,Office Script Tag Documentation,https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+Web tutorials and references,learning-html,Mozilla HTML Learning Guide,https://developer.mozilla.org/en-US/docs/Learn/HTML
+Web tutorials and references,getting-started-html,Mozilla Getting Started with HTML,https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+Web tutorials and references,mozilla-css,Mozilla Tutorial on CSS,https://developer.mozilla.org/en-US/docs/Learn/CSS
+Web tutorials and references,w3schools-defer,W3 Schools documentation on defer,https://www.w3schools.com/tags/att_script_defer.asp
+Web tutorials and references,template-literals,Template Literals Documentation,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+Web tutorials and references,closure-tutorial-video,Closure Tutorial Video,https://mediaspace.wisc.edu/media/Lecture%2002%3A%2001_28_2021%20Bonus%20video%3A%20Closures/1_6e7qmca0
+Web tutorials and references,debug-tutorial,Debugger Tutorial (GitHub Repository),https://github.com/CS559/DebuggerTutorial
+Web tutorials and references,closure-tutorial,Functional Programming Tutorial (repo),https://github.com/CS559/FunctionalTutorial
+Web tutorials and references,canvas-cheat-sheet,Canvas Cheat Sheet: ,https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+Web tutorials and references,marinacci-canvas,HTML Canvas Deep Dive: ,https://joshondesign.com/p/books/canvasdeepdive/title.html
+Web tutorials and references,marinacci-canvas-ch01,first chapter,https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
+Web tutorials and references,transform-demos,2D Transform Demos,https://cs559.github.io/2DTransformDemos/
+Web tutorials and references,transform-toy-default,2D Transform Toy (default demos),https://cs559.github.io/2DTransformDemos/transformToy.html
+Kaltura,DeCastlejau_2,DeCastlejau 2,https://mediaspace.wisc.edu/media/1_ht8bd4ii
+Kaltura,DeCastlejau_3,DeCastlejau 3,https://mediaspace.wisc.edu/media/1_yfe2pejr
+Kaltura,DeCastlejau_4,DeCastlejau 4,https://mediaspace.wisc.edu/media/1_b45evtd7
+Kaltura,2012-games-project,2012 Games Class Projects,http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
+Kaltura,ian-irene-games-project,Ian and Irene's Asteroids Game,http://graphics.cs.wisc.edu/Courses/Games10/proj1/RaeShei/
+Kaltura,jeff-chris-games-project,Jeff and Chris' Sheep Herder Game,http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
+Kaltura,hughsk-boids,Online Boids Demo,https://hughsk.io/boids/
+Kaltura,boids-video,YouTube video by Sebastian Lague,https://www.youtube.com/watch?v=bqtqltqcQhw&
+Kaltura,2008-boids,2008 Boids Demo,https://cs559.github.io/2008Boids/
+Kaltura,1999-train,1999 Train Assignment,https://research.cs.wisc.edu/graphics/Courses/638-f1999/Projects/proj3.htm
+Kaltura,2014-train,2014 Train Assignment,http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
+Kaltura,2008-train-expert,the train expert,https://graphics.cs.wisc.edu/Courses/559-f2008/pubs/pub_train_samtrain.jpg
+Kaltura,2008-train,2008 Train Assignment,https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
+Kaltura,2008-constructionsite,2008 Construction Site,https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-constructionsite/
+Kaltura,2008-excavator,2008 Excavator,https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
+Kaltura,2015-texture-example,2015 example,https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
+Kaltura,2020-lecture-19,Lecture 19/20,https://graphics.cs.wisc.edu/Courses/559-sp2020/posts/lecture19/
+Kaltura,craig-reynolds,Craig Reynolds,http://www.red3d.com/cwr/
+Kaltura,craig-reynolds-flocking-paper,Craig Reynolds Flocking Paper,https://dl.acm.org/citation.cfm?id=37406
+Kaltura,craig-reynolds-boids-page,Craig Reynolds Boids Page,http://www.red3d.com/cwr/boids/
+Kaltura,craig-reynolds-steering-behavior,Craig Reynolds Steering Behavior,http://www.red3d.com/cwr/steer/gdc99/
+Kaltura,mozilla-canvas,Mozilla (Official) Canvas Tutorial (top level),https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+Kaltura,mozilla-canvas-basic,Mozilla (Official) Canvas Tutorial: Getting Started,https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+Kaltura,mozilla-canvas-shapes,Mozilla (Official) Canvas Tutorial: Drawing Shapes,https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+Kaltura,mozilla-canvas-styles,Mozilla (Official) Canvas Tutorial: Styles,https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+Kaltura,mozilla-canvas-current-transform,Canvas Current Transform,https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/currentTransform
+Kaltura,mozilla-canvas-transform,Canvas Transform,https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/transform
+Kaltura,mozilla-canvas-set-transform,Canvas Set Transform,https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
+Kaltura,mozilla-canvas-api,Mozilla (Official) Canvas API Documentation,https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+Kaltura,mozilla-typed-array,TypedArray objects,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+Kaltura,mozilla-atan2,Mozilla `atan2` documentation,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
+three.js,threejs-docs,THREE.js Documentation (current),https://threejs.org/docs
+three.js,threejs-object3D,documentation for `Object3D` index.html#api/en/core/Object3D,https://threejs.org/docs/
+three.js,threejs-group,documentation for `Group` index.html#api/en/objects/Group,https://threejs.org/docs/
+three.js,threejs-orbitControls,documentation for `OrbitControls`,https://threejs.org/docs/#examples/controls/OrbitControls
+three.js,threejs-webGlRenderer,WebGLRenderer index.html#api/en/renderers/WebGLRenderer,https://threejs.org/docs/
+three.js,threejs-axesHelper,AxesHelper,https://threejs.org/docs/#api/en/helpers/AxesHelper
+three.js,threejs-cameraHelper,CameraHelper,https://threejs.org/docs/#api/en/helpers/CameraHelper
+three.js,threejs-mesh,Mesh index.html#api/en/objects/Mesh,https://threejs.org/docs/
+three.js,threejs-meshStandardMaterial,MeshStandardMaterial,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+three.js,threejs-meshPhongMaterial,MeshPhongMaterial,https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
+three.js,threejs-matrix,matrix transformations,https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
+three.js,threejs-perspectiveCamera,PerspectiveCamera,https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
+three.js,threejs-ambientLight,AmbientLight,https://threejs.org/docs/#api/en/lights/AmbientLight
+three.js,threejs-pointLight,PointLight,https://threejs.org/docs/#api/en/lights/PointLight
+three.js,threejs-spotLight,SpotLight,https://threejs.org/docs/#api/en/lights/SpotLight
+three.js,threejs-directionalLight,DirectionalLight,https://threejs.org/docs/#api/en/lights/DirectionalLight
+three.js,threejs-sphere,sphere,https://threejs.org/docs/api/en/geometries/SphereGeometry.html
+three.js,threejs-cone,cone,https://threejs.org/docs/#api/en/geometries/ConeGeometry
+three.js,threejs-lathe,lathe,https://threejs.org/docs/#api/en/geometries/LatheGeometry
+three.js,threejs-getting-started,THREE.js Getting Started index.html#manual/en/introduction/Creating-a-scene,https://threejs.org/docs/
+three.js,threejs-tutorial,THREE.js Tutorial,https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
+three.js,threejs-buffergeometry,Buffer Geometry,https://threejs.org/docs/#api/en/core/BufferGeometry
+three.js,threejs-face3-deprecated,Face3 (deprecated),https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
+three.js,threejs-geometry-deprecated,Geometry (Deprecated),https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
+three.js,threejs-texture,`Texture`,https://threejs.org/docs/#api/en/textures/Texture
+three.js,discoverthreejs,Discover ThreeJS,https://discoverthreejs.com/
+three.js,discoverthreejs-transformations-tutorial,the threejs transformations tutorial,https://discoverthreejs.com/book/first-steps/transformations/
+three.js,discoverthreejs-train-tutorial,the threejs built-in geometry tutorial (with train),https://discoverthreejs.com/book/first-steps/built-in-geometries/
+three.js,discoverthreejs-textures-intro,this Discover ThreeJS texture tutorial,https://discoverthreejs.com/book/first-steps/textures-intro/
+three.js,threejsfundamentals-textures-tutorial,nice tutorial on texture mapping,https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
+three.js,allen-threejs-baby-steps,ThreeJS Baby Steps,http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
+three.js,threejs-meshstandardmaterial,`MeshStandardMaterial`,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+three.js,unity-standard-shader-material-parameter-normal-map,Unity documentation,https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
+three.js,threejs-mesh-standard-material,documentation,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
+three.js,threejs-cube-texture,`CubeTextureMap`,https://threejs.org/docs/#api/en/textures/CubeTexture
+three.js,threejs-scene-background,`background` of the `Scene` index.html#api/en/scenes/Scene.background,https://threejs.org/docs/
+three.js,threejs-cube-texture-loader,`CubeTextureLoader` index.html#api/en/loaders/CubeTextureLoader,https://threejs.org/docs/
+three.js,threejs-shader-material,documentation,https://threejs.org/docs/#api/en/materials/ShaderMaterial
+three.js,threejs-webgl-program,this page,https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
+three.js,framework-shader-helper,documentation,https://cs559.github.io/CS559-Framework23/module-shaderHelper.html
+three.js,threejs-manual,THREE manual,https://threejs.org/manual/
+three.js,framework-documentation,Framework Documentation,https://cs559.github.io/CS559-Framework23/
+three.js,2020-framework-demos,demos,https://cs559.github.io/S20-FrameworkDemos/
+general stuff,hugo,Hugo,https://gohugo.io/
+general stuff,pla_library,Practical Linear Algebra at the UW Library,https://search.library.wisc.edu/catalog/9911163667202121
+general stuff,understanding-es6-ch13,this chapter in Understanding ES6,https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
+general stuff,wikipedia-bogie,Wikipedia article,https://en.wikipedia.org/wiki/Bogie
+general stuff,wikipedia-bogie-diagram,this diagram,https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
+general stuff,aviator-game,Aviator Game,https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+general stuff,snowman-wikipedia,Snowman,https://en.wikipedia.org/wiki/Snowman
+general stuff,roundabout-wikipedia,Roundabout,https://en.wikipedia.org/wiki/Roundabout_(play)
+general stuff,concrete-pumper-1,Potratz,http://www.potratzsouth.com/
+general stuff,concrete-pumper-2,Gordy's,http://gordysconcretepumping.com/
+general stuff,pile-driver,Pile Driver,https://en.wikipedia.org/wiki/Pile_driver
+general stuff,jsdoc,jsdoc,https://jsdoc.app/
+general stuff,explore-js,Exploring JS Ch15,http://exploringjs.com/es6/ch_classes.html
+general stuff,ellas-deli,Ella's Deli,https://isthmus.com/news/news/epic-buys-carousel-from-ellas-deli/
+general stuff,trip-savvy,Trip Savvy,https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
+general stuff,dominoes-image,in a drawing,https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
+general stuff,roof-types,this page,https://www.roofingcalc.com/top-20-roof-types/
+general stuff,360toolkit-cubemap-converter,defunct web converter,https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
+general stuff,panorama-to-cubemap,Panorama Converter on GitHub,https://jaxry.github.io/panorama-to-cubemap/
+general stuff,polyhaven,Poly Haven,https://polyhaven.com/
+general stuff,bourke,"Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are.",http://paulbourke.net/
+general stuff,bourke-cubemaps,Paul Bourke's Cubemap Conversion Page,http://paulbourke.net/panorama/cubemaps/
+general stuff,shader-frog,ShaderFrog,https://shaderfrog.com/
+general stuff,khronos-webgl-reference-card,WebGL Reference Card,https://www.khronos.org/files/webgl20-reference-guide.pdf
+general stuff,bkcore-blog-shdr,here,http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
+general stuff,glsl-sandbox,GLSL Sandbox,http://glslsandbox.com/
+general stuff,shadertoy,ShaderToy,https://www.shadertoy.com/
+general stuff,the-book-of-shaders-examples,The Book of Shaders,https://thebookofshaders.com/examples/
+general stuff,glsl-sandbox-wwi-dogfight,WWI dogfight,http://glslsandbox.com/e#63078.0
+general stuff,library-glsl-essentials,UW library,https://search.library.wisc.edu/catalog/9912150691002121
+general stuff,library-opengl4-shading-language-cookbook,OpenGL4 Shading Language Cookbook,https://search.library.wisc.edu/catalog/9911069619502121
+general stuff,shaderific-glsl-reference,GLSL reference,http://www.shaderific.com/glsl/
+general stuff,khronos-glsl-spec,here,https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
+general stuff,the-book-of-shaders,The Book of Shaders,https://thebookofshaders.com/
+general stuff,threejs-uniforms-lib,`UniformsLib`,https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
+general stuff,shadertoy-snake,Snake,https://www.shadertoy.com/view/wlVSDK
+general stuff,webgl-ref-card,WebGL Reference Card,https://www.khronos.org/files/webgl20-reference-guide.pdf
+general stuff,glsl-book-amazon,The OpenGL Shading Language (3e),https://amzn.to/2x9wtyF
+general stuff,glsl-book-oreilly,OpenGL(R) Shading Language on OReilly (via ezproxy),https://learning-oreilly-com.ezproxy.library.wisc.edu/library/view/opengl-r-shading-language/0321334892/
+general stuff,glsl-book-library,OpenGL(R) Shading Language (3e) (at UW Library),https://search.library.wisc.edu/catalog/9910023080902121
+2021 Galleries,gallery-21,2021 Workbook Galleries,https://pages.graphics.cs.wisc.edu/559-sp21/gallery/
+2021 Galleries,wb02-gallery-21,2021 Workbook 2 Gallery,https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb02/
+2021 Galleries,wb03-gallery-21,2021 Workbook 3 Gallery,https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
+2022 Galleries,gallery-22,2022 Gallery Index,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/
+2022 Galleries,wb02-gallery-22,2022 Workbook 2 Gallery,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
+2022 Galleries,wb03-gallery-22,2022 Workbook 3 Gallery,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery03/
+Graphics Town Things,grtown-rubric,2023 Graphics Town Rubric,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/rubric
+Graphics Town Things,grtown-index,2023 Graphics Town Index,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown
+Graphics Town Things,grtown-instructions,2023 Graphics Town Instructions,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown
+Graphics Town Things,grtown-hints,2023 Graphics Town Hints,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/hints
+Graphics Town Things,grtown-advanced,2023 Graphics Town Advanced Things,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/advanced
+Graphics Town Things,grtown-instructions-attribution,2023 Graphics Town Attribution Instructions,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown/#collaboration-use-re-use-and-attribution
+Seitz Videos,graphics-5-min-uw,Graphics in 5 Minutes,https://g5m.cs.washington.edu/
+Seitz Videos,graphics-5-min-yt,Graphics in 5 Minutes You Tube Channel,https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO
+Seitz Videos,g5m-1-affine,Affine Transformations in 5 Minutes,https://youtu.be/AheaTd_l5Is
+Seitz Videos,g5m-2-hierarchy,Hierarchical Modeling in 5 Minutes,https://youtu.be/4iNJdWXsFQ4
+other videos,beauty-of-bezier,The Beauty of Bezier Curves,https://www.youtube.com/watch?v=aVwxzDHniEw
+other videos,continuity-of-splines,The Continuity of Splines,https://www.youtube.com/watch?v=jvPPXbo87ds
+galleries,fireworks22,2022 Fireworks Gallery,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/#box-8-1
+galleries,fireworks21,2021 Fireworks Gallery,https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb02/#box-7-2
+galleries,fireworks23,2023 Fireworks Gallery,https://pages.graphics.cs.wisc.edu/559-sp23/gallery/wb02/#box-02-08-01---fireworks
+galleries,pictures24,2024 Canvas Pictures Gallery,https://pages.graphics.cs.wisc.edu/559-sp24/gallery/wb02/#box-02-04-02---make-a-picture
+galleries,pictures23,2023 Canvas Pictures Gallery,https://pages.graphics.cs.wisc.edu/559-sp23/gallery/wb02/#box-02-04-02---make-a-picture
