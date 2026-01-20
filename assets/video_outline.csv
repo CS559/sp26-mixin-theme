@@ -1,267 +1,267 @@
-week,topic,concept,video_id,timestamp
-1,[Tue 1/24] Welcome,"Lectures in Zoom: emojis, polls, chat, slides",Lecture 1,02:44
-1,[Tue 1/24] Welcome,What is Computer Graphics?,Lecture 1,25:09
-1,[Tue 1/24] Welcome,Course Goals,Lecture 1,31:05
-1,[Tue 1/24] Welcome,Learning JavaScript,Lecture 1,45:46
-1,[Tue 1/24] Welcome,Course Webs and Tools,Lecture 1,53:33
-1,[Tue 1/24] Welcome,Course Staff and Getting Help,Lecture 1,59:26
-1,[Tue 1/24] Welcome,"The Weekly Rhythm (Assignments, Lectures, Grading, and Resources)",Lecture 1,1:05:48
-1,[Tue 1/24] Welcome,Summary,Lecture 1,1:11:26
-1,[Tue 1/24] Welcome,End/Questions,Lecture 1,1:11:59
-1,[Thu 1/26] Pre-Graphics,Using Live Server,Lecture 2,06:02
-1,[Thu 1/26] Pre-Graphics,Advice on Learning JavaScript,Lecture 2,12:30
-1,[Thu 1/26] Pre-Graphics,"Variables, conditionals, and loops",Lecture 2,18:10
-1,[Thu 1/26] Pre-Graphics,Object Orientation in JS,Lecture 2,27:03
-1,[Thu 1/26] Pre-Graphics,Functions in JS,Lecture 2,31:44
-1,[Thu 1/26] Pre-Graphics,Functions and Lexical Scope,Lecture 2,42:49
-1,[Thu 1/26] Pre-Graphics,Intro to Web Pages,Lecture 2,51:50
-1,[Thu 1/26] Pre-Graphics,Where do programs go?,Lecture 2,56:39
-1,[Thu 1/26] Pre-Graphics,When will JS run?,Lecture 2,1:05:06
-2,[Tue 1/31] Graphics and Web Graphics 101,How do we see?,Lecture 3,02:20
-2,[Tue 1/31] Graphics and Web Graphics 101,How computers create images,Lecture 3,11:40
-2,[Tue 1/31] Graphics and Web Graphics 101,Drawing Shapes on Web Pages,Lecture 3,20:35
-2,[Tue 1/31] Graphics and Web Graphics 101,The Canvas Element,Lecture 3,24:39
-2,[Tue 1/31] Graphics and Web Graphics 101,When do I draw?,Lecture 3,35:38
-2,[Tue 1/31] Graphics and Web Graphics 101,Where do I draw?,Lecture 3,45:16
-2,[Tue 1/31] Graphics and Web Graphics 101,Paths and the Pen Model,Lecture 3,55:55
-2,[Tue 1/31] Graphics and Web Graphics 101,Summary,Lecture 3,1:07:39
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Buffering and Making Motion Believable,Lecture 4,02:32
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Back to the Pen Model,Lecture 4,27:27
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Determining how to fill a shape (Even/Odd),Lecture 4,36:05
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Winding (Non-zero) Method,Lecture 4,41:57
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,"Drawing Summary, About Canvas Positioning",Lecture 4,48:56
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Event Handling,Lecture 4,54:12
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Demo,Lecture 4,01:07:19
-2,[Thurs 2/2] More Basic Graphics and Web Graphics,Summary,Lecture 4,01:14:37
-3,[Tue 2/7] Transformations 1,Agenda,Lecture 5,00:01:38
-3,[Tue 2/7] Transformations 1,Visualizing Transformations,Lecture 5,00:06:16.00
-3,[Tue 2/7] Transformations 1,Return of Lecture,Lecture 5,00:14:32
-3,[Tue 2/7] Transformations 1,Instancing,Lecture 5,00:23:03
-3,[Tue 2/7] Transformations 1,Types of Transformations,Lecture 5,00:31:57
-3,[Tue 2/7] Transformations 1,Points of Scaling/Rotation,Lecture 5,00:50:55
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Agenda,Lecture 6,0:00:42
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,"Sequences of Transformations, Non-Uniform Scaling",Lecture 6,0:08:34
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Skew,Lecture 6,0:18:33
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Hierarchy and Chaining,Lecture 6,0:20:37
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,"A ""Tree of Parts""",Lecture 6,0:36:56
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Structured SVG,Lecture 6,0:48:45
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Reusing Assets,Lecture 6,1:00:12
-3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,SVG vs Canvas,Lecture 6,1:10:25
-4,[Tue 2/14] Transformation Math,About Transformations and Coordinate Systems,Lecture 7,00:03:49
-4,[Tue 2/14] Transformation Math,Vectors and Points,Lecture 7,00:13:05
-4,[Tue 2/14] Transformation Math,Matrix Math,Lecture 7,00:20:36
-4,[Tue 2/14] Transformation Math,Transformations are Functions,Lecture 7,00:33:41
-4,[Tue 2/14] Transformation Math,Affine Transforms Across Dimensions,Lecture 7,00:43:17
-4,[Tue 2/14] Transformation Math,Non-Affine Matrices in 3D,Lecture 7,00:53:50
-4,[Tue 2/14] Transformation Math,How APIs do this Math,Lecture 7,00:59:25
-4,[Tue 2/14] Transformation Math,Summary,Lecture 7,01:07:29
-4,[Thu 2/16] More Transformation Math,Review,Lecture 8,00:02:46
-4,[Thu 2/16] More Transformation Math,Intepretation of Transformation in SVG,Lecture 8,00:12:02
-4,[Thu 2/16] More Transformation Math,Composition of Transformation,Lecture 8,00:15:41
-4,[Thu 2/16] More Transformation Math,Order changing example,Lecture 8,00:21:14
-4,[Thu 2/16] More Transformation Math,Affine as Linear,Lecture 8,00:26:48
-4,[Thu 2/16] More Transformation Math,What about rotation,Lecture 8,00:38:15
-4,[Thu 2/16] More Transformation Math,Linear Interpolation and Matrices,Lecture 8,00:52:07
-4,[Thu 2/16] More Transformation Math,Use of Rotations: Boids,Lecture 8,01:00:43
-4,[Thu 2/16] More Transformation Math,Summary,Lecture 8,01:13:48
-5,[Tue 2/21] Curves 1,Agenda and Introduction to Curves,Lecture 9,00:02:03
-5,[Tue 2/21] Curves 1,Curve Representations,Lecture 9,00:09:36
-5,[Tue 2/21] Curves 1,The Free Parameter,Lecture 9,00:20:43
-5,[Tue 2/21] Curves 1,Approximating Curves,Lecture 9,00:29:34
-5,[Tue 2/21] Curves 1,Mathematically Defining Continuity,Lecture 9,00:37:11
-5,[Tue 2/21] Curves 1,Continuity With Arcs,Lecture 9,00:49:23
-5,[Tue 2/21] Curves 1,Piecewise Parametrization of a Curve,Lecture 9,00:57:40
-5,[Tue 2/21] Curves 1,A Line as a Parametric Polynomial,Lecture 9,01:03:40
-5,[Tue 2/21] Curves 1,Summary,Lecture 9,01:12:49
-5,[Thu 2/23] Curves 2,Agenda,Lecture 10,00:01:53
-5,[Thu 2/23] Curves 2,Basis Functions,Lecture 10,00:13:22
-5,[Thu 2/23] Curves 2,Using Basis Functions to Make a Curve,Lecture 10,00:21:14
-5,[Thu 2/23] Curves 2,Hermite Form,Lecture 10,00:25:14
-5,[Thu 2/23] Curves 2,Cardinal Splines,Lecture 10,00:35:12
-5,[Thu 2/23] Curves 2,What To Do With 3 Points,Lecture 10,00:48:10
-5,[Thu 2/23] Curves 2,Bezier Curves,Lecture 10,00:52:41.0
-5,[Thu 2/23] Curves 2,De Castlejau Construction,Lecture 10,00:58:23
-5,[Thu 2/23] Curves 2,Wiggle Theorem and Crossing Property,Lecture 10,01:11:36
-6,[Tue 2/28] Curves 3,Important Notes About Curves,Lecture 11,00:01:28
-6,[Tue 2/28] Curves 3,Cardinal Interpolation and Bezier Curves,Lecture 11,00:08:51
-6,[Tue 2/28] Curves 3,The Train Assignment,Lecture 11,00:20:59
-6,[Tue 2/28] Curves 3,Arc Length,Lecture 11,00:33:15
-6,[Tue 2/28] Curves 3,TCB Curves (Fancy Cardinals),Lecture 11,00:41:48
-6,[Tue 2/28] Curves 3,Good and Bad of Beziers,Lecture 11,00:46:41
-6,[Tue 2/28] Curves 3,Polynomial Curves,Lecture 11,00:51:46
-6,[Tue 2/28] Curves 3,B-Splines,Lecture 11,00:56:18
-6,[Tue 2/28] Curves 3,Thinking in Basis Functions,Lecture 11,01:08:20
-6,[Tue 2/28] Curves 3,Summary,Lecture 11,01:14:58
-6,[Thu 3/2] Intro to 3D and Three,"These are Small, Those are Far Away",Lecture 12,00:01:40
-6,[Thu 3/2] Intro to 3D and Three,Key Concepts in 3D,Lecture 12,00:09:05
-6,[Thu 3/2] Intro to 3D and Three,Showing 3D Objects in a 2D Plane,Lecture 12,00:15:47
-6,[Thu 3/2] Intro to 3D and Three,Components of a 3D Scene and Program,Lecture 12,00:25:38
-6,[Thu 3/2] Intro to 3D and Three,Concepts in THREE.JS,Lecture 12,00:30:22
-6,[Thu 3/2] Intro to 3D and Three,Getting Started in THREE.JS,Lecture 12,00:38:22
-6,[Thu 3/2] Intro to 3D and Three,A THREE.JS Program,Lecture 12,00:46:48
-6,[Thu 3/2] Intro to 3D and Three,Materials in THREE.JS,Lecture 12,00:53:53
-6,[Thu 3/2] Intro to 3D and Three,Naming Conventions,Lecture 12,00:56:23
-6,[Thu 3/2] Intro to 3D and Three,Naming Conventions,Lecture 12,00:56:23
-6,[Thu 3/2] Intro to 3D and Three,Transformations in 3D,Lecture 12,01:00:00
-6,[Thu 3/2] Intro to 3D and Three,The 3D Camera,Lecture 12,01:04:32
-7,[Tue 3/7] More 3D and Three,Review of 3D Fundamentals,Lecture 13,00:03:09
-7,[Tue 3/7] More 3D and Three,"Triangles, Normals, Barycentric Interpolation",Lecture 13,00:10:30
-7,[Tue 3/7] More 3D and Three,Surfaces vs Volumes,Lecture 13,00:15:49
-7,[Tue 3/7] More 3D and Three,Coordinates in 3D,Lecture 13,00:25:23
-7,[Tue 3/7] More 3D and Three,Example 3D Scene,Lecture 13,00:30:38
-7,[Tue 3/7] More 3D and Three,Camera Coordinate System,Lecture 13,00:47:29
-7,[Tue 3/7] More 3D and Three,How THREE Stores Attributes,Lecture 13,00:51:43
-7,[Tue 3/7] More 3D and Three,Scale in THREE,Lecture 13,01:03:03
-7,[Tue 3/7] More 3D and Three,Summary,Lecture 13,1:05:15
-7,[Thu 3/9] Cameras Lights,State vs Transformations,Lecture 14,0:03:11
-7,[Thu 3/9] Cameras Lights,Center of Rotation and Examples,Lecture 14,0:08:45
-7,[Thu 3/9] Cameras Lights,The Camera in THREE,Lecture 14,0:19:43
-7,[Thu 3/9] Cameras Lights,Key Concepts About the 3D Camera,Lecture 14,0:32:38
-7,[Thu 3/9] Cameras Lights,Projections,Lecture 14,0:38:43
-7,[Thu 3/9] Cameras Lights,Perspective View and History,Lecture 14,0:48:51
-7,[Thu 3/9] Cameras Lights,"FOV, Focal Length, and Math",Lecture 14,0:54:25
-7,[Thu 3/9] Cameras Lights,Defining Camera Properties in THREE,Lecture 14,1:06:16
-7,[Thu 3/9] Cameras Lights,Lighting and Materials,Lecture 14,1:07:50
-7,[Thu 3/9] Cameras Lights,Summary,Lecture 14,1:13:33
-8,[Tue 3/21] More 3D - Rotations,Review on Cameras,Lecture 15,00:02:58
-8,[Tue 3/21] More 3D - Rotations,Standard Lighting Model,Lecture 15,00:08:23
-8,[Tue 3/21] More 3D - Rotations,Types of Light Sources,Lecture 15,00:21:48
-8,[Tue 3/21] More 3D - Rotations,Animating in 3D,Lecture 15,00:24:27
-8,[Tue 3/21] More 3D - Rotations,Transformations in 3D -- Differences from 2D,Lecture 15,00:31:49
-8,[Tue 3/21] More 3D - Rotations,Rotations are Special,Lecture 15,00:36:02
-8,[Tue 3/21] More 3D - Rotations,"Changing the Origin for Rotation, Using Groups",Lecture 15,00:48:53
-8,[Tue 3/21] More 3D - Rotations,Euler's Theorems,Lecture 15,01:00:56
-8,[Tue 3/21] More 3D - Rotations,"Good and Bad of Euler Angles, Quaternions",Lecture 15,01:07:21
-8,[Tue 3/21] More 3D - Rotations,Summary,Lecture 15,1:13:33
-8,[Thu 3/23] More Rotations - Meshes,Representing Rotations,Lecture 16,00:01:31
-8,[Thu 3/23] More Rotations - Meshes,Euler Angles Demo,Lecture 16,00:08:25
-8,[Thu 3/23] More Rotations - Meshes,Composing Rotations and Problems With This,Lecture 16,00:12:09
-8,[Thu 3/23] More Rotations - Meshes,Quaternions,Lecture 16,00:23:17
-8,[Thu 3/23] More Rotations - Meshes,ThreeJS and Quaternions,Lecture 16,00:34:06
-8,[Thu 3/23] More Rotations - Meshes,Look At Matrices/Operations,Lecture 16,00:41:35
-8,[Thu 3/23] More Rotations - Meshes,Rotations Summary,Lecture 16,00:47:37
-8,[Thu 3/23] More Rotations - Meshes,Mesh Basics,Lecture 16,00:49:07
-8,[Thu 3/23] More Rotations - Meshes,Buffers and BufferGeometry,Lecture 16,1:09:13
-8,[Tue 3/28] Meshes and Lighting,Meshes and Buffer Geometry,Lecture 17,00:01:49
-8,[Tue 3/28] Meshes and Lighting,Colors on Meshes,Lecture 17,00:16:13
-8,[Tue 3/28] Meshes and Lighting,Barycentric Colors,Lecture 17,00:20:57
-8,[Tue 3/28] Meshes and Lighting,Normal Vectors and Colors,Lecture 17,00:25:47
-8,[Tue 3/28] Meshes and Lighting,Transforming Normals and Mesh Summary,Lecture 17,00:36:16
-8,[Tue 3/28] Meshes and Lighting,Diffuse and Specular Materials,Lecture 17,00:40:19
-8,[Tue 3/28] Meshes and Lighting,Improving Results and Summary,Lecture 17,01:08:40
-8,Standard Texturing - Basic Texturing Review,Why Basic Textures?,Lecture 18A,00:00:18
-8,Standard Texturing - Basic Texturing Review,How To Do Basic Textures?,Lecture 18A,00:02:00
-8,Standard Texturing - Basic Texturing Review,What do we need from a texture?,Lecture 18A,00:04:33
-8,Standard Texturing - Basic Texturing Review,Putting textures in THREE,Lecture 18A,00:06:45
-8,Standard Texturing - Basic Texturing Review,What the hardware does,Lecture 18A,00:11:47
-8,Standard Texturing - Basic Texturing Review,End,Lecture 18A,00:15:35
-8,Standard Texturing - Texture Basics,How to get more than 3 colors on a triangle?,Lecture 18B,00:00:06
-8,Standard Texturing - Texture Basics,Texture Mapping: Basic Idea,Lecture 18B,00:02:01
-8,Standard Texturing - Texture Basics,Basic Texture Mapping,Lecture 18B,00:04:25
-8,Standard Texturing - Texture Basics,Demo,Lecture 18B,00:08:36
-8,Standard Texturing - Texture Basics,UV Mapping,Lecture 18B,00:10:23
-8,Standard Texturing - Texture Basics,Texture Wrapping,Lecture 18B,00:14:28
-8,Standard Texturing - Texture Basics,Steps for using Texture Mapping,Lecture 18B,00:17:37
-8,Standard Texturing - Texture Basics,End,Lecture 18B,00:20:03
-8,Standard Texturing - Texture in THREE,The steps to texture mapping,Lecture 18C,00:00:45
-8,Standard Texturing - Texture in THREE,Textures in THREE: Create objects with UVs,Lecture 18C,00:01:51
-8,Standard Texturing - Texture in THREE,Textures in THREE: Load Textures,Lecture 18C,00:05:26
-8,Standard Texturing - Texture in THREE,Textures in THREE: Attack as colors to objects,Lecture 18C,00:08:25
-8,Standard Texturing - Texture in THREE,An Entire Example,Lecture 18C,00:09:42
-8,Standard Texturing - Texture in THREE,Some caveats for Textures in THREE,Lecture 18C,00:12:04
-8,Standard Texturing - Texture in THREE,End,Lecture 18C,00:13:23
-8,Standard Texturing - How Texture Mapping Works,Texture Coordinate and Texture Lookup,Lecture 18D,00:00:14
-8,Standard Texturing - How Texture Mapping Works,The Problems of Texture Lookup,Lecture 18D,00:01:54
-8,Standard Texturing - How Texture Mapping Works,Texture Lookups: Magnification,Lecture 18D,00:03:39
-8,Standard Texturing - How Texture Mapping Works,Texture Lookups: Minification,Lecture 18D,00:08:50
-8,Standard Texturing - How Texture Mapping Works,Simple Filtering,Lecture 18D,00:11:12
-8,Standard Texturing - How Texture Mapping Works,Digging into Filtering: Summed Area Table,Lecture 18D,00:13:27
-8,Standard Texturing - How Texture Mapping Works,Digging into Filtering: Mip-Maps,Lecture 18D,00:18:18
-8,Standard Texturing - How Texture Mapping Works,THREE Options,Lecture 18D,00:30:06
-8,Standard Texturing - How Texture Mapping Works,End,Lecture 18D,00:32:07
-9,Advanced Texturing - Normals and Bump Mapping,Fake normals,Lecture 19A,00:00:11
-9,Advanced Texturing - Normals and Bump Mapping,Normal maps and bump maps,Lecture 19A,00:11:17
-9,Advanced Texturing - Normals and Bump Mapping,End,Lecture 19A,00:23:05
-9,Advanced Texturing - Other Texturing Tricks,Layered textures,Lecture 19B,00:09:04
-9,Advanced Texturing - Other Texturing Tricks,Light maps for pre-computed lights,Lecture 19B,00:10:55
-9,Advanced Texturing - Other Texturing Tricks,Ambient occlusion,Lecture 19B,00:15:07
-9,Advanced Texturing - Other Texturing Tricks,Procedural and solid textures,Lecture 19B,00:17:43
-9,Advanced Texturing - Other Texturing Tricks,End,Lecture 19B,00:22:01
-9,Advanced Texturing - Sky Boes and Environment Maps,Sky Boxes,Lecture 19C,00:03:28
-9,Advanced Texturing - Sky Boes and Environment Maps,Environment mapping,Lecture 19C,00:08:43
-9,Advanced Texturing - Sky Boes and Environment Maps,End,Lecture 19C,00:23:01
-9,Advanced Texturing - Shadow Maps,Shadow map,Lecture 19D,00:00:01
-9,Advanced Texturing - Shadow Maps,Shadow map,Lecture 19D,00:14:48
-9,[Thu 4/6] Drawing in 3D,Global Lighting Effects,Lecture 20,00:08:18
-9,[Thu 4/6] Drawing in 3D,Global Lighting Effects,Lecture 20,00:12:56
-9,[Thu 4/6] Drawing in 3D,Texture Mapping Review,Lecture 20,00:19:10
-9,[Thu 4/6] Drawing in 3D,Steps of Drawing in 3D,Lecture 20,00:27:33
-9,[Thu 4/6] Drawing in 3D,Transformation,Lecture 20,00:33:05
-9,[Thu 4/6] Drawing in 3D,Reasons you might not see a triangle,Lecture 20,00:33:05
-9,[Thu 4/6] Drawing in 3D,Visibility Algorithms,Lecture 20,00:39:58
-9,[Thu 4/6] Drawing in 3D,Problems with Z-Indexing,Lecture 20,00:58:48
-9,[Thu 4/6] Drawing in 3D,Summary,Lecture 20,01:08:41
-10,[Tue 4/11] ,Agenda,Lecture 21,00:04:43
-10,[Tue 4/11] ,The Pipeline,Lecture 21,00:08:05
-10,[Tue 4/11] ,Constant State,Lecture 21,00:15:41
-10,[Tue 4/11] ,What can our Program Do?,Lecture 21,00:19:46
-10,[Tue 4/11] ,The Vertex Processor,Lecture 21,00:24:42
-10,[Tue 4/11] ,The Rasterizer,Lecture 21,00:28:30
-10,[Tue 4/11] ,How to use uniform variables,Lecture 21,00:33:08
-10,[Tue 4/11] ,Using both the Vertex and Fragment Shader,Lecture 21,00:54:27
-10,[Tue 4/11] ,Communicating between JS and GLSL,Lecture 21,01:01:05
-10,[Tue 4/11] ,Communicating between JS and GLSL,Lecture 21,01:01:05
-10,[Thu 4/13],Agenda,Lecture 22,00:05:20
-10,[Thu 4/13],Lighting Methods,Lecture 22,00:10:19
-10,[Thu 4/13],Light Positioning and Coordinates,Lecture 22,00:28:25
-10,[Thu 4/13],Image Textures,Lecture 22,00:37:37
-10,[Thu 4/13],Fun with Shaders,Lecture 22,00:43:32
-10,[Thu 4/13],Jagged Edges Mitigation,Lecture 22,00:57:03
-10,[Thu 4/13],Functions in GLSL,Lecture 22,01:00:30
-10,[Thu 4/13],Let's Make a Coronavirus (Displacement Maps),Lecture 22,01:03:49
-11,Aliasing,What is a Pixel?,Lecture 23A,00:01:45
-11,Aliasing,Aliasing Technical Problem,Lecture 23A,00:07:02
-11,Aliasing,Crawlies,Lecture 23A,00:11:19
-11,Aliasing,Texture Sampling Problems,Lecture 23A,00:15:59
-11,Aliasing,Fundamental Problem,Lecture 23A,00:20:05
-11,Aliasing,Anti-Aliasing,Lecture 23B,00:06:03
-11,Aliasing,Blurring,Lecture 23B,00:08:56
-11,Aliasing,Average over the Region,Lecture 23B,00:13:18
-11,Aliasing,Order Matters!,Lecture 23B,00:15:44
-11,Aliasing,Anti-Aliasing Problem,Lecture 23B,00:23:39
-11,Aliasing,Multiple Sampling,Lecture 23C,00:00:56
-11,Aliasing,Using Derivatives,Lecture 23C,00:06:15
-11,Aliasing,Multiple Sampling Pros and Cons,Lecture 23C,00:12:23
-11,Aliasing,Blurring the Edges,Lecture 23C,00:17:54
-11,Aliasing,Smoothstepping,Lecture 23C,00:30:24
-11,Shaders and Noise,Why we need noise 1,Lecture 24A,00:02:21
-11,Shaders and Noise,Why we need noise 2,Lecture 24A,00:06:52
-11,Shaders and Noise,Example of psuedo-randomness,Lecture 24A,00:09:56
-11,Shaders and Noise,Perlin Noise,Lecture 24A,00:19:26
-12,[Tue 4/25] Performance,Agenda,Lecture 25,00:00:36
-12,[Tue 4/25] Performance,Bottlenecks,Lecture 25,00:07:05
-12,[Tue 4/25] Performance,Bottlenecks,Lecture 25,00:07:05
-12,[Tue 4/25] Performance,2 Passes,Lecture 25,00:16:29
-12,[Tue 4/25] Performance,Defered Rendering,Lecture 25,00:20:24
-12,[Tue 4/25] Performance,Extensions on DR,Lecture 25,00:32:49
-12,[Tue 4/25] Performance,Complex Lighting Situations,Lecture 25,00:38:23
-12,[Tue 4/25] Performance,Decreasing Number of Commands,Lecture 25,00:52:25
-12,[Tue 4/25] Performance,Animation,Lecture 25,00:54:51
-12,[Tue 4/25] Performance,Matrix Palette,Lecture 25,01:05:50
-12,[Thu 4/27] Shape and Deformation,How We Animate,Lecture 26,00:02:39
-12,[Thu 4/27] Shape and Deformation,Matrix Palette,Lecture 26,00:04:30
-12,[Thu 4/27] Shape and Deformation,Skinning,Lecture 26,00:08:33
-12,[Thu 4/27] Shape and Deformation,Blending Matrices,Lecture 26,00:14:56
-12,[Thu 4/27] Shape and Deformation,"Skeletons, Armatures, Bones",Lecture 26,00:18:57
-12,[Thu 4/27] Shape and Deformation,Space Transformations,Lecture 26,00:24:26
-12,[Thu 4/27] Shape and Deformation,It's Morphing Time,Lecture 26,00:43:30
-12,[Thu 4/27] Shape and Deformation,Using this in the Project,Lecture 26,00:48:11
-12,[Thu 4/27] Shape and Deformation,Smoothing Shapes,Lecture 26,00:54:06
-12,[Thu 4/27] Shape and Deformation,Solid Modeling,Lecture 26,01:06:00
-13,[Tue 5/2] Surfaces,Agenda,Lecture 27,00:02:26
-13,[Tue 5/2] Surfaces,Lofting - Sweeping Between Shapes,Lecture 27,00:19:33
-13,[Tue 5/2] Surfaces,Implicit Surfaces (Metaballs),Lecture 27,00:23:48
-13,[Tue 5/2] Surfaces,Parametric Surface,Lecture 27,00:28:50
-13,[Tue 5/2] Surfaces,Subdivision Curves,Lecture 27,00:36:51
-13,[Tue 5/2] Surfaces,Subdivison in 3D,Lecture 27,00:47:42
-13,[Tue 5/2] Surfaces,Catmull-Clark Subdivision,Lecture 27,01:03:55
+week,topic,concept,video_id,timestamp,wb,page,Page Name
+1,[Tue 1/24] Welcome,"Lectures in Zoom: emojis, polls, chat, slides",Lecture 1,2:44,,,
+1,[Tue 1/24] Welcome,What is Computer Graphics?,Lecture 1,25:09:00,,,
+1,[Tue 1/24] Welcome,Course Goals,Lecture 1,31:05:00,,,
+1,[Tue 1/24] Welcome,Learning JavaScript,Lecture 1,45:46:00,,,
+1,[Tue 1/24] Welcome,Course Webs and Tools,Lecture 1,53:33:00,,,
+1,[Tue 1/24] Welcome,Course Staff and Getting Help,Lecture 1,59:26:00,,,
+1,[Tue 1/24] Welcome,"The Weekly Rhythm (Assignments, Lectures, Grading, and Resources)",Lecture 1,1:05:48,,,
+1,[Tue 1/24] Welcome,Summary,Lecture 1,1:11:26,,,
+1,[Tue 1/24] Welcome,End/Questions,Lecture 1,1:11:59,,,
+1,[Thu 1/26] Pre-Graphics,Using Live Server,Lecture 2,6:02,,,
+1,[Thu 1/26] Pre-Graphics,Advice on Learning JavaScript,Lecture 2,12:30,1,5,JavaScript
+1,[Thu 1/26] Pre-Graphics,"Variables, conditionals, and loops",Lecture 2,18:10,1,5,JavaScript
+1,[Thu 1/26] Pre-Graphics,Object Orientation in JS,Lecture 2,27:03:00,1,5,JavaScript
+1,[Thu 1/26] Pre-Graphics,Functions in JS,Lecture 2,31:44:00,1,5,JavaScript
+1,[Thu 1/26] Pre-Graphics,Functions and Lexical Scope,Lecture 2,42:49:00,1,5,JavaScript
+1,[Thu 1/26] Pre-Graphics,Intro to Web Pages,Lecture 2,51:50:00,1,4,HTML Basics
+1,[Thu 1/26] Pre-Graphics,Where do programs go?,Lecture 2,56:39:00,1,6,
+1,[Thu 1/26] Pre-Graphics,When will JS run?,Lecture 2,1:05:06,1,6,
+2,[Tue 1/31] Graphics and Web Graphics 101,How do we see?,Lecture 3,2:20,1,13,Graphics101
+2,[Tue 1/31] Graphics and Web Graphics 101,How computers create images,Lecture 3,11:40,1,13,Graphics101
+2,[Tue 1/31] Graphics and Web Graphics 101,Drawing Shapes on Web Pages,Lecture 3,20:35,1,14,
+2,[Tue 1/31] Graphics and Web Graphics 101,The Canvas Element,Lecture 3,24:39:00,1,14,
+2,[Tue 1/31] Graphics and Web Graphics 101,When do I draw?,Lecture 3,35:38:00,1,14,
+2,[Tue 1/31] Graphics and Web Graphics 101,Where do I draw?,Lecture 3,45:16:00,1,18,
+2,[Tue 1/31] Graphics and Web Graphics 101,Paths and the Pen Model,Lecture 3,55:55:00,1,16,
+2,[Tue 1/31] Graphics and Web Graphics 101,Summary,Lecture 3,1:07:39,,,
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Buffering and Making Motion Believable,Lecture 4,2:32,1,8,displays
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Back to the Pen Model,Lecture 4,27:27:00,,,
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Determining how to fill a shape (Even/Odd),Lecture 4,36:05:00,1,17,poly
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Winding (Non-zero) Method,Lecture 4,41:57:00,1,17,poly
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,"Drawing Summary, About Canvas Positioning",Lecture 4,48:56:00,,,
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Event Handling,Lecture 4,54:12:00,,,
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Demo,Lecture 4,1:07:19,,,
+2,[Thurs 2/2] More Basic Graphics and Web Graphics,Summary,Lecture 4,1:14:37,,,
+3,[Tue 2/7] Transformations 1,Agenda,Lecture 5,0:01:38,,,
+3,[Tue 2/7] Transformations 1,Visualizing Transformations,Lecture 5,06:16.0,,,
+3,[Tue 2/7] Transformations 1,Return of Lecture,Lecture 5,0:14:32,,,
+3,[Tue 2/7] Transformations 1,Instancing,Lecture 5,0:23:03,,,
+3,[Tue 2/7] Transformations 1,Types of Transformations,Lecture 5,0:31:57,,,
+3,[Tue 2/7] Transformations 1,Points of Scaling/Rotation,Lecture 5,0:50:55,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Agenda,Lecture 6,0:00:42,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,"Sequences of Transformations, Non-Uniform Scaling",Lecture 6,0:08:34,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Skew,Lecture 6,0:18:33,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Hierarchy and Chaining,Lecture 6,0:20:37,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,"A ""Tree of Parts""",Lecture 6,0:36:56,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Structured SVG,Lecture 6,0:48:45,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,Reusing Assets,Lecture 6,1:00:12,,,
+3,[Thurs 2/9] Feb 9 Transformations and Retained Mode Graphics,SVG vs Canvas,Lecture 6,1:10:25,,,
+4,[Tue 2/14] Transformation Math,About Transformations and Coordinate Systems,Lecture 7,0:03:49,,,
+4,[Tue 2/14] Transformation Math,Vectors and Points,Lecture 7,0:13:05,,,
+4,[Tue 2/14] Transformation Math,Matrix Math,Lecture 7,0:20:36,,,
+4,[Tue 2/14] Transformation Math,Transformations are Functions,Lecture 7,0:33:41,,,
+4,[Tue 2/14] Transformation Math,Affine Transforms Across Dimensions,Lecture 7,0:43:17,,,
+4,[Tue 2/14] Transformation Math,Non-Affine Matrices in 3D,Lecture 7,0:53:50,,,
+4,[Tue 2/14] Transformation Math,How APIs do this Math,Lecture 7,0:59:25,,,
+4,[Tue 2/14] Transformation Math,Summary,Lecture 7,1:07:29,,,
+4,[Thu 2/16] More Transformation Math,Review,Lecture 8,0:02:46,,,
+4,[Thu 2/16] More Transformation Math,Intepretation of Transformation in SVG,Lecture 8,0:12:02,,,
+4,[Thu 2/16] More Transformation Math,Composition of Transformation,Lecture 8,0:15:41,,,
+4,[Thu 2/16] More Transformation Math,Order changing example,Lecture 8,0:21:14,,,
+4,[Thu 2/16] More Transformation Math,Affine as Linear,Lecture 8,0:26:48,,,
+4,[Thu 2/16] More Transformation Math,What about rotation,Lecture 8,0:38:15,,,
+4,[Thu 2/16] More Transformation Math,Linear Interpolation and Matrices,Lecture 8,0:52:07,,,
+4,[Thu 2/16] More Transformation Math,Use of Rotations: Boids,Lecture 8,1:00:43,,,
+4,[Thu 2/16] More Transformation Math,Summary,Lecture 8,1:13:48,,,
+5,[Tue 2/21] Curves 1,Agenda and Introduction to Curves,Lecture 9,0:02:03,,,
+5,[Tue 2/21] Curves 1,Curve Representations,Lecture 9,0:09:36,,,
+5,[Tue 2/21] Curves 1,The Free Parameter,Lecture 9,0:20:43,,,
+5,[Tue 2/21] Curves 1,Approximating Curves,Lecture 9,0:29:34,,,
+5,[Tue 2/21] Curves 1,Mathematically Defining Continuity,Lecture 9,0:37:11,,,
+5,[Tue 2/21] Curves 1,Continuity With Arcs,Lecture 9,0:49:23,,,
+5,[Tue 2/21] Curves 1,Piecewise Parametrization of a Curve,Lecture 9,0:57:40,,,
+5,[Tue 2/21] Curves 1,A Line as a Parametric Polynomial,Lecture 9,1:03:40,,,
+5,[Tue 2/21] Curves 1,Summary,Lecture 9,1:12:49,,,
+5,[Thu 2/23] Curves 2,Agenda,Lecture 10,0:01:53,,,
+5,[Thu 2/23] Curves 2,Basis Functions,Lecture 10,0:13:22,,,
+5,[Thu 2/23] Curves 2,Using Basis Functions to Make a Curve,Lecture 10,0:21:14,,,
+5,[Thu 2/23] Curves 2,Hermite Form,Lecture 10,0:25:14,,,
+5,[Thu 2/23] Curves 2,Cardinal Splines,Lecture 10,0:35:12,,,
+5,[Thu 2/23] Curves 2,What To Do With 3 Points,Lecture 10,0:48:10,,,
+5,[Thu 2/23] Curves 2,Bezier Curves,Lecture 10,52:41.0,,,
+5,[Thu 2/23] Curves 2,De Castlejau Construction,Lecture 10,0:58:23,,,
+5,[Thu 2/23] Curves 2,Wiggle Theorem and Crossing Property,Lecture 10,1:11:36,,,
+6,[Tue 2/28] Curves 3,Important Notes About Curves,Lecture 11,0:01:28,,,
+6,[Tue 2/28] Curves 3,Cardinal Interpolation and Bezier Curves,Lecture 11,0:08:51,,,
+6,[Tue 2/28] Curves 3,The Train Assignment,Lecture 11,0:20:59,,,
+6,[Tue 2/28] Curves 3,Arc Length,Lecture 11,0:33:15,,,
+6,[Tue 2/28] Curves 3,TCB Curves (Fancy Cardinals),Lecture 11,0:41:48,,,
+6,[Tue 2/28] Curves 3,Good and Bad of Beziers,Lecture 11,0:46:41,,,
+6,[Tue 2/28] Curves 3,Polynomial Curves,Lecture 11,0:51:46,,,
+6,[Tue 2/28] Curves 3,B-Splines,Lecture 11,0:56:18,,,
+6,[Tue 2/28] Curves 3,Thinking in Basis Functions,Lecture 11,1:08:20,,,
+6,[Tue 2/28] Curves 3,Summary,Lecture 11,1:14:58,,,
+6,[Thu 3/2] Intro to 3D and Three,"These are Small, Those are Far Away",Lecture 12,0:01:40,,,
+6,[Thu 3/2] Intro to 3D and Three,Key Concepts in 3D,Lecture 12,0:09:05,,,
+6,[Thu 3/2] Intro to 3D and Three,Showing 3D Objects in a 2D Plane,Lecture 12,0:15:47,,,
+6,[Thu 3/2] Intro to 3D and Three,Components of a 3D Scene and Program,Lecture 12,0:25:38,,,
+6,[Thu 3/2] Intro to 3D and Three,Concepts in THREE.JS,Lecture 12,0:30:22,,,
+6,[Thu 3/2] Intro to 3D and Three,Getting Started in THREE.JS,Lecture 12,0:38:22,,,
+6,[Thu 3/2] Intro to 3D and Three,A THREE.JS Program,Lecture 12,0:46:48,,,
+6,[Thu 3/2] Intro to 3D and Three,Materials in THREE.JS,Lecture 12,0:53:53,,,
+6,[Thu 3/2] Intro to 3D and Three,Naming Conventions,Lecture 12,0:56:23,,,
+6,[Thu 3/2] Intro to 3D and Three,Naming Conventions,Lecture 12,0:56:23,,,
+6,[Thu 3/2] Intro to 3D and Three,Transformations in 3D,Lecture 12,1:00:00,,,
+6,[Thu 3/2] Intro to 3D and Three,The 3D Camera,Lecture 12,1:04:32,,,
+7,[Tue 3/7] More 3D and Three,Review of 3D Fundamentals,Lecture 13,0:03:09,,,
+7,[Tue 3/7] More 3D and Three,"Triangles, Normals, Barycentric Interpolation",Lecture 13,0:10:30,,,
+7,[Tue 3/7] More 3D and Three,Surfaces vs Volumes,Lecture 13,0:15:49,,,
+7,[Tue 3/7] More 3D and Three,Coordinates in 3D,Lecture 13,0:25:23,,,
+7,[Tue 3/7] More 3D and Three,Example 3D Scene,Lecture 13,0:30:38,,,
+7,[Tue 3/7] More 3D and Three,Camera Coordinate System,Lecture 13,0:47:29,,,
+7,[Tue 3/7] More 3D and Three,How THREE Stores Attributes,Lecture 13,0:51:43,,,
+7,[Tue 3/7] More 3D and Three,Scale in THREE,Lecture 13,1:03:03,,,
+7,[Tue 3/7] More 3D and Three,Summary,Lecture 13,1:05:15,,,
+7,[Thu 3/9] Cameras Lights,State vs Transformations,Lecture 14,0:03:11,,,
+7,[Thu 3/9] Cameras Lights,Center of Rotation and Examples,Lecture 14,0:08:45,,,
+7,[Thu 3/9] Cameras Lights,The Camera in THREE,Lecture 14,0:19:43,,,
+7,[Thu 3/9] Cameras Lights,Key Concepts About the 3D Camera,Lecture 14,0:32:38,,,
+7,[Thu 3/9] Cameras Lights,Projections,Lecture 14,0:38:43,,,
+7,[Thu 3/9] Cameras Lights,Perspective View and History,Lecture 14,0:48:51,,,
+7,[Thu 3/9] Cameras Lights,"FOV, Focal Length, and Math",Lecture 14,0:54:25,,,
+7,[Thu 3/9] Cameras Lights,Defining Camera Properties in THREE,Lecture 14,1:06:16,,,
+7,[Thu 3/9] Cameras Lights,Lighting and Materials,Lecture 14,1:07:50,,,
+7,[Thu 3/9] Cameras Lights,Summary,Lecture 14,1:13:33,,,
+8,[Tue 3/21] More 3D - Rotations,Review on Cameras,Lecture 15,0:02:58,,,
+8,[Tue 3/21] More 3D - Rotations,Standard Lighting Model,Lecture 15,0:08:23,,,
+8,[Tue 3/21] More 3D - Rotations,Types of Light Sources,Lecture 15,0:21:48,,,
+8,[Tue 3/21] More 3D - Rotations,Animating in 3D,Lecture 15,0:24:27,,,
+8,[Tue 3/21] More 3D - Rotations,Transformations in 3D -- Differences from 2D,Lecture 15,0:31:49,,,
+8,[Tue 3/21] More 3D - Rotations,Rotations are Special,Lecture 15,0:36:02,,,
+8,[Tue 3/21] More 3D - Rotations,"Changing the Origin for Rotation, Using Groups",Lecture 15,0:48:53,,,
+8,[Tue 3/21] More 3D - Rotations,Euler's Theorems,Lecture 15,1:00:56,,,
+8,[Tue 3/21] More 3D - Rotations,"Good and Bad of Euler Angles, Quaternions",Lecture 15,1:07:21,,,
+8,[Tue 3/21] More 3D - Rotations,Summary,Lecture 15,1:13:33,,,
+8,[Thu 3/23] More Rotations - Meshes,Representing Rotations,Lecture 16,0:01:31,,,
+8,[Thu 3/23] More Rotations - Meshes,Euler Angles Demo,Lecture 16,0:08:25,,,
+8,[Thu 3/23] More Rotations - Meshes,Composing Rotations and Problems With This,Lecture 16,0:12:09,,,
+8,[Thu 3/23] More Rotations - Meshes,Quaternions,Lecture 16,0:23:17,,,
+8,[Thu 3/23] More Rotations - Meshes,ThreeJS and Quaternions,Lecture 16,0:34:06,,,
+8,[Thu 3/23] More Rotations - Meshes,Look At Matrices/Operations,Lecture 16,0:41:35,,,
+8,[Thu 3/23] More Rotations - Meshes,Rotations Summary,Lecture 16,0:47:37,,,
+8,[Thu 3/23] More Rotations - Meshes,Mesh Basics,Lecture 16,0:49:07,,,
+8,[Thu 3/23] More Rotations - Meshes,Buffers and BufferGeometry,Lecture 16,1:09:13,,,
+8,[Tue 3/28] Meshes and Lighting,Meshes and Buffer Geometry,Lecture 17,0:01:49,,,
+8,[Tue 3/28] Meshes and Lighting,Colors on Meshes,Lecture 17,0:16:13,,,
+8,[Tue 3/28] Meshes and Lighting,Barycentric Colors,Lecture 17,0:20:57,,,
+8,[Tue 3/28] Meshes and Lighting,Normal Vectors and Colors,Lecture 17,0:25:47,,,
+8,[Tue 3/28] Meshes and Lighting,Transforming Normals and Mesh Summary,Lecture 17,0:36:16,,,
+8,[Tue 3/28] Meshes and Lighting,Diffuse and Specular Materials,Lecture 17,0:40:19,,,
+8,[Tue 3/28] Meshes and Lighting,Improving Results and Summary,Lecture 17,1:08:40,,,
+8,Standard Texturing - Basic Texturing Review,Why Basic Textures?,Lecture 18A,0:00:18,,,
+8,Standard Texturing - Basic Texturing Review,How To Do Basic Textures?,Lecture 18A,0:02:00,,,
+8,Standard Texturing - Basic Texturing Review,What do we need from a texture?,Lecture 18A,0:04:33,,,
+8,Standard Texturing - Basic Texturing Review,Putting textures in THREE,Lecture 18A,0:06:45,,,
+8,Standard Texturing - Basic Texturing Review,What the hardware does,Lecture 18A,0:11:47,,,
+8,Standard Texturing - Basic Texturing Review,End,Lecture 18A,0:15:35,,,
+8,Standard Texturing - Texture Basics,How to get more than 3 colors on a triangle?,Lecture 18B,0:00:06,,,
+8,Standard Texturing - Texture Basics,Texture Mapping: Basic Idea,Lecture 18B,0:02:01,,,
+8,Standard Texturing - Texture Basics,Basic Texture Mapping,Lecture 18B,0:04:25,,,
+8,Standard Texturing - Texture Basics,Demo,Lecture 18B,0:08:36,,,
+8,Standard Texturing - Texture Basics,UV Mapping,Lecture 18B,0:10:23,,,
+8,Standard Texturing - Texture Basics,Texture Wrapping,Lecture 18B,0:14:28,,,
+8,Standard Texturing - Texture Basics,Steps for using Texture Mapping,Lecture 18B,0:17:37,,,
+8,Standard Texturing - Texture Basics,End,Lecture 18B,0:20:03,,,
+8,Standard Texturing - Texture in THREE,The steps to texture mapping,Lecture 18C,0:00:45,,,
+8,Standard Texturing - Texture in THREE,Textures in THREE: Create objects with UVs,Lecture 18C,0:01:51,,,
+8,Standard Texturing - Texture in THREE,Textures in THREE: Load Textures,Lecture 18C,0:05:26,,,
+8,Standard Texturing - Texture in THREE,Textures in THREE: Attack as colors to objects,Lecture 18C,0:08:25,,,
+8,Standard Texturing - Texture in THREE,An Entire Example,Lecture 18C,0:09:42,,,
+8,Standard Texturing - Texture in THREE,Some caveats for Textures in THREE,Lecture 18C,0:12:04,,,
+8,Standard Texturing - Texture in THREE,End,Lecture 18C,0:13:23,,,
+8,Standard Texturing - How Texture Mapping Works,Texture Coordinate and Texture Lookup,Lecture 18D,0:00:14,,,
+8,Standard Texturing - How Texture Mapping Works,The Problems of Texture Lookup,Lecture 18D,0:01:54,,,
+8,Standard Texturing - How Texture Mapping Works,Texture Lookups: Magnification,Lecture 18D,0:03:39,,,
+8,Standard Texturing - How Texture Mapping Works,Texture Lookups: Minification,Lecture 18D,0:08:50,,,
+8,Standard Texturing - How Texture Mapping Works,Simple Filtering,Lecture 18D,0:11:12,,,
+8,Standard Texturing - How Texture Mapping Works,Digging into Filtering: Summed Area Table,Lecture 18D,0:13:27,,,
+8,Standard Texturing - How Texture Mapping Works,Digging into Filtering: Mip-Maps,Lecture 18D,0:18:18,,,
+8,Standard Texturing - How Texture Mapping Works,THREE Options,Lecture 18D,0:30:06,,,
+8,Standard Texturing - How Texture Mapping Works,End,Lecture 18D,0:32:07,,,
+9,Advanced Texturing - Normals and Bump Mapping,Fake normals,Lecture 19A,0:00:11,,,
+9,Advanced Texturing - Normals and Bump Mapping,Normal maps and bump maps,Lecture 19A,0:11:17,,,
+9,Advanced Texturing - Normals and Bump Mapping,End,Lecture 19A,0:23:05,,,
+9,Advanced Texturing - Other Texturing Tricks,Layered textures,Lecture 19B,0:09:04,,,
+9,Advanced Texturing - Other Texturing Tricks,Light maps for pre-computed lights,Lecture 19B,0:10:55,,,
+9,Advanced Texturing - Other Texturing Tricks,Ambient occlusion,Lecture 19B,0:15:07,,,
+9,Advanced Texturing - Other Texturing Tricks,Procedural and solid textures,Lecture 19B,0:17:43,,,
+9,Advanced Texturing - Other Texturing Tricks,End,Lecture 19B,0:22:01,,,
+9,Advanced Texturing - Sky Boes and Environment Maps,Sky Boxes,Lecture 19C,0:03:28,,,
+9,Advanced Texturing - Sky Boes and Environment Maps,Environment mapping,Lecture 19C,0:08:43,,,
+9,Advanced Texturing - Sky Boes and Environment Maps,End,Lecture 19C,0:23:01,,,
+9,Advanced Texturing - Shadow Maps,Shadow map,Lecture 19D,0:00:01,,,
+9,Advanced Texturing - Shadow Maps,Shadow map,Lecture 19D,0:14:48,,,
+9,[Thu 4/6] Drawing in 3D,Global Lighting Effects,Lecture 20,0:08:18,,,
+9,[Thu 4/6] Drawing in 3D,Global Lighting Effects,Lecture 20,0:12:56,,,
+9,[Thu 4/6] Drawing in 3D,Texture Mapping Review,Lecture 20,0:19:10,,,
+9,[Thu 4/6] Drawing in 3D,Steps of Drawing in 3D,Lecture 20,0:27:33,,,
+9,[Thu 4/6] Drawing in 3D,Transformation,Lecture 20,0:33:05,,,
+9,[Thu 4/6] Drawing in 3D,Reasons you might not see a triangle,Lecture 20,0:33:05,,,
+9,[Thu 4/6] Drawing in 3D,Visibility Algorithms,Lecture 20,0:39:58,,,
+9,[Thu 4/6] Drawing in 3D,Problems with Z-Indexing,Lecture 20,0:58:48,,,
+9,[Thu 4/6] Drawing in 3D,Summary,Lecture 20,1:08:41,,,
+10,[Tue 4/11] ,Agenda,Lecture 21,0:04:43,,,
+10,[Tue 4/11] ,The Pipeline,Lecture 21,0:08:05,,,
+10,[Tue 4/11] ,Constant State,Lecture 21,0:15:41,,,
+10,[Tue 4/11] ,What can our Program Do?,Lecture 21,0:19:46,,,
+10,[Tue 4/11] ,The Vertex Processor,Lecture 21,0:24:42,,,
+10,[Tue 4/11] ,The Rasterizer,Lecture 21,0:28:30,,,
+10,[Tue 4/11] ,How to use uniform variables,Lecture 21,0:33:08,,,
+10,[Tue 4/11] ,Using both the Vertex and Fragment Shader,Lecture 21,0:54:27,,,
+10,[Tue 4/11] ,Communicating between JS and GLSL,Lecture 21,1:01:05,,,
+10,[Tue 4/11] ,Communicating between JS and GLSL,Lecture 21,1:01:05,,,
+10,[Thu 4/13],Agenda,Lecture 22,0:05:20,,,
+10,[Thu 4/13],Lighting Methods,Lecture 22,0:10:19,,,
+10,[Thu 4/13],Light Positioning and Coordinates,Lecture 22,0:28:25,,,
+10,[Thu 4/13],Image Textures,Lecture 22,0:37:37,,,
+10,[Thu 4/13],Fun with Shaders,Lecture 22,0:43:32,,,
+10,[Thu 4/13],Jagged Edges Mitigation,Lecture 22,0:57:03,,,
+10,[Thu 4/13],Functions in GLSL,Lecture 22,1:00:30,,,
+10,[Thu 4/13],Let's Make a Coronavirus (Displacement Maps),Lecture 22,1:03:49,,,
+11,Aliasing,What is a Pixel?,Lecture 23A,0:01:45,,,
+11,Aliasing,Aliasing Technical Problem,Lecture 23A,0:07:02,,,
+11,Aliasing,Crawlies,Lecture 23A,0:11:19,,,
+11,Aliasing,Texture Sampling Problems,Lecture 23A,0:15:59,,,
+11,Aliasing,Fundamental Problem,Lecture 23A,0:20:05,,,
+11,Aliasing,Anti-Aliasing,Lecture 23B,0:06:03,,,
+11,Aliasing,Blurring,Lecture 23B,0:08:56,,,
+11,Aliasing,Average over the Region,Lecture 23B,0:13:18,,,
+11,Aliasing,Order Matters!,Lecture 23B,0:15:44,,,
+11,Aliasing,Anti-Aliasing Problem,Lecture 23B,0:23:39,,,
+11,Aliasing,Multiple Sampling,Lecture 23C,0:00:56,,,
+11,Aliasing,Using Derivatives,Lecture 23C,0:06:15,,,
+11,Aliasing,Multiple Sampling Pros and Cons,Lecture 23C,0:12:23,,,
+11,Aliasing,Blurring the Edges,Lecture 23C,0:17:54,,,
+11,Aliasing,Smoothstepping,Lecture 23C,0:30:24,,,
+11,Shaders and Noise,Why we need noise 1,Lecture 24A,0:02:21,,,
+11,Shaders and Noise,Why we need noise 2,Lecture 24A,0:06:52,,,
+11,Shaders and Noise,Example of psuedo-randomness,Lecture 24A,0:09:56,,,
+11,Shaders and Noise,Perlin Noise,Lecture 24A,0:19:26,,,
+12,[Tue 4/25] Performance,Agenda,Lecture 25,0:00:36,,,
+12,[Tue 4/25] Performance,Bottlenecks,Lecture 25,0:07:05,,,
+12,[Tue 4/25] Performance,Bottlenecks,Lecture 25,0:07:05,,,
+12,[Tue 4/25] Performance,2 Passes,Lecture 25,0:16:29,,,
+12,[Tue 4/25] Performance,Defered Rendering,Lecture 25,0:20:24,,,
+12,[Tue 4/25] Performance,Extensions on DR,Lecture 25,0:32:49,,,
+12,[Tue 4/25] Performance,Complex Lighting Situations,Lecture 25,0:38:23,,,
+12,[Tue 4/25] Performance,Decreasing Number of Commands,Lecture 25,0:52:25,,,
+12,[Tue 4/25] Performance,Animation,Lecture 25,0:54:51,,,
+12,[Tue 4/25] Performance,Matrix Palette,Lecture 25,1:05:50,,,
+12,[Thu 4/27] Shape and Deformation,How We Animate,Lecture 26,0:02:39,,,
+12,[Thu 4/27] Shape and Deformation,Matrix Palette,Lecture 26,0:04:30,,,
+12,[Thu 4/27] Shape and Deformation,Skinning,Lecture 26,0:08:33,,,
+12,[Thu 4/27] Shape and Deformation,Blending Matrices,Lecture 26,0:14:56,,,
+12,[Thu 4/27] Shape and Deformation,"Skeletons, Armatures, Bones",Lecture 26,0:18:57,,,
+12,[Thu 4/27] Shape and Deformation,Space Transformations,Lecture 26,0:24:26,,,
+12,[Thu 4/27] Shape and Deformation,It's Morphing Time,Lecture 26,0:43:30,,,
+12,[Thu 4/27] Shape and Deformation,Using this in the Project,Lecture 26,0:48:11,,,
+12,[Thu 4/27] Shape and Deformation,Smoothing Shapes,Lecture 26,0:54:06,,,
+12,[Thu 4/27] Shape and Deformation,Solid Modeling,Lecture 26,1:06:00,,,
+13,[Tue 5/2] Surfaces,Agenda,Lecture 27,0:02:26,,,
+13,[Tue 5/2] Surfaces,Lofting - Sweeping Between Shapes,Lecture 27,0:19:33,,,
+13,[Tue 5/2] Surfaces,Implicit Surfaces (Metaballs),Lecture 27,0:23:48,,,
+13,[Tue 5/2] Surfaces,Parametric Surface,Lecture 27,0:28:50,,,
+13,[Tue 5/2] Surfaces,Subdivision Curves,Lecture 27,0:36:51,,,
+13,[Tue 5/2] Surfaces,Subdivison in 3D,Lecture 27,0:47:42,,,
+13,[Tue 5/2] Surfaces,Catmull-Clark Subdivision,Lecture 27,1:03:55,,,
