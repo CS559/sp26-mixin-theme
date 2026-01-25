@@ -12,7 +12,7 @@ Tutorials,git559,Git and GitHub in CS559,https://cs559.github.io/559Tutorials/to
 Class pages,mediaspace-23,Media Space Channel,https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
 Links to Last Year's Class (generally should be avoided),outline-2021,2021 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
 Links to Last Year's Class (generally should be avoided),outline-2022,2022 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
-Links to Last Year's Class (generally should be avoided),outline-2023,2023 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp24/pages/lecture-materials/
+Links to Last Year's Class (generally should be avoided),outline-2023,2023 Course Outline with Video Links,https://pages.graphics.cs.wisc.edu/559-sp23/pages/lecture-materials/
 Class Videos,video-debugger,Chrome Debugger Quick Start for CS 559 (2019 Video),https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
 UW Resources,uw-tech-requirements,UW Technology Requirements for Students,https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
 UW Resources,uw-internet-doctor,UW Internet Connection Doctor,https://it.wisc.edu/news/home-internet-connection-doctor-service/
@@ -111,7 +111,7 @@ three.js,threejs-cameraHelper,CameraHelper,https://threejs.org/docs/#api/en/help
 three.js,threejs-mesh,Mesh index.html#api/en/objects/Mesh,https://threejs.org/docs/
 three.js,threejs-meshStandardMaterial,MeshStandardMaterial,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
 three.js,threejs-meshPhongMaterial,MeshPhongMaterial,https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
-three.js,threejs-matrix,matrix transformations,https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
+three.js,threejs-matrix,matrix transformations,https://threejs.org/manual/#en/matrix-transformations
 three.js,threejs-perspectiveCamera,PerspectiveCamera,https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
 three.js,threejs-ambientLight,AmbientLight,https://threejs.org/docs/#api/en/lights/AmbientLight
 three.js,threejs-pointLight,PointLight,https://threejs.org/docs/#api/en/lights/PointLight
@@ -130,7 +130,7 @@ three.js,discoverthreejs,Discover ThreeJS,https://discoverthreejs.com/
 three.js,discoverthreejs-transformations-tutorial,the threejs transformations tutorial,https://discoverthreejs.com/book/first-steps/transformations/
 three.js,discoverthreejs-train-tutorial,the threejs built-in geometry tutorial (with train),https://discoverthreejs.com/book/first-steps/built-in-geometries/
 three.js,discoverthreejs-textures-intro,this Discover ThreeJS texture tutorial,https://discoverthreejs.com/book/first-steps/textures-intro/
-three.js,threejsfundamentals-textures-tutorial,nice tutorial on texture mapping,https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
+three.js,threejsfundamentals-textures-tutorial,nice tutorial on texture mapping,https://threejs.org/manual/?q=texture#en/textures
 three.js,allen-threejs-baby-steps,ThreeJS Baby Steps,http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
 three.js,threejs-meshstandardmaterial,`MeshStandardMaterial`,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
 three.js,unity-standard-shader-material-parameter-normal-map,Unity documentation,https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
@@ -152,7 +152,6 @@ general stuff,wikipedia-bogie-diagram,this diagram,https://en.wikipedia.org/wiki
 general stuff,aviator-game,Aviator Game,https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
 general stuff,snowman-wikipedia,Snowman,https://en.wikipedia.org/wiki/Snowman
 general stuff,roundabout-wikipedia,Roundabout,https://en.wikipedia.org/wiki/Roundabout_(play)
-general stuff,concrete-pumper-1,Potratz,http://www.potratzsouth.com/
 general stuff,concrete-pumper-2,Gordy's,http://gordysconcretepumping.com/
 general stuff,pile-driver,Pile Driver,https://en.wikipedia.org/wiki/Pile_driver
 general stuff,jsdoc,jsdoc,https://jsdoc.app/
@@ -161,21 +160,19 @@ general stuff,ellas-deli,Ella's Deli,https://isthmus.com/news/news/epic-buys-car
 general stuff,trip-savvy,Trip Savvy,https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
 general stuff,dominoes-image,in a drawing,https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
 general stuff,roof-types,this page,https://www.roofingcalc.com/top-20-roof-types/
-general stuff,360toolkit-cubemap-converter,defunct web converter,https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
 general stuff,panorama-to-cubemap,Panorama Converter on GitHub,https://jaxry.github.io/panorama-to-cubemap/
 general stuff,polyhaven,Poly Haven,https://polyhaven.com/
-general stuff,bourke,"Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are.",http://paulbourke.net/
+general stuff,bourke,"Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are.",https://paulbourke.net/panorama/
 general stuff,bourke-cubemaps,Paul Bourke's Cubemap Conversion Page,http://paulbourke.net/panorama/cubemaps/
 general stuff,shader-frog,ShaderFrog,https://shaderfrog.com/
 general stuff,khronos-webgl-reference-card,WebGL Reference Card,https://www.khronos.org/files/webgl20-reference-guide.pdf
-general stuff,bkcore-blog-shdr,here,http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
 general stuff,glsl-sandbox,GLSL Sandbox,http://glslsandbox.com/
 general stuff,shadertoy,ShaderToy,https://www.shadertoy.com/
 general stuff,the-book-of-shaders-examples,The Book of Shaders,https://thebookofshaders.com/examples/
 general stuff,glsl-sandbox-wwi-dogfight,WWI dogfight,http://glslsandbox.com/e#63078.0
 general stuff,library-glsl-essentials,UW library,https://search.library.wisc.edu/catalog/9912150691002121
 general stuff,library-opengl4-shading-language-cookbook,OpenGL4 Shading Language Cookbook,https://search.library.wisc.edu/catalog/9911069619502121
-general stuff,shaderific-glsl-reference,GLSL reference,http://www.shaderific.com/glsl/
+general stuff,shaderific-glsl-reference,GLSL reference,https://shaderific.com/glsl.html
 general stuff,khronos-glsl-spec,here,https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
 general stuff,the-book-of-shaders,The Book of Shaders,https://thebookofshaders.com/
 general stuff,threejs-uniforms-lib,`UniformsLib`,https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
@@ -190,12 +187,6 @@ general stuff,glsl-book-library,OpenGL(R) Shading Language (3e) (at UW Library),
 2022 Galleries,gallery-22,2022 Gallery Index,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/
 2022 Galleries,wb02-gallery-22,2022 Workbook 2 Gallery,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
 2022 Galleries,wb03-gallery-22,2022 Workbook 3 Gallery,https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery03/
-Graphics Town Things,grtown-rubric,2023 Graphics Town Rubric,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/rubric
-Graphics Town Things,grtown-index,2023 Graphics Town Index,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown
-Graphics Town Things,grtown-instructions,2023 Graphics Town Instructions,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown
-Graphics Town Things,grtown-hints,2023 Graphics Town Hints,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/hints
-Graphics Town Things,grtown-advanced,2023 Graphics Town Advanced Things,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/advanced
-Graphics Town Things,grtown-instructions-attribution,2023 Graphics Town Attribution Instructions,https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown/#collaboration-use-re-use-and-attribution
 Seitz Videos,graphics-5-min-uw,Graphics in 5 Minutes,https://g5m.cs.washington.edu/
 Seitz Videos,graphics-5-min-yt,Graphics in 5 Minutes You Tube Channel,https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO
 Seitz Videos,g5m-1-affine,Affine Transformations in 5 Minutes,https://youtu.be/AheaTd_l5Is
