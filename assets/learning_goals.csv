@@ -13,8 +13,7 @@ WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
 1,Introduction,5,Make pictures and interactive animations with HTML Canvas5
 2,Transformations,1,"Understand the concepts of transformation and coordinate systems and their use in graphics"
 2,Transformations,2,"Understand how basic transformations (rotate, translate, scale,etc.) are used and composed to achieve different effects"
-2,Transformations,3,"Undertand how transformations are composed to achieve different effects"
-2,Transformations,4,"Understand the mathematical representation and application of transformations for important types, including affine transformations using homogeneous coordinates and matrices"
-2,Transformations,5,"Understand how transformations are used in different graphics APIs including HTML Canvas and SVG"
-2,Transformations,6,"Understand and apply the concepts of hierarchical modeling and scene graph representations"
-2,Transformations,7,"Understand the ideas of kinematics and inverse kinematics to create articulated models and animate them"
+2,Transformations,3,"Understand the mathematical representation and application of transformations for important types, including affine transformations using homogeneous coordinates and matrices"
+2,Transformations,4,"Understand how transformations are used in different graphics APIs including HTML Canvas and SVG"
+2,Transformations,5,"Understand and apply the concepts of hierarchical modeling and scene graph representations"
+2,Transformations,6,"Understand the ideas of kinematics and inverse kinematics to create articulated models and animate them"
