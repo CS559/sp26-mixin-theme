@@ -7,6 +7,9 @@
     {{- if $video -}}
         <a href="{{ $video }}" target="_blank" rel="noopener">2023 Video: {{ $id }}</a>
     {{- end -}}
+    {{- with .Get 1 }}
+        {{.}}
+    {{- end -}}
     {{- if and $video $slides -}} &nbsp; | &nbsp; {{- end -}}
     {{- if $slides -}}
         <a href="{{ $slides }}" target="_blank" rel="noopener">Slides</a>
