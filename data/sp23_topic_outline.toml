@@ -292,7 +292,7 @@ name = "Week 3 (2/6 - 2/10)"
     slide_id = "Lecture 6"
 
     [[weeks.topics.concepts]]
-    name = "Agenda"
+    name = "Lecture 6 Agenda"
     timestamp = "0:00:42"
     video_id = "Lecture 6"
 
@@ -312,7 +312,7 @@ name = "Week 3 (2/6 - 2/10)"
     video_id = "Lecture 6"
 
     [[weeks.topics.concepts]]
-    name = "A \"Tree of Parts\""
+    name = "A Tree of Parts"
     timestamp = "0:36:56"
     video_id = "Lecture 6"
 
