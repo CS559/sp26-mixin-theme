@@ -175,7 +175,6 @@ general stuff,library-opengl4-shading-language-cookbook,OpenGL4 Shading Language
 general stuff,shaderific-glsl-reference,GLSL reference,https://shaderific.com/glsl.html
 general stuff,khronos-glsl-spec,here,https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
 general stuff,the-book-of-shaders,The Book of Shaders,https://thebookofshaders.com/
-general stuff,threejs-uniforms-lib,`UniformsLib`,https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
 general stuff,shadertoy-snake,Snake,https://www.shadertoy.com/view/wlVSDK
 general stuff,webgl-ref-card,WebGL Reference Card,https://www.khronos.org/files/webgl20-reference-guide.pdf
 general stuff,glsl-book-amazon,The OpenGL Shading Language (3e),https://amzn.to/2x9wtyF
