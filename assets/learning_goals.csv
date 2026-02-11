@@ -19,7 +19,7 @@ WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
 2,Transformations,6,"Understand the ideas of kinematics and inverse kinematics to create articulated models and animate them"
 3,Curves,1,"Understand the types of curve representations and how to select among them."
 3,Curves,2,"Understand curve parameterizations, tangents, derivatives, and continuity conditions."
-3,Curves,3,"Understand piecewise polynomial representations of curves and the use of different polynomial forms.""
+3,Curves,3,"Understand piecewise polynomial representations of curves and the use of different polynomial forms."
 3,Curves,4,"Understand the concept of interpolation and the tradeoffs in approaches to implement it."
 3,Curves,5,"Understand the ideas and properties of Bezier curves including their geometric and algebraic formulations"
 3,Curves,6,"Appreciate the concepts behind B-Splines and how they are applied."
