@@ -536,7 +536,7 @@ name = "Week 5 (2/20 - 2/24)"
     video_id = "Lecture 10"
 
     [[weeks.topics.concepts]]
-    name = "De Castlejau Construction"
+    name = "de Casteljau Construction"
     timestamp = "00:58:23"
     video_id = "Lecture 10"
 
