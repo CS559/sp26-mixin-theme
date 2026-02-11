@@ -89,7 +89,7 @@
   {{- /* Construct the time-specific link */ -}}
   {{- $videoLink := printf "%s?st=%d" $videoBaseUrl (int $startSeconds) -}}
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; margin: 10px 0;">
+<div class="resourcelink">
     <a href="{{ $videoLink }}">2023 Video Clip: {{ $concept.name }}</a> {{ $timeRangeStr }}
     <br>
     Part of 2023 <a href="{{ $videoBaseUrl }}">{{ $videoId }}</a>
