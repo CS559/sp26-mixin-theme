@@ -468,6 +468,11 @@ name = "Week 5 (2/20 - 2/24)"
     video_id = "Lecture 9"
 
     [[weeks.topics.concepts]]
+    name = "Defining Smoothness"
+    timestamp = "00:32:49"
+    video_id = "Lecture 9"
+
+    [[weeks.topics.concepts]]
     name = "Mathematically Defining Continuity"
     timestamp = "00:37:11"
     video_id = "Lecture 9"
