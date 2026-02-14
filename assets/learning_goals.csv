@@ -22,6 +22,5 @@ WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
 3,Curves,3,"Understand piecewise polynomial representations of curves and the use of different polynomial forms."
 3,Curves,4,"Understand the concept of interpolation and the tradeoffs in approaches to implement it."
 3,Curves,5,"Understand the ideas and properties of Bezier curves including their geometric and algebraic formulations"
-3,Curves,6,"Appreciate the concepts behind B-Splines and how they are applied."
 3,Curves,7,"Understand arc-length parameterizations and how we approximate it."
 3,Curves,8,"Understand practical issues in using curves in practice."
