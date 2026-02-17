@@ -531,6 +531,12 @@ name = "Week 5 (2/20 - 2/24)"
     video_id = "Lecture 10"
 
     [[weeks.topics.concepts]]
+    name = "Non-Interpolating Curves"
+    timestamp = "00:45:15"
+    video_id = "Lecture 10"
+
+ 
+    [[weeks.topics.concepts]]
     name = "What To Do With 3 Points"
     timestamp = "00:48:10"
     video_id = "Lecture 10"
