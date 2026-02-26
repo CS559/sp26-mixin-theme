@@ -24,3 +24,27 @@ WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
 3,Curves,5,"Understand the ideas and properties of Bezier curves including their geometric and algebraic formulations"
 3,Curves,7,"Understand arc-length parameterizations and how we approximate it."
 3,Curves,8,"Understand practical issues in using curves in practice."
+4,3D and Three,1,Provide experience with the basic concepts of 3D Graphics
+4,3D and Three,2,"Be able to work with standard camera models, lighting models, and primitives used in computer graphics"
+4,3D and Three,3,"Make images and Animations using a high-level 3D API"
+4,3D and Three,4,"Understand standard models for viewing and lighting"
+4,3D and Three,5,"Practice using transformations and 3D, including rotations"
+4,3D and Three,6,"Practice creating and animating hierarchical models"
+4,3D and Three,7,"Experience working with a modern scene graph API"
+5,Meshes and Textures,1,"Practice with mesh data structures in a real API"
+5,Meshes and Textures,2,"Use mesh data structures for describing objects."
+5,Meshes and Textures,3,"Practice the basic concepts of textures, especially texture coordinates."
+5,Meshes and Textures,4,"Understand how lighting and texturing are used to create appearance in interactice graphics systems"
+5,Meshes and Textures,5,"Practice using shape, material, and texture to create appearance"
+5,Meshes and Textures,6,"Understand how local lighting is computed and used in a practical system."
+5,Meshes and Textures,7,"Understand and apply advanced texturing types such as environment maps, ambient occlusion maps, bump maps, and parallax maps"
+5,Meshes and Textures,8,"Understand and apply methods for shadows in the graphics pipeline"
+5,Meshes and Textures,9,"Understand the assumptions of standard graphics systems and how the standard model is provided"
+6,Shaders,1,"Understand the basic organization of graphics hardware, and how programmability fits into it."
+6,Shaders,2,Appreciate why shaders are the ways that they are and what you can do with them.
+6,Shaders,3,"Learn how the shader programming paradigm leads to specific, real implementations."
+6,Shaders,4,Be able to write shaders in a real shading language.
+6,Shaders,5,See how shaders are managed and integrated into a graphics application.
+6,Shaders,6,Understand efficiency concerns in standard graphics systems
+6,Shaders,7,Understand the differences and tradeoffs between rasterization and ray tracing
+7,Graphics Town,1,"Practice using the concepts from the semester to create an interactive graphics system"
