@@ -102,13 +102,13 @@ Kaltura,mozilla-canvas-api,Mozilla (Official) Canvas API Documentation,https://d
 Kaltura,mozilla-typed-array,TypedArray objects,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 Kaltura,mozilla-atan2,Mozilla `atan2` documentation,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
 three.js,threejs-docs,THREE.js Documentation (current),https://threejs.org/docs
-three.js,threejs-object3D,documentation for `Object3D` index.html#api/en/core/Object3D,https://threejs.org/docs/
-three.js,threejs-group,documentation for `Group` index.html#api/en/objects/Group,https://threejs.org/docs/
+three.js,threejs-object3D,documentation for `Object3D` index.html#api/en/core/Object3D,https://threejs.org/docs/#Object3D
+three.js,threejs-group,documentation for `Group` index.html#api/en/objects/Group,https://threejs.org/docs/#Group
 three.js,threejs-orbitControls,documentation for `OrbitControls`,https://threejs.org/docs/#examples/controls/OrbitControls
 three.js,threejs-webGlRenderer,WebGLRenderer index.html#api/en/renderers/WebGLRenderer,https://threejs.org/docs/
 three.js,threejs-axesHelper,AxesHelper,https://threejs.org/docs/#api/en/helpers/AxesHelper
 three.js,threejs-cameraHelper,CameraHelper,https://threejs.org/docs/#api/en/helpers/CameraHelper
-three.js,threejs-mesh,Mesh index.html#api/en/objects/Mesh,https://threejs.org/docs/
+three.js,threejs-mesh,ThreeJS Mesh Docs,https://threejs.org/docs/#Mesh
 three.js,threejs-meshStandardMaterial,MeshStandardMaterial,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
 three.js,threejs-meshPhongMaterial,MeshPhongMaterial,https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
 three.js,threejs-matrix,matrix transformations,https://threejs.org/manual/#en/matrix-transformations
