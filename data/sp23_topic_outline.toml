@@ -732,13 +732,13 @@ name = "Week 7 (3/6 - 3/10)"
     video_id = "Lecture 13"
 
     [[weeks.topics.concepts]]
-    name = "How THREE Stores Attributes"
+    name = "From Scene Graph to Graphics"
     timestamp = "00:51:43"
     video_id = "Lecture 13"
 
     [[weeks.topics.concepts]]
-    name = "Scale in THREE"
-    timestamp = "01:03:03"
+    name = "Transformations in THREE"
+    timestamp = "00:55:26"
     video_id = "Lecture 13"
 
     [[weeks.topics.concepts]]
