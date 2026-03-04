@@ -99,5 +99,6 @@
 {{- else -}}
   <div style="color: red;">
     Video Concept "{{ $conceptName }}" not found within course outline.
+    {{- errorf "%s: Video %s not found" .Position $conceptName}}
   </div>
 {{- end -}}
