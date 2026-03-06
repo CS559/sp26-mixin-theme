@@ -102,10 +102,10 @@ Kaltura,mozilla-canvas-api,Mozilla (Official) Canvas API Documentation,https://d
 Kaltura,mozilla-typed-array,TypedArray objects,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 Kaltura,mozilla-atan2,Mozilla `atan2` documentation,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
 three.js,threejs-docs,THREE.js Documentation (current),https://threejs.org/docs
-three.js,threejs-object3D,documentation for `Object3D` index.html#api/en/core/Object3D,https://threejs.org/docs/#Object3D
-three.js,threejs-group,documentation for `Group` index.html#api/en/objects/Group,https://threejs.org/docs/#Group
+three.js,threejs-object3D,documentation for `Object3D`,https://threejs.org/docs/#Object3D
+three.js,threejs-group,documentation for `Group`,https://threejs.org/docs/#Group
 three.js,threejs-orbitControls,documentation for `OrbitControls`,https://threejs.org/docs/#examples/controls/OrbitControls
-three.js,threejs-webGlRenderer,WebGLRenderer index.html#api/en/renderers/WebGLRenderer,https://threejs.org/docs/
+three.js,threejs-webGlRenderer,WebGLRenderer,https://threejs.org/docs/#WebGLRenderer
 three.js,threejs-axesHelper,AxesHelper,https://threejs.org/docs/#api/en/helpers/AxesHelper
 three.js,threejs-cameraHelper,CameraHelper,https://threejs.org/docs/#api/en/helpers/CameraHelper
 three.js,threejs-mesh,ThreeJS Mesh Docs,https://threejs.org/docs/#Mesh
@@ -120,7 +120,7 @@ three.js,threejs-directionalLight,DirectionalLight,https://threejs.org/docs/#api
 three.js,threejs-sphere,sphere,https://threejs.org/docs/api/en/geometries/SphereGeometry.html
 three.js,threejs-cone,cone,https://threejs.org/docs/#api/en/geometries/ConeGeometry
 three.js,threejs-lathe,lathe,https://threejs.org/docs/#api/en/geometries/LatheGeometry
-three.js,threejs-getting-started,THREE.js Getting Started index.html#manual/en/introduction/Creating-a-scene,https://threejs.org/docs/
+three.js,threejs-getting-started,THREE.js Getting Started,https://threejs.org/manual/#en/creating-a-scene
 three.js,threejs-tutorial,THREE.js Tutorial,https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
 three.js,threejs-buffergeometry,Buffer Geometry,https://threejs.org/docs/#api/en/core/BufferGeometry
 three.js,threejs-face3-deprecated,Face3 (deprecated),https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
@@ -136,8 +136,8 @@ three.js,threejs-meshstandardmaterial,`MeshStandardMaterial`,https://threejs.org
 three.js,unity-standard-shader-material-parameter-normal-map,Unity documentation,https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
 three.js,threejs-mesh-standard-material,documentation,https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
 three.js,threejs-cube-texture,`CubeTextureMap`,https://threejs.org/docs/#api/en/textures/CubeTexture
-three.js,threejs-scene-background,`background` of the `Scene` index.html#api/en/scenes/Scene.background,https://threejs.org/docs/
-three.js,threejs-cube-texture-loader,`CubeTextureLoader` index.html#api/en/loaders/CubeTextureLoader,https://threejs.org/docs/
+three.js,threejs-scene-background,`background` of the `Scene`,https://threejs.org/docs/#Scene.background
+three.js,threejs-cube-texture-loader,`CubeTextureLoader`,https://threejs.org/docs/#CubeTextureLoader
 three.js,threejs-shader-material,documentation,https://threejs.org/docs/#api/en/materials/ShaderMaterial
 three.js,threejs-webgl-program,this page,https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
 three.js,framework-shader-helper,documentation,https://cs559.github.io/CS559-Framework23/module-shaderHelper.html
