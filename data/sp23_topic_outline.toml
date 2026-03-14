@@ -1207,7 +1207,7 @@ name = "Week 9 (4/3 - 4/7)"
     video_id = "Lecture 19B"
 
   [[weeks.topics]]
-    name = "Advanced Texturing - Sky Boes and Environment Maps"
+    name = "Advanced Texturing - Sky Boxes and Environment Maps"
     
     [[weeks.topics.video_ids]]
     video_id = "Lecture 19C"
