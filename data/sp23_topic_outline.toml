@@ -1182,6 +1182,11 @@ name = "Week 9 (4/3 - 4/7)"
     slide_id = "Lecture 19B"
 
     [[weeks.topics.concepts]]
+    name = "Real wood and light maps"
+    timestamp = "00:09:04"
+    video_id = "Lecture 19B"
+
+    [[weeks.topics.concepts]]
     name = "Layered textures"
     timestamp = "00:09:04"
     video_id = "Lecture 19B"
