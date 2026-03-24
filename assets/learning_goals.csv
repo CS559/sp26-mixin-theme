@@ -37,13 +37,15 @@ WorkbookNumber,WorkbookName,LearningGoalNumber,LearningGoalText
 5,Meshes and Textures,4,"Practice using shape, material, and texture to create appearance."
 5,Meshes and Textures,5,"Understand how local lighting is computed and used in a practical system."
 5,Meshes and Textures,6,"Understand and apply advanced texturing types."
-6,Moved,8,"Understand and apply methods for shadows in the graphics pipeline"
-7,Moved,9,"Understand the assumptions of standard graphics systems and how the standard model is provided"
-6,Shaders,1,"Understand the basic organization of graphics hardware, and how programmability fits into it."
-6,Shaders,2,Appreciate why shaders are the ways that they are and what you can do with them.
-6,Shaders,3,"Learn how the shader programming paradigm leads to specific, real implementations."
-6,Shaders,4,Be able to write shaders in a real shading language.
-6,Shaders,5,See how shaders are managed and integrated into a graphics application.
-6,Shaders,6,Understand efficiency concerns in standard graphics systems
-6,Shaders,7,Understand the differences and tradeoffs between rasterization and ray tracing
+6,Shaders,1,"Understand the fundamental challenges of discrete representations (aliasing)."
+6,Shaders,2,"Understand the key algorithsm used in interactive graphics and this leads to the pipeline model"
+6,Shaders,3,"Understand the limitations of the pipeline model in terms of performance and visual effects"
+6,Shaders,4,"Understand and apply methods such as dynamic textures and shadow maps in order to create visual effects within the rasterization model"
+6,Shaders,5,"Understand the basic organization of graphics hardware, and how programmability fits into it"
+6,Shaders,6,"Learn how the shader programming paradigm leads to specific, real implementations."
+6,Shaders,7,"Write shaders in shading languages and apply them with system interfaces"
+6,Shaders,8,"Apply key shader strategies for anti-aliasing and similar problems"
+6,Shaders,9,"Appreciate shader compositions approaches as a way to build complex shaders"
 7,Graphics Town,1,"Practice using the concepts from the semester to create an interactive graphics system"
+7,Graphics Town,2,"Apply techniques for mesh animation to create dynamic geometry that works within interactive rendering"
+7,Graphics Town3,3,"Appreciate subdivision surface"
