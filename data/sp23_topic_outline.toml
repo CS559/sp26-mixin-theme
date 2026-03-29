@@ -1749,6 +1749,7 @@ name = "Week 13 (5/1 - 5/5)"
   "Git Part A" = "https://mediaspace.wisc.edu/media/t/1_ovi963q3"
   "Git Part B" = "https://mediaspace.wisc.edu/media/t/1_yel4ct2z"
   "JS Tips" = "https://mediaspace.wisc.edu/media/t/1_vcl3ep15"
+  "pipeline22" = "https://mediaspace.wisc.edu/media/559-22-20+Lecture+20A+Drawing+in+3D+%282%29+-+The+Pipeline/1_vcr3je5u"
 
 [slide_links]
   "Lecture 1" = "https://cs559.github.io/LectureNotesPDFs/2023/01-getting-started.pdf"
@@ -1790,6 +1791,7 @@ name = "Week 13 (5/1 - 5/5)"
   "Git Part A" = "https://cs559.github.io/LectureNotesPDFs/2021/2021-git-A-git-for-workbooks-post.pdf"
   "Git Part B" = "https://cs559.github.io/LectureNotesPDFs/2021/2021-git-B-how-git-works-post.pdf"
   "JS Tips" = "https://cs559.github.io/LectureNotesPDFs/2022/00-JSTips-post.pdf"
+  "pipeline22" = "https://cs559.github.io/LectureNotesPDFs/2022/20-Pipeline-post.pdf"
 # these are the old links - kept so I can remember where to search for
 #  "Closures" = "https://canvas.wisc.edu/courses/343665/files/folder/LectureNotes-2021-Recommended?preview=30140481"
 #  "Git Part A" = "https://canvas.wisc.edu/courses/343665/files/folder/LectureNotes-2021-Recommended?preview=30140489"
