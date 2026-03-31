@@ -140,9 +140,9 @@ three.js,threejs-scene-background,`background` of the `Scene`,https://threejs.or
 three.js,threejs-cube-texture-loader,`CubeTextureLoader`,https://threejs.org/docs/#CubeTextureLoader
 three.js,threejs-shader-material,documentation,https://threejs.org/docs/#api/en/materials/ShaderMaterial
 three.js,threejs-webgl-program,this page,https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
-three.js,framework-shader-helper,documentation,https://cs559.github.io/CS559-Framework23/module-shaderHelper.html
+three.js,framework-shader-helper,documentation,https://cs559.github.io/CS559-Framework26/module-shaderHelper.html
 three.js,threejs-manual,THREE manual,https://threejs.org/manual/
-three.js,framework-documentation,Framework Documentation,https://cs559.github.io/CS559-Framework23/
+three.js,framework-documentation,Framework Documentation,https://cs559.github.io/CS559-Framework26/
 three.js,2020-framework-demos,demos,https://cs559.github.io/S20-FrameworkDemos/
 general stuff,hugo,Hugo,https://gohugo.io/
 general stuff,pla_library,Practical Linear Algebra at the UW Library,https://search.library.wisc.edu/catalog/9911163667202121
