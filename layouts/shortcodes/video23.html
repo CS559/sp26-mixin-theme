@@ -14,7 +14,7 @@
     the shortcode should build a div element that has a link to the specific time. but it should also have a link to the beginning of the lecture (naming the lecture) and a link to the slides for that lecture.
 */}}
 {{- $conceptName := .Get 0 -}}
-{{- $data := .Site.Data.sp23_topic_outline -}}
+{{- $data := hugo.sp23_topic_outline -}}
 {{- $found := false -}}
 {{- $concept := dict -}}
 {{- $videoId := "" -}}

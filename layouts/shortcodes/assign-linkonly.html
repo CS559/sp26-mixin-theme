@@ -1,4 +1,4 @@
-{{- $assign := index .Site.Data.assignments (.Get 0) -}}
+{{- $assign := index hugo.assignments (.Get 0) -}}
 {{- if $assign -}}
 {{- $assign.url -}}
 {{- else -}}

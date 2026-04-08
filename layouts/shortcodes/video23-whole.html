@@ -1,5 +1,5 @@
 {{- $id := .Get 0 -}}
-{{- $data := .Site.Data.sp23_topic_outline -}}
+{{- $data := hugo.Data.sp23_topic_outline -}}
 {{- $video := index $data.video_links $id -}}
 {{- $slides := index $data.slide_links $id -}}
 
